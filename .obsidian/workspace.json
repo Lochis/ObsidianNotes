@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2d52370ec6043e0b",
-        "type": "tabs",
-        "dimension": 65.3409090909091,
-        "children": [
-          {
-            "id": "2a2113b777d1fa07",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2024-Jul-26-Grocery.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "50eb2141eb3701b5",
         "type": "tabs",
-        "dimension": 34.659090909090914,
         "children": [
           {
             "id": "71d982161b8926b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-Jul-26-Grocery.pdf",
+                "file": "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-Jul-26-Grocery.pdf",
+                "file": "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-Jul-26-Grocery.pdf"
+                "file": "Personal/QuickNotes/2024-Jul-29-What-to-do.md"
               }
             }
           }
@@ -161,14 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c771ed65f71c5b4",
+  "active": "71d982161b8926b4",
   "lastOpenFiles": [
+    "Personal/QuickNotes/2024-Jul-26-Grocery.md",
+    "2024-Jul-26-Grocery.pdf",
     "New Text Document.txt",
     "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
     "Ami Chatbot/Ami-Chatbot.md",
     "Ami Chatbot/Ami-Chatbot.md~",
-    "Personal/QuickNotes/2024-Jul-26-Grocery.md",
-    "2024-Jul-26-Grocery.pdf",
     "test.md",
     "Personal/QuickNotes",
     "Personal",
