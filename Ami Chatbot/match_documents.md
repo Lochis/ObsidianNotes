@@ -7,7 +7,7 @@ tags: []
 
 # match_documents SQL function for vector similarity search
 
-```
+``` sql
 create or replace function match_documents(
   query_embedding vector(768),
   match_count int,
