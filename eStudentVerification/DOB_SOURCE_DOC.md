@@ -7,9 +7,9 @@ tags: []
 
 # DOB_SOURCE_DOC enums
 
-``` C#
+```C#
  public enum DOB_SOURCE_DOC
- {   
+ {
 
      [Description("Birth Certificate")]
      Birth_Certificate = 1,
@@ -68,5 +68,7 @@ tags: []
 
  }
 ```
+
 ```
+
 ```
