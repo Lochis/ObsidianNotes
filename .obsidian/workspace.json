@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
-                "mode": "preview",
+                "file": "eStudentVerification/AspenExport.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "eStudentVerification/AspenExport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "eStudentVerification/AspenExport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md"
+                "file": "eStudentVerification/AspenExport.md"
               }
             }
           }
@@ -147,14 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c771ed65f71c5b4",
+  "active": "71d982161b8926b4",
   "lastOpenFiles": [
-    "Ami Chatbot/Ami-Chatbot.md",
-    "eStudentVerification/Untitled.md",
-    "Ami Chatbot/match_documents.md",
     "Personal/QuickNotes/2024-Jul-26-Grocery.md",
-    "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
+    "eStudentVerification/AspenExport.md",
+    "eStudentVerification/AspenExport.md~",
+    "eStudentVerification/4913",
     "2024-Jul-26-Grocery.pdf",
+    "Ami Chatbot/Ami-Chatbot.md",
+    "Ami Chatbot/match_documents.md",
+    "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
     "New Text Document.txt",
     "Ami Chatbot/Ami-Chatbot.md~",
     "test.md",
@@ -165,7 +167,6 @@
     "Ami-Chatbot.md~",
     "2024-07-25.md",
     "Instances.vantages.sh - Site for comparing",
-    "16_AMDSB Vulnerability and Patch",
     "Welcome.md",
     "create a link.md",
     "1721850663-PAGS.md"
