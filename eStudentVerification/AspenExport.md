@@ -13,9 +13,9 @@ tags: []
 2. Access to Records?
 3. Lives with? - _Can be used for calculation of **LIVING_WITH** field_
 
-| Column Name          | Aspen Table     | Field Name                                               |
-| -------------------- | --------------- | -------------------------------------------------------- | --------------------------- |
-| STUDENT_NUMBER       | Student         | stdIDLocal                                               |
+| Column Name          | Aspen Table     | Field Name                                               | Notes                    |
+| -------------------- | --------------- | -------------------------------------------------------- | ------------------------ |
+| STUDENT_NUMBER       | Student         | stdIDLocal                                               |                          |
 | STATE_STUDENT_NUMBER | Student         | stdIDState                                               |
 | STUDENTPERS_GUID     | Student         | stdGUID                                                  |
 | SCHOOLID             | School          | schoolID -> mapped -> numbered id in DB                  |
@@ -26,7 +26,7 @@ tags: []
 | LEGAL_FIRST_NAME     | Person          | psnFieldB002                                             |
 | DOB                  | Person          | psnDob                                                   |
 | DOB_SOURCE_DOC       | Person          | [DocSourceEnums](eStudentVerification/DOB_SOURCE_DOC.md) |
-| CUSTODY              | Student_Contact | ctjFieldA004                                             | -- **Might not be needed.** |
+| CUSTODY              | Student_Contact | ctjFieldA004                                             | **Might not be needed.** |
 | COURT_ORDER          | **Unknown**     | **Unknown**                                              |
 | LEGAL_MIDDLE_NAME    | Person          | psnFieldB002                                             |
 | LEGAL_MIDDLE_NAME    | Person          | psnFieldB002                                             |
