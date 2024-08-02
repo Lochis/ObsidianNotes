@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eStudentVerification/AspenExport.md",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 678.5
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eStudentVerification/AspenExport.md",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eStudentVerification/AspenExport.md",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eStudentVerification/AspenExport.md"
+                "file": "Ami Chatbot/Ami-Chatbot.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "71d982161b8926b4",
   "lastOpenFiles": [
-    "Personal/QuickNotes/2024-Jul-26-Grocery.md",
     "eStudentVerification/AspenExport.md",
+    "Personal/QuickNotes/2024-Jul-26-Grocery.md",
     "eStudentVerification/AspenExport.md~",
     "eStudentVerification/4913",
     "2024-Jul-26-Grocery.pdf",

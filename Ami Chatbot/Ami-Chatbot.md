@@ -6,9 +6,9 @@ tags: []
 obsius: https://obsius.site/6o343f6t6e435s5i5n5a
 ---
 
-> [!WARNING] Potential Issues
+> [!WARNING]
 > Web scraping [AMDSB Polices and Procedures web page](https://www.amdsb.ca/apps/pages/policiesprocedures)
-> edlio, our website provider, has Cloudflare anti-web scraping enabled on our AP URLs.
+> edlio, our website provider, has Cloudflare anti-web scraping enabled on our Admin Procedure URLs.
 > May need to download every AP manually, and map out the links separately.
 
 > [!TODO]
@@ -30,7 +30,9 @@ These files may expose too much contact information such as Jason, Andrea, Kenne
 
 ## 1. Physical Server
 
-> [!IMPORTANT] 1, singular, decent machine, estimated pricing.
+> [!NOTE]
+>
+> ## 1, singular, decent machine, estimated pricing.
 >
 > CPU: A high-performance multi-core processor, such as an Intel Xeon or AMD EPYC server CPU.
 > Estimated cost: $2,000 - $5,000
@@ -68,7 +70,9 @@ These files may expose too much contact information such as Jason, Andrea, Kenne
 > - This means, as a test / first adoption of AI chatbot, one machine would work.
 >   - However, as more use cases and more data is supplied to the chatbot, the more processing power it needs to fulfill the same response times.
 
-> [!info] If this is the path taken, there are topics needed to be handled.
+> [!important]
+>
+> ## If this is the path taken, there are topics needed to be handled.
 >
 > 1. Load balancing.
 >
@@ -117,7 +121,9 @@ docker compose up -d
 
 ### <u>AWS Solution</u>
 
-> [!info] Starting out, the entry level AWS EC2 instance is [g4dn.xlarge](https://instances.vantage.sh/aws/ec2/g4dn.xlarge)
+> [!TIP]
+>
+> ## Starting out, the entry level AWS EC2 instance is [g4dn.xlarge](https://instances.vantage.sh/aws/ec2/g4dn.xlarge)
 >
 > - It offers 1 Nvidia Tensor Code (16GBs of VRAM), 16GBs of RAM, and 4 vCPUs.
 > - The On Demand pricing is $0.5840USD per hour ($426.32 per month/ $5115.84USD per year)
@@ -133,13 +139,19 @@ The [g4dn.12xlarge](https://instances.vantage.sh/aws/ec2/g4dn.12xlarge?region=ca
 
 ### <u>Azure Solution</u>
 
-> [!info] Starting out, entry level Azure VM is the NC4as T4 v3
+> [!TIP]
+>
+> ## Starting out, entry level Azure VM is the NC4as T4 v3
 >
 > - This is similar to the AWS g4dn.xlarge instance.
 > - Offers the a T4 GPU, 16GB of VRAM, 28GBs of RAM, and 4 vCPUs
 
 ### <u>Other Solutions:</u>
 
-> #### [LambdaLabs](https://lambdalabs.com/)
+#### [LambdaLabs](https://lambdalabs.com/)
 
-> #### [Vast](https://vast.ai/)
+#### [Vast](https://vast.ai/)
+
+```
+
+```
