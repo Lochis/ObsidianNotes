@@ -151,7 +151,3 @@ The [g4dn.12xlarge](https://instances.vantage.sh/aws/ec2/g4dn.12xlarge?region=ca
 #### [LambdaLabs](https://lambdalabs.com/)
 
 #### [Vast](https://vast.ai/)
-
-```
-
-```
