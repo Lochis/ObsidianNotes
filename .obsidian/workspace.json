@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-02.md",
-                "mode": "source",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 678.5
+    "width": 337.5
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-02.md",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-02.md",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-02.md"
+                "file": "Ami Chatbot/Ami-Chatbot.md"
               }
             }
           }
@@ -147,27 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71d982161b8926b4",
+  "active": "9c771ed65f71c5b4",
   "lastOpenFiles": [
-    "Ami Chatbot/Ami-Chatbot.md",
+    "_Ami Chatbot/PhysicalServer.html",
+    "_Ami Chatbot/match_documents.html",
+    "_Ami Chatbot/CloudHosting.html",
+    "_Ami Chatbot/contents.json",
+    "_Ami Chatbot/Ami-Chatbot.html",
+    "_Ami Chatbot",
+    "Ami Chatbot/_Ami Chatbot/PhysicalServer.html",
+    "Ami Chatbot/_Ami Chatbot/contents.json",
+    "Ami Chatbot/_Ami Chatbot/match_documents.html",
+    "Ami Chatbot/_Ami Chatbot/CloudHosting.html",
+    "Ami Chatbot/_Ami Chatbot/Ami-Chatbot.html",
+    "_Ami Chatbot/PhysicalServer.md",
+    "_Ami Chatbot/match_documents.md",
+    "_Ami Chatbot/CloudHosting.md",
+    "_Ami Chatbot/Ami-Chatbot.md",
+    "Ami Chatbot/CloudHosting.md",
+    "Ami Chatbot/PhysicalServer.md",
     "2024-08-02.md",
+    "Ami Chatbot/Ami-Chatbot.md",
     "eStudentVerification/AspenExport.md",
     "Personal/QuickNotes/2024-Jul-26-Grocery.md",
-    "eStudentVerification/AspenExport.md~",
-    "eStudentVerification/4913",
-    "2024-Jul-26-Grocery.pdf",
     "Ami Chatbot/match_documents.md",
     "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
-    "New Text Document.txt",
-    "Ami Chatbot/Ami-Chatbot.md~",
     "test.md",
-    "Personal/QuickNotes",
-    "Personal",
     "Ami-Chatbot.md",
-    "Ami Chatbot",
-    "Ami-Chatbot.md~",
     "2024-07-25.md",
-    "Instances.vantages.sh - Site for comparing",
     "Welcome.md",
     "create a link.md",
     "1721850663-PAGS.md"
