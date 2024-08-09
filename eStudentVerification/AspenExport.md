@@ -16,4 +16,13 @@ tags: []
 ## Questions to Ask DCDSB:
 
 1. How would you handle Mother, parent rel when there is no mother on contact
-2. Hashing, how is the parent table populated
+2. Hashing, how is the parent table populated with hash?
+3. Fields:
+
+   - PARENT1_EDSBYACC
+   - PARENT_1_CONTACT
+   - PARENT_1_WILLING
+   - PARENT_1_COPY
+   - PARENT1_EXCLUDEVF
+
+   ***
