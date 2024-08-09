@@ -19,7 +19,7 @@ obsius: https://obsius.site/6o343f6t6e435s5i5n5a
 > - [ ] Flush out the `System Template` for Ami to reply with better information on paths and links
 
 > [!IMPORTANT] Code/ SQL queries
-> [Chat History Delete old chats](ChatHistory.md)
+> [Chat History](ChatHistory.md)
 
 > [!Warning]- Files that may not want to be given to the AI
 > These files may expose too much contact information such as Jason, Andrea, Kenneth, Jane, Lisa Walsh's (old) phone numbers, etc.

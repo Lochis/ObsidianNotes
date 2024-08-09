@@ -14,3 +14,9 @@ select cron.alter_job(
   schedule := '0 */3 * * *'
 );
 ```
+
+SQL to look at all cron jobs
+
+```sql
+select * from cron.job;
+```
