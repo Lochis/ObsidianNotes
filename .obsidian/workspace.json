@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "2024-08-09.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ami Chatbot/PhysicalServer.md",
+                "file": "2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ami Chatbot/PhysicalServer.md",
+                "file": "2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ami Chatbot/PhysicalServer.md"
+                "file": "2024-08-09.md"
               }
             }
           }
@@ -176,8 +176,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 830,
-        "y": 892,
+        "x": 866,
+        "y": 529,
         "width": 900,
         "height": 500,
         "maximize": false,
@@ -185,8 +185,11 @@
       }
     ]
   },
-  "active": "1f0152319491d020",
+  "active": "71d982161b8926b4",
   "lastOpenFiles": [
+    "2024-08-09.md~",
+    "Ami Chatbot/PhysicalServer.md",
+    "2024-08-09.md",
     "Ami Chatbot/CloudHosting.md",
     "Ami Chatbot/Ami-Chatbot.md",
     "ami",
@@ -203,7 +206,6 @@
     "_Ami Chatbot",
     "template.html~",
     "template.html",
-    "Ami Chatbot/PhysicalServer.md",
     "2024-08-02.md",
     "eStudentVerification/AspenExport.md",
     "Personal/QuickNotes/2024-Jul-26-Grocery.md",
