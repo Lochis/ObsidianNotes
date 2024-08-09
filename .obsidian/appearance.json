@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#418d3f",
   "enabledCssSnippets": [
     "pdf"
   ],
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "baseFontSize": 18
 }

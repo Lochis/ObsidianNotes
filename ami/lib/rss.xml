@@ -1,0 +1,136 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MasterVault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>MasterVault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 05 Aug 2024 20:00:02 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 05 Aug 2024 20:00:01 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Ami-Chatbot]]></title><description><![CDATA[ 
+ <br>Warning
+Web scraping <a data-tooltip-position="top" aria-label="https://www.amdsb.ca/apps/pages/policiesprocedures" rel="noopener" class="external-link" href="https://www.amdsb.ca/apps/pages/policiesprocedures" target="_blank">AMDSB Polices and Procedures web page</a><br>
+edlio, our website provider, has Cloudflare anti-web scraping enabled on our Admin Procedure URLs.<br>
+May need to download every AP manually, and map out the links separately.
+<br>Todo
+
+<br>Map out link paths of The Core Navigation bar
+<br>Figure out how AMDSB main website and school sites would be scraped
+<br>Flush out the System Template for Ami to reply with better information on paths and links
+
+<br><br>These files may expose too much contact information such as Jason, Andrea, Kenneth, Jane, Lisa Walsh's (old) phone numbers, etc.<br>Under <a data-tooltip-position="top" aria-label="https://amdsb.sharepoint.com/sites/Info/SSS/Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2FInfo%2FSSS%2FDocuments%2FForms%2FAllItems%2Easpx&amp;id=%2Fsites%2FInfo%2FSSS%2FDocuments%2FIT%20Information%20%26%20Resources%2FIT%20Guidelines&amp;viewid=67b932a0%2Dcd43%2D4b96%2Db390%2Da8f723df8543" rel="noopener" class="external-link" href="https://amdsb.sharepoint.com/sites/Info/SSS/Documents/Forms/AllItems.aspx?viewpath=%2Fsites%2FInfo%2FSSS%2FDocuments%2FForms%2FAllItems%2Easpx&amp;id=%2Fsites%2FInfo%2FSSS%2FDocuments%2FIT%20Information%20%26%20Resources%2FIT%20Guidelines&amp;viewid=67b932a0%2Dcd43%2D4b96%2Db390%2Da8f723df8543" target="_blank">IT Guidelines</a><br>
+<br><a data-tooltip-position="top" aria-label="https://amdsb.sharepoint.com/:b:/r/sites/Info/SSS/Documents/IT%20Information%20%26%20Resources/IT%20Guidelines/15_AMDSB%20Cyber%20Incident%20Reponse%20Plan.pdf?csf=1&amp;web=1&amp;e=g2jRie" rel="noopener" class="external-link" href="https://amdsb.sharepoint.com/:b:/r/sites/Info/SSS/Documents/IT%20Information%20%26%20Resources/IT%20Guidelines/15_AMDSB%20Cyber%20Incident%20Reponse%20Plan.pdf?csf=1&amp;web=1&amp;e=g2jRie" target="_blank">15_AMDSB Cyber Incident Repsonse plan</a>
+<br><a data-tooltip-position="top" aria-label="https://amdsb.sharepoint.com/:b:/r/sites/Info/SSS/Documents/IT%20Information%20%26%20Resources/IT%20Guidelines/16_AMDSB%20Vulnerability%20and%20Patch%20Management%20Guidelines.pdf?csf=1&amp;web=1&amp;e=i4Rq8a" rel="noopener" class="external-link" href="https://amdsb.sharepoint.com/:b:/r/sites/Info/SSS/Documents/IT%20Information%20%26%20Resources/IT%20Guidelines/16_AMDSB%20Vulnerability%20and%20Patch%20Management%20Guidelines.pdf?csf=1&amp;web=1&amp;e=i4Rq8a" target="_blank">16_AMDSB Vulnerability and Patch Management</a>
+<br><a data-tooltip-position="top" aria-label="https://amdsb.sharepoint.com/:b:/r/sites/Info/SSS/Documents/IT%20Information%20%26%20Resources/IT%20Guidelines/17_AMDSB%20Disaster%20Recovery%20Plan.pdf?csf=1&amp;web=1&amp;e=CBewQd" rel="noopener" class="external-link" href="https://amdsb.sharepoint.com/:b:/r/sites/Info/SSS/Documents/IT%20Information%20%26%20Resources/IT%20Guidelines/17_AMDSB%20Disaster%20Recovery%20Plan.pdf?csf=1&amp;web=1&amp;e=CBewQd" target="_blank">17_AMDSB Disaster Recovery Plan</a>
+<br><br>
+<br><a class="internal-link" data-href="PhysicalServer.md" href="Ami Chatbot\PhysicalServer.html" target="_self" rel="noopener">Physical Server</a>
+<br><a class="internal-link" data-href="CloudHosting.md" href="Ami Chatbot\CloudHosting.html" target="_self" rel="noopener">Cloud Hosting</a>
+<br><br><br>Due to the cost of Cloud Hosting overtime, but it's advantages to scale up and down during initial testing:<br><br>
+<br>Scale up and down testing out dozens of people sending in prompts and check the time to respond and usage resources.
+<br>Technically, hundreds of people could be using Ami at a single time and scaling to the needed amount of instances/ GPUs is imperative for adequate up-time.
+<br><br>
+<br>This is more cost effective in the long run. (2+ years)
+<br>One physical machine could be enough if it is powerful enough. (enough VRAM, decent CPU, enough RAM)
+<br>The vector database could run off of the one machine that has enough ram. A VM could suffice with current estimates.
+<br><br>One powerful machine would be slower than two slightly slower machines.<br>
+<br>This is because one GPU can only, realistically, send one response at a time.
+<br>e.g. 1 x 24GB VRAM 4090 vs 2 x 16GB VRAM 3080s
+]]></description><link>Ami Chatbot\Ami-Chatbot.html</link><guid isPermaLink="false">Ami Chatbot/Ami-Chatbot.md</guid><pubDate>Mon, 05 Aug 2024 19:52:06 GMT</pubDate></item><item><title><![CDATA[CloudHosting]]></title><description><![CDATA[ 
+ <br><br><a data-tooltip-position="top" aria-label="https://instances.vantage.sh/" rel="noopener" class="external-link" href="https://instances.vantage.sh/" target="_blank">Instances.vantages.sh - Site for comparing/ looking at instances quickly</a><br><br><br>
+<br>Overtime this will cost more money
+<br><br>
+<br>Scaling if needed is simple and can be automatic
+<br><br><br>Tip
+
+
+<br>It offers 1 Nvidia Tensor Code (16GBs of VRAM), 16GBs of RAM, and 4 vCPUs.
+<br>The On Demand pricing is $0.5840USD per hour ($426.32 per month/ $5115.84USD per year)
+<br>The 1 Year reserve is $0.3680USD per hour ($268.64USD per month/ $3223.68USD per year)
+
+<br>The <a data-tooltip-position="top" aria-label="https://instances.vantage.sh/aws/ec2/g4dn.12xlarge?region=ca-central-1&amp;os=linux&amp;cost_duration=annually&amp;reserved_term=Standard.noUpfront" rel="noopener" class="external-link" href="https://instances.vantage.sh/aws/ec2/g4dn.12xlarge?region=ca-central-1&amp;os=linux&amp;cost_duration=annually&amp;reserved_term=Standard.noUpfront" target="_blank">g4dn.12xlarge</a> offers considerable more power.<br>
+<br>It offers 4 of the same GPUs, 192GBs of RAM, and 48 vCPUs
+<br>On Demand pricing is $38,044USD per year
+<br>1 year reserved is $23,967USD per year
+<br><br><br>Tip
+
+
+<br>This is similar to the AWS g4dn.xlarge instance.
+<br>Offers the a T4 GPU, 16GB of VRAM, 28GBs of RAM, and 4 vCPUs
+
+<br><br><br>]]></description><link>Ami Chatbot\CloudHosting.html</link><guid isPermaLink="false">Ami Chatbot/CloudHosting.md</guid><pubDate>Mon, 05 Aug 2024 19:46:25 GMT</pubDate></item><item><title><![CDATA[match_documents SQL function for vector similarity search]]></title><description><![CDATA[ 
+ <br><br>create or replace function match_documents(
+  query_embedding vector(768),
+  match_count int,
+  filter jsonb default '{}'
+)
+returns table (
+  id integer,
+  content text,
+  metadata jsonb,
+  similarity float
+)
+language plpgsql
+as $$
+begin
+  return query
+  select
+    documents.id,
+    documents.content,
+    documents.metadata,
+    1 - (documents.embedding &lt;=&gt; query_embedding) as similarity
+  from documents
+  where (filter = '{}' or documents.metadata @&gt; filter)
+  order by documents.embedding &lt;=&gt; query_embedding
+  limit match_count;
+end;
+$$
+;
+
+-- Grant necessary permissions
+grant execute on function match_documents(vector(768), int, jsonb) to authenticated, anon, service_role;
+Copy]]></description><link>Ami Chatbot\match_documents.html</link><guid isPermaLink="false">Ami Chatbot/match_documents.md</guid><pubDate>Mon, 29 Jul 2024 20:43:33 GMT</pubDate></item><item><title><![CDATA[Physical Server]]></title><description><![CDATA[ 
+ <br><br>Note
+
+CPU: A high-performance multi-core processor, such as an Intel Xeon or AMD EPYC server CPU.<br>
+Estimated cost: $2,000 - $5,000
+
+RAM: At least 128GB to 256GB of RAM to handle multiple concurrent sessions.<br>
+Estimated cost: $1,000 - $2,000
+
+GPU: A powerful GPU for AI model inference, such as an NVIDIA A100 or A6000.<br>
+Estimated cost: $5,000 - $10,000
+
+Storage: Fast SSD storage, at least 1TB-2TB for the operating system, AI models, and data.<br>
+Estimated cost: $500 - $1,000
+
+Server chassis and power supply<br>
+Estimated cost: $1,000 - $2,000
+
+Total hardware cost estimate: $9,500 - $20,000
+<br><br>Warning
+My estimate is that this would be fine for up to 100 people at a time. There would be delay.<br>
+More people = More delay in response as people would be queued up for the next chance the gpu can process the request.
+
+<br>This means, as a test / first adoption of AI chatbot, one machine would work.
+
+<br>However, as more use cases and more data is supplied to the chatbot, the more processing power it needs to fulfill the same response times.
+
+
+
+<br>Important
+
+
+<br>Load balancing.
+
+
+<br>If there are multiple machines running the back-end for the chatbot, load balancing will be necessary in order to queue requests
+
+
+<br>Linux is the quickest and most cost effective OS.
+
+
+<br>Can we handle this with our current security tech stack?
+
+<br>Current docker location: Directory: C:\Users\Lochis\ami-chatbot-db-supabase\supabase\docker<br>Self-hosting Vector DB: Supabase<br>
+<br><a data-tooltip-position="top" aria-label="https://supabase.com/docs/guides/self-hosting/docker" rel="noopener" class="external-link" href="https://supabase.com/docs/guides/self-hosting/docker" target="_blank">Instructions</a>
+<br># Stop and remove the containers
+
+docker compose down
+
+# Recreate and start the containers
+
+docker compose up -d
+Copy<br><a class="internal-link" data-href="match_documents.md" href="Ami Chatbot\match_documents.html" target="_self" rel="noopener">match_documents SQL function for vector similarity search</a><br>Important
+Make sure to enable extension: Vector in the Public Schema
+]]></description><link>Ami Chatbot\PhysicalServer.html</link><guid isPermaLink="false">Ami Chatbot/PhysicalServer.md</guid><pubDate>Mon, 05 Aug 2024 18:06:50 GMT</pubDate></item></channel></rss>
