@@ -22,11 +22,12 @@ tags: []
 
 1. How would you handle Mother, parent rel when there is no mother on contact
 2. Hashing, how is the parent table populated with hash?
-3. Very confused by column naming. MOTHER, PARENT1, back to MOTHER, back to PARENT 1
+3. Maybe change schoolid's to BSID or Shortcode
+4. Very confused by column naming. MOTHER, PARENT1, back to MOTHER, back to PARENT 1
 
    - Need to get clarification on the specifics of which column goes where.
 
-4. Fields:
+5. Fields:
 
    - PARENT1_EDSBYACC
    - PARENT_1_CONTACT
