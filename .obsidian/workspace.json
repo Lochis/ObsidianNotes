@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-09.md",
+                "file": "Personal/QuickNotes/2024-Aug-10-Grocery.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-09.md",
+                "file": "Personal/QuickNotes/2024-Aug-10-Grocery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-09.md",
+                "file": "Personal/QuickNotes/2024-Aug-10-Grocery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-09.md"
+                "file": "Personal/QuickNotes/2024-Aug-10-Grocery.md"
               }
             }
           }
@@ -148,47 +148,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "3b75b95f5f838b4a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1881284dbdedabd2",
-        "type": "window",
-        "children": [
-          {
-            "id": "ae5e2b2161f291ab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1f0152319491d020",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ami Chatbot/PhysicalServer.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 866,
-        "y": 529,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "71d982161b8926b4",
   "lastOpenFiles": [
-    "2024-08-09.md~",
+    "Personal/QuickNotes/2024-08-10-Grocery.md",
+    "Personal/QuickNotes/2024-Aug-10-Grocery.md",
+    "Personal/QuickNotes/2024-Jul-26-Grocery.md",
+    "2024-Aug-10-Grocery.md~",
+    "Personal/QuickNotes/2024-08-10-Grocery.md~",
     "Ami Chatbot/PhysicalServer.md",
+    "2024-08-09.md~",
     "2024-08-09.md",
     "Ami Chatbot/CloudHosting.md",
     "Ami Chatbot/Ami-Chatbot.md",
@@ -203,12 +171,8 @@
     "_Ami Chatbot/match_documents.md",
     "_Ami Chatbot/CloudHosting.md",
     "_Ami Chatbot/Ami-Chatbot.md",
-    "_Ami Chatbot",
-    "template.html~",
-    "template.html",
     "2024-08-02.md",
     "eStudentVerification/AspenExport.md",
-    "Personal/QuickNotes/2024-Jul-26-Grocery.md",
     "Ami Chatbot/match_documents.md",
     "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
     "test.md",
