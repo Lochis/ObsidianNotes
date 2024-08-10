@@ -33,3 +33,7 @@ select * from cron.job;
 >
 > 4. Take question to be query vector database/ retriever
 > 5. Finish with final call to llm to get the answer.
+>
+> ** Got somewhere. It sometimes will be able to get past conversations.**
+> The thing is that currently its a give and take... I can have history but bad replies.
+> The system_template is having issues actually going into action when the chat history is in action and vice versa.
