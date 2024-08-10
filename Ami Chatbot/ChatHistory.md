@@ -20,3 +20,16 @@ SQL to look at all cron jobs
 ```sql
 select * from cron.job;
 ```
+
+## I am having an issue with incorporating Chat History/ Contextual responses.
+
+> [!IMPORTANT] I believe the order needs to be like so:
+>
+> 1. prompt comes in from user
+> 2. Reformat prompt to be more AI friendly
+> 3. Send reformatted prompt to llm with chat History
+>
+>    - which will return another formatted prompt/ question
+>
+> 4. Take question to be query vector database/ retriever
+> 5. Finish with final call to llm to get the answer.
