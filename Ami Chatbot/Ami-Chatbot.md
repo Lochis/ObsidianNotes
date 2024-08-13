@@ -6,6 +6,9 @@ tags: []
 obsius: https://obsius.site/6o343f6t6e435s5i5n5a
 ---
 
+**Button that can email auth'd user current chat**
+
+
 > [!WARNING]
 >
 > Web scraping [AMDSB Polices and Procedures web page](https://www.amdsb.ca/apps/pages/policiesprocedures)

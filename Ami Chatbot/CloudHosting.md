@@ -27,7 +27,7 @@ tags: []
 >
 > ## Starting out, the entry level AWS EC2 instance is [g4dn.xlarge](https://instances.vantage.sh/aws/ec2/g4dn.xlarge)
 >
-> - It offers 1 Nvidia Tensor Code (16GBs of VRAM), 16GBs of RAM, and 4 vCPUs.
+> - It offers 1 Nvidia Tensor Core (16GBs of VRAM), 16GBs of RAM, and 4 vCPUs.
 > - The On Demand pricing is $0.5840USD per hour ($426.32 per month/ $5115.84USD per year)
 > - The 1 Year reserve is $0.3680USD per hour ($268.64USD per month/ $3223.68USD per year)
 

@@ -30,7 +30,7 @@
   "authorName": "",
   "vaultTitle": "MasterVault",
   "exportPreset": "documents",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,8 +43,10 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\Lochis\\vaults\\MasterVault\\ami",
+  "exportPath": "/home/lucas/Documents/vaults/MasterVault",
   "filesToExport": [
-    []
+    [
+      "ami"
+    ]
   ]
 }

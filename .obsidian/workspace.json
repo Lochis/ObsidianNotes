@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eStudentVerification/AspenExport.md",
+                "file": "Ami Chatbot/CloudHosting.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eStudentVerification/AspenExport.md",
+                "file": "Ami Chatbot/CloudHosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eStudentVerification/AspenExport.md",
+                "file": "Ami Chatbot/CloudHosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eStudentVerification/AspenExport.md"
+                "file": "Ami Chatbot/CloudHosting.md"
               }
             }
           }
@@ -150,32 +150,34 @@
   },
   "active": "71d982161b8926b4",
   "lastOpenFiles": [
+    "Ami Chatbot/ChatHistory.md",
+    "Ami Chatbot/Ami-Chatbot.md",
+    "lib/metadata.json",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/media",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "eStudentVerification/AspenExport.md",
     "Ami Chatbot/match_documents.md",
     "Ami Chatbot/PhysicalServer.md",
     "Ami Chatbot/CloudHosting.md",
-    "Ami Chatbot/ChatHistory.md",
-    "Ami Chatbot/Ami-Chatbot.md",
     "Personal/QuickNotes/2024-Aug-10-Grocery.md",
     "Contextual responses/1723260256-RKWM.md",
     "Personal/QuickNotes/2024-08-10-Grocery.md",
     "Personal/QuickNotes/2024-Jul-26-Grocery.md",
-    "2024-Aug-10-Grocery.md~",
-    "Personal/QuickNotes/2024-08-10-Grocery.md~",
-    "2024-08-09.md~",
     "2024-08-09.md",
-    "ami",
-    "New folder",
-    "_Ami Chatbot/contents.json",
-    "_Ami Chatbot/match_documents.html",
-    "_Ami Chatbot/PhysicalServer.html",
-    "_Ami Chatbot/CloudHosting.html",
-    "_Ami Chatbot/Ami-Chatbot.html",
     "_Ami Chatbot/PhysicalServer.md",
     "_Ami Chatbot/match_documents.md",
     "_Ami Chatbot/CloudHosting.md",
     "_Ami Chatbot/Ami-Chatbot.md",
     "2024-08-02.md",
-    "eStudentVerification/AspenExport.md",
     "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
     "test.md",
     "Ami-Chatbot.md",
