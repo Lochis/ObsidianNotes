@@ -20,6 +20,17 @@ tags: []
 > Figure out if it is feasible, time wise to make modifications to db
 > Specifically, changing MOTHER and FATHER columns to just be
 > contact 1 and contact 2 columns as that is what the respective succeeding tables are for.
+> - Allow students from Active Directory to populate **LogUser**'s 
+> 	- Figure out if it is feasible to authenticate all students with active directory or if there is any reason that a new student?! might not be able to authenticate.
+
+
+StudentExtract comes from Powerschool, then URL_Extract column is generated using the setup.sql script
+- Symmetric field
+
+StudentExtractCopy is created when a parent is logged in
+
+StudentExtractPS is used for uploading info into PowerSchool
+
 
 > [!IMPORTANT]- Questions to Ask DCDSB:
 >
