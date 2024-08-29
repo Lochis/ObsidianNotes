@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "Clever/Acadience.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "Clever/Acadience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "Clever/Acadience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md"
+                "file": "Clever/Acadience.md"
               }
             }
           }
@@ -150,12 +150,18 @@
   },
   "active": "71d982161b8926b4",
   "lastOpenFiles": [
+    "Ami Chatbot/Ami-Chatbot.md",
+    "PRISM/2024-08-28.md",
+    "Clever/Acadience.md",
+    "PRISM",
+    "New folder",
+    "eStudentVerification/AspenExport.md",
+    "eStudentVerification/DOB_SOURCE_DOC.md",
+    "Clever",
     "Ami Chatbot/PhysicalServer.md",
     "Ami Chatbot/match_documents.md",
     "Ami Chatbot/ChatHistory.md",
     "Ami Chatbot/CloudHosting.md",
-    "Ami Chatbot/Ami-Chatbot.md",
-    "eStudentVerification/AspenExport.md",
     "Personal/QuickNotes/2024-Aug-10-Grocery.md",
     "Personal/QuickNotes/2024-08-10-Grocery.md",
     "Personal/QuickNotes/2024-Jul-26-Grocery.md",
@@ -164,12 +170,9 @@
     "2024-08-09.md~",
     "2024-08-09.md",
     "ami",
-    "New folder",
     "_Ami Chatbot/contents.json",
     "_Ami Chatbot/match_documents.html",
     "_Ami Chatbot/PhysicalServer.html",
-    "_Ami Chatbot/CloudHosting.html",
-    "_Ami Chatbot/Ami-Chatbot.html",
     "_Ami Chatbot/PhysicalServer.md",
     "_Ami Chatbot/match_documents.md",
     "_Ami Chatbot/CloudHosting.md",
