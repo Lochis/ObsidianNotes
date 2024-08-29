@@ -4,7 +4,5 @@ Clevr != Clever
 
 Ottawa Carleton DSB has Aspen scripts for exports
 
-Reach out to acadience when integration requested from Clever
-
-
+Reach out to Acadience when integration requested from Clever
 
