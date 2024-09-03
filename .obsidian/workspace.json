@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clever/Acadience.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clever/Acadience.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clever/Acadience.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clever/Acadience.md"
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,14 +150,22 @@
   },
   "active": "71d982161b8926b4",
   "lastOpenFiles": [
-    "Ami Chatbot/Ami-Chatbot.md",
+    "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md~",
     "PRISM/2024-08-28.md",
+    "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
     "Clever/Acadience.md",
-    "PRISM",
-    "New folder",
+    "Centennial/Term 1",
+    "Centennial/Term 1/GNED137 - A Wellness Approach",
+    "Centennial/Term 1/COMP213 - Web Interface Design",
+    "Centennial/Term 1/COMP120 - Software Engineering Fundamentals",
+    "Centennial/Term 1/COMM170 - College Communications 2",
+    "Centennial/Term 1/COMP100 - Programming 1",
+    "Centennial/Term 1/MATH175 - Functions & Number Systems",
+    "Centennial",
     "eStudentVerification/AspenExport.md",
+    "Ami Chatbot/Ami-Chatbot.md",
+    "PRISM",
     "eStudentVerification/DOB_SOURCE_DOC.md",
-    "Clever",
     "Ami Chatbot/PhysicalServer.md",
     "Ami Chatbot/match_documents.md",
     "Ami Chatbot/ChatHistory.md",
@@ -164,14 +173,7 @@
     "Personal/QuickNotes/2024-Aug-10-Grocery.md",
     "Personal/QuickNotes/2024-08-10-Grocery.md",
     "Personal/QuickNotes/2024-Jul-26-Grocery.md",
-    "2024-Aug-10-Grocery.md~",
-    "Personal/QuickNotes/2024-08-10-Grocery.md~",
-    "2024-08-09.md~",
     "2024-08-09.md",
-    "ami",
-    "_Ami Chatbot/contents.json",
-    "_Ami Chatbot/match_documents.html",
-    "_Ami Chatbot/PhysicalServer.html",
     "_Ami Chatbot/PhysicalServer.md",
     "_Ami Chatbot/match_documents.md",
     "_Ami Chatbot/CloudHosting.md",
@@ -182,7 +184,6 @@
     "Ami-Chatbot.md",
     "2024-07-25.md",
     "Welcome.md",
-    "create a link.md",
-    "1721850663-PAGS.md"
+    "create a link.md"
   ]
 }
