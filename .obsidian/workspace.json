@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
+                "file": "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
+                "file": "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
+                "file": "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md"
+                "file": "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md"
               }
             }
           }
@@ -150,9 +150,11 @@
   },
   "active": "71d982161b8926b4",
   "lastOpenFiles": [
+    "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals",
     "Centennial/Term 1/COMP100 - Programming 1/Courses - Assignments - Quizzes.md",
     "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
-    "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
     "Clever/Acadience.md",
     "Centennial/Term 1/COMP100 - Programming 1",
     "Centennial/Term 1",
@@ -175,7 +177,6 @@
     "Personal/QuickNotes/2024-08-10-Grocery.md~",
     "2024-08-09.md~",
     "2024-08-09.md",
-    "ami",
     "_Ami Chatbot/PhysicalServer.md",
     "_Ami Chatbot/match_documents.md",
     "_Ami Chatbot/CloudHosting.md",
@@ -184,7 +185,6 @@
     "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
     "test.md",
     "Ami-Chatbot.md",
-    "2024-07-25.md",
-    "Welcome.md"
+    "2024-07-25.md"
   ]
 }
