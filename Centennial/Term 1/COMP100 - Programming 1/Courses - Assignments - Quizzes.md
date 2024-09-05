@@ -12,10 +12,5 @@ All course activities are in-class activities
 	- 30 minute activities
 
 (Late) Assignment Policy: 
-
-Option 1: 
  - Strict deadlines ( no late submissions allowed)
  - Flexible grading style
-Option 2: 
-- Flexible deadlines (extra 7 days, -50% penalty)
-- Strict grading style
