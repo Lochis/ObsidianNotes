@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clever/Acadience.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clever/Acadience.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clever/Acadience.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clever/Acadience.md"
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md"
               }
             }
           }
@@ -150,13 +150,15 @@
   },
   "active": "71d982161b8926b4",
   "lastOpenFiles": [
+    "Centennial/Term 1/COMP100 - Programming 1/Courses - Assignments - Quizzes.md",
+    "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
+    "Clever/Acadience.md",
     "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
     "Centennial/Term 1/COMP100 - Programming 1",
     "Centennial/Term 1",
     "Centennial",
     "Ami Chatbot/Ami-Chatbot.md",
     "PRISM/2024-08-28.md",
-    "Clever/Acadience.md",
     "PRISM",
     "New folder",
     "eStudentVerification/AspenExport.md",
@@ -183,8 +185,6 @@
     "test.md",
     "Ami-Chatbot.md",
     "2024-07-25.md",
-    "Welcome.md",
-    "create a link.md",
-    "1721850663-PAGS.md"
+    "Welcome.md"
   ]
 }
