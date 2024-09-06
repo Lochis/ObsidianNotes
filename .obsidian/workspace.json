@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
-                "mode": "source",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
+                "file": "Ami Chatbot/Ami-Chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md"
+                "file": "Ami Chatbot/Ami-Chatbot.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "71d982161b8926b4",
   "lastOpenFiles": [
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
+    "Ami Chatbot/Road map.md",
+    "Ami Chatbot/PhysicalServer.md",
+    "Ami Chatbot/Ami-Chatbot.md",
     "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
     "Centennial/Term 1/COMP123 - Software Engineering Fundamentals",
     "Centennial/Term 1/COMP100 - Programming 1/Courses - Assignments - Quizzes.md",
     "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
@@ -159,14 +162,12 @@
     "Centennial/Term 1/COMP100 - Programming 1",
     "Centennial/Term 1",
     "Centennial",
-    "Ami Chatbot/Ami-Chatbot.md",
     "PRISM/2024-08-28.md",
     "PRISM",
     "New folder",
     "eStudentVerification/AspenExport.md",
     "eStudentVerification/DOB_SOURCE_DOC.md",
     "Clever",
-    "Ami Chatbot/PhysicalServer.md",
     "Ami Chatbot/match_documents.md",
     "Ami Chatbot/ChatHistory.md",
     "Ami Chatbot/CloudHosting.md",
@@ -184,7 +185,6 @@
     "2024-08-02.md",
     "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
     "test.md",
-    "Ami-Chatbot.md",
-    "2024-07-25.md"
+    "Ami-Chatbot.md"
   ]
 }
