@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
-                "mode": "preview",
+                "file": "Clever/Acadience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01c2c40db87192ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clever/Acadience Export.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "Clever/Acadience Export.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "Clever/Acadience Export.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md"
+                "file": "Clever/Acadience Export.md"
               }
             }
           }
@@ -148,17 +161,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71d982161b8926b4",
+  "active": "01c2c40db87192ae",
   "lastOpenFiles": [
+    "Clever/Acadience.md",
+    "Clever/Acadience Export.md",
+    "Ami Chatbot/Ami-Chatbot.md",
     "Ami Chatbot/Road map.md",
     "Ami Chatbot/PhysicalServer.md",
-    "Ami Chatbot/Ami-Chatbot.md",
     "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
     "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
     "Centennial/Term 1/COMP123 - Software Engineering Fundamentals",
     "Centennial/Term 1/COMP100 - Programming 1/Courses - Assignments - Quizzes.md",
     "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
-    "Clever/Acadience.md",
     "Centennial/Term 1/COMP100 - Programming 1",
     "Centennial/Term 1",
     "Centennial",
@@ -184,7 +198,6 @@
     "_Ami Chatbot/Ami-Chatbot.md",
     "2024-08-02.md",
     "Personal/QuickNotes/2024-Jul-29-What-to-do.md",
-    "test.md",
-    "Ami-Chatbot.md"
+    "test.md"
   ]
 }
