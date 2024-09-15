@@ -3,6 +3,7 @@
   "enabledCssSnippets": [
     "pdf"
   ],
-  "cssTheme": "",
-  "baseFontSize": 18
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 18,
+  "nativeMenus": false
 }
