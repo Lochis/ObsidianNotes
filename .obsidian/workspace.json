@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md"
+                "file": "Centennial/Term 1/TODO.md"
               }
             }
           }
@@ -185,11 +185,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84652a81f3d2688f",
+  "active": "20dfff47cd2755f3",
   "lastOpenFiles": [
+    "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md",
     "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md~",
     "Centennial/Term 1/TODO.md",
-    "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md",
     "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook",
     "Centennial/Term 1/COMP Web Interface Design/Week2/~$MP213assignment1F24.doc",
     "Centennial/Term 1/COMP Web Interface Design/Week2/Assignment1/banner.avif",
@@ -201,7 +201,6 @@
     "Centennial/Term 1/COMM College Communications 2/~WRL3965.tmp",
     "Centennial/Term 1/COMM College Communications 2/~WRD3961.tmp",
     "Centennial/Term 1/COMM College Communications 2/~WRL2887.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRD2883.tmp",
     "Centennial/Term 1/COMP Web Interface Design/Week2/Assignment1/img/background.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Week2/Assignment1/background.jpg",
     "Centennial/Term 1/COMP100 - Programming 1/Week2/Week 2 - in class notes.md",
