@@ -2,5 +2,5 @@
 - [x] Unit 2: Summarizing - Comm170 (Sunday, Sept. 15)
 - [ ] Week 2 Exercises - Programming 1 (Before Sept. 18)
 - [ ] Read Chapters 1, 2 - Programming 1
-- [ ] Quiz 1 Due Sep 19 - Math175
+- [x] Quiz 1 Due Sep 19 - Math175
 - [ ] McGraw-Hill Connect opens (Sept. 17)
