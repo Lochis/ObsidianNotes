@@ -9,7 +9,7 @@
 - [ ] **Assignment 2** - Web interface design (Sept. 24)
 - [ ] **NEED TO SUBMIT** - Assignment 2 - Programming 1 (Sept 25)
 - [ ]  Critique Essay Draft - COMM170 (Sept 25)
-- [ ] Quiz 2 Due - Math175  (Saturday, Sept 26)
+- [ ] Quiz 2 Due - **Math175**  (Saturday, Sept 21-***26***)
 - [ ] Lab Assignment 1 - Software Engineering (Sat. Sept. 26)
 
 - [ ] Review Week 1 of A Wellness Approach content (before Sept 25)
