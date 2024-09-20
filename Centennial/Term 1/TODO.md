@@ -4,7 +4,7 @@
 - [x] Quiz 1 Due Sep 19 - Math175
 - [ ] Read Chapters 1, 2 - Programming 1
 - [ ] McGraw-Hill Connect opens (Sept. 17)
-- [ ] Week 3 Lab - Emotion, Humor & Laughter - **GNED** (Thursday, Sept. 19)
+- [x] Week 3 Lab - Emotion, Humor & Laughter - **GNED** (Thursday, Sept. 19)
 
 - [ ] **Assignment 2** - Web interface design (Sept. 24)
 - [ ] **NEED TO SUBMIT** - Assignment 2 - Programming 1 (Sept 25)
