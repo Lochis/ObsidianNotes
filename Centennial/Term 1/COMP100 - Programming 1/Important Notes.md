@@ -5,7 +5,7 @@ Way to solve 90% of the problems
 
 Explicit Casting (int) vs Convert Class
 
-Convert.ToInt32 will round the double up or down, depending on the decimal (0.2 vs 0.8)
+Convert.ToInt32 will round the double up or down, depending on the decimal (1.2 vs 1.8)  
 Casting (int) will truncate the decimals
 
 

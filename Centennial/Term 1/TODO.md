@@ -9,8 +9,12 @@
 - [ ] **Assignment 2** - Web interface design (Sept. 24)
 - [ ] **NEED TO SUBMIT** - Assignment 2 - Programming 1 (Sept 25)
 - [ ]  Critique Essay Draft - COMM170 (Sept 25)
+	- [ ] ***READ ALL OF THE SAMPLE TEMPLATES AND RECREATE BASED ON THOSE***
+		- [ ] https://e.centennialcollege.ca/d2l/le/content/1186600/viewContent/15088811/View
+	- [ ] Paste essay draft in discussion post
+
 - [ ] Quiz 2 Due - **Math175**  (Saturday, Sept 21-***26***)
-- [ ] Lab Assignment 1 - Software Engineering (Sat. Sept. 26)
+- [ ] Lab Assignment 1 - Software Engineering (Thurs. Sept. 26)
 
 - [ ] Review Week 1 of A Wellness Approach content (before Sept 25)
 - [ ] Review Week 2 of a Wellness Approach content (before Sept 25)

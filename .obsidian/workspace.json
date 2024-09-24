@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50eb2141eb3701b5",
+        "id": "1a6dc0dd6e7ee455",
         "type": "tabs",
         "children": [
           {
-            "id": "71d982161b8926b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clever/Acadience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20dfff47cd2755f3",
+            "id": "e37e78323bcedbbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,6 +16,16 @@
                 "file": "Centennial/Term 1/TODO.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "737abce59c59c5b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md"
               }
             }
           }
@@ -82,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397
+    "width": 200
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/TODO.md"
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md"
               }
             }
           }
@@ -162,29 +160,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c771ed65f71c5b4",
+  "active": "737abce59c59c5b2",
   "lastOpenFiles": [
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~$ek 3 Lab - Emotion, Humour & Laughter.docx",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRL2485.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRD2473.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRL2512.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRD2508.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRL2278.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRD2278.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRL1278.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRD1274.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRL1596.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 3 Lab Assignment/~WRD1592.tmp",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/computer_architecture.pdf",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL1409.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD1405.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL4087.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD4079.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL1382.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD1378.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL0665.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD0661.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL3589.tmp",
+    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD3582.tmp",
     "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
+    "Centennial/Term 1/TODO.md",
+    "Generic Work Notes/App Approval Submitted.md",
+    "Untitled 1.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
+    "Clever/Acadience.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
+    "Clever/Acadience Export.md",
+    "Centennial/OSAP.md",
     "Pasted image 20240918234204.png",
     "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
     "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
     "Centennial/Term 1/COMP100 - Programming 1/Week2/Week 2 - in class notes.md",
     "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md",
     "Centennial/Term 1/COMP100 - Programming 1/Courses - Assignments - Quizzes.md",
-    "Centennial/Term 1/TODO.md",
     "Centennial/Term 1/COMM College Communications 2/Week 2 Notes and Recap.md",
     "Centennial/Term 1/COMP Web Interface Design/Week2/Assignment1/banner.avif",
     "Centennial/Term 1/COMM College Communications 2/Week 1 Recap and Homework.md",
@@ -192,8 +195,6 @@
     "Centennial/Term 1/COMP Web Interface Design/Week2/Assignment1/background.jpg",
     "Pasted image 20240911191205.png",
     "Pasted image 20240911190914.png",
-    "Clever/Acadience Export.md",
-    "Clever/Acadience.md",
     "Ami Chatbot/Ami-Chatbot.md",
     "Ami Chatbot/Road map.md",
     "Ami Chatbot/PhysicalServer.md",
@@ -202,9 +203,6 @@
     "eStudentVerification/AspenExport.md",
     "eStudentVerification/DOB_SOURCE_DOC.md",
     "Ami Chatbot/match_documents.md",
-    "Ami Chatbot/ChatHistory.md",
-    "Ami Chatbot/CloudHosting.md",
-    "Personal/QuickNotes/2024-Aug-10-Grocery.md",
-    "Personal/QuickNotes/2024-08-10-Grocery.md"
+    "Ami Chatbot/ChatHistory.md"
   ]
 }
