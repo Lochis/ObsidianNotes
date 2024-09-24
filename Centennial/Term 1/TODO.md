@@ -7,7 +7,7 @@
 - [x] Week 3 Lab - Emotion, Humor & Laughter - **GNED** (Thursday, Sept. 19)
 
 - [ ] **Assignment 2** - Web interface design (Sept. 24)
-- [ ] **NEED TO SUBMIT** - Assignment 2 - Programming 1 (Sept 25)
+- [x] **NEED TO SUBMIT** - Assignment 2 - Programming 1 (Sept 25)
 - [ ]  Critique Essay Draft - COMM170 (Sept 25)
 	- [ ] ***READ ALL OF THE SAMPLE TEMPLATES AND RECREATE BASED ON THOSE***
 		- [ ] https://e.centennialcollege.ca/d2l/le/content/1186600/viewContent/15088811/View
