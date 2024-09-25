@@ -6,7 +6,7 @@
 - [ ] McGraw-Hill Connect opens (Sept. 17)
 - [x] Week 3 Lab - Emotion, Humor & Laughter - **GNED** (Thursday, Sept. 19)
 
-- [ ] **Assignment 2** - Web interface design (Sept. 24)
+- [x] **Assignment 2** - Web interface design (Sept. 24)
 - [x] **NEED TO SUBMIT** - Assignment 2 - Programming 1 (Sept 25)
 - [ ]  Critique Essay Draft - COMM170 (Sept 25)
 	- [ ] ***READ ALL OF THE SAMPLE TEMPLATES AND RECREATE BASED ON THOSE***
@@ -16,8 +16,8 @@
 - [ ] Quiz 2 Due - **Math175**  (Saturday, Sept 21-***26***)
 - [ ] Lab Assignment 1 - Software Engineering (Thurs. Sept. 26)
 
-- [ ] Review Week 1 of A Wellness Approach content (before Sept 25)
-- [ ] Review Week 2 of a Wellness Approach content (before Sept 25)
-- [ ] Review Week 3 of a Wellness Approach content (before Sept 25)
-- [ ] **Test 1 - GNED** (Sept. 26)
+- [x] Review Week 1 of A Wellness Approach content (before Sept 25)
+- [x] Review Week 2 of a Wellness Approach content (before Sept 25)
+- [x] Review Week 3 of a Wellness Approach content (before Sept 25)
+- [x] **Test 1 - GNED** (Sept. 26)
 

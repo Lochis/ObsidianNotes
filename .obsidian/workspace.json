@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e37e78323bcedbbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Centennial/Term 1/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "737abce59c59c5b2",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,17 +151,17 @@
   },
   "active": "737abce59c59c5b2",
   "lastOpenFiles": [
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL3887.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD3883.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL3737.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD3729.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL2377.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD2373.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL4093.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD4093.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL1728.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD1724.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0986.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD3279.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL2998.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD2994.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL0464.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD0460.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL3818.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD3814.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL2601.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD2597.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL2718.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD2710.tmp",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
     "Centennial/Term 1/COMP Web Interface Design/Week3/Lucas_Vandermaarel_Assignment2/img/trailrunning.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Week3/Lucas_Vandermaarel_Assignment2/img/programmingimg.jpg",
