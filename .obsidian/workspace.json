@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/TODO.md"
+                "file": "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md"
               }
             }
           }
@@ -151,17 +151,18 @@
   },
   "active": "737abce59c59c5b2",
   "lastOpenFiles": [
-    "Centennial/Term 1/COMM College Communications 2/~WRD1899.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRL3419.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRD3415.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRL1760.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRD1756.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRD2328.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRL2382.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRD2378.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRL3203.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRD3199.tmp",
-    "Centennial/Term 1/COMM College Communications 2/~WRD1217.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL3088.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD3084.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL3987.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD3983.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL3198.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD3194.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL2310.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD2306.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL3330.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRD3326.tmp",
+    "Centennial/Term 1/COMM College Communications 2/~WRL1408.tmp",
+    "Centennial/Term 1/TODO.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
     "Centennial/Term 1/COMP Web Interface Design/Week3/Lucas_Vandermaarel_Assignment2/img/trailrunning.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Week3/Lucas_Vandermaarel_Assignment2/img/programmingimg.jpg",
@@ -174,7 +175,6 @@
     "Centennial/Term 1/COMP Web Interface Design/Week3/Lucas_Vandermaarel_Assignment2/Assignment2/images/plantacion-de-mangle-fabiola-cruz.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Week3/Lucas_Vandermaarel_Assignment2/Assignment2/images/marine-costal-cover.jpg",
     "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
-    "Centennial/Term 1/TODO.md",
     "Generic Work Notes/App Approval Submitted.md",
     "Untitled 1.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
