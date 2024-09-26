@@ -36,3 +36,15 @@ Examples:
 
 
 
+## Division Method
+
+This method is useful for two numbers:
+
+1. Divide the larger number by the smaller number.
+2. If there's a remainder, divide the smaller number by the remainder.
+3. Continue this process until there's no remainder.
+4. The last non-zero remainder is the GCF.
+
+For example, to find the GCF of 48 and 18:48 ÷ 18 = 2 remainder 12  
+18 ÷ 12 = 1 remainder 6  
+12 ÷ 6 = 2 remainder 0
