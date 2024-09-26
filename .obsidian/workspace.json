@@ -11,9 +11,11 @@
             "id": "737abce59c59c5b2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md"
+                "file": "Centennial/Term 1/TODO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338,
-    "collapsed": true
+    "width": 338
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md"
+                "file": "Centennial/Term 1/TODO.md"
               }
             }
           }
@@ -148,10 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c771ed65f71c5b4",
+  "active": "737abce59c59c5b2",
   "lastOpenFiles": [
-    "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
     "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
     "Centennial/Term 1/COMM College Communications 2/~WRL3088.tmp",
     "Centennial/Term 1/COMM College Communications 2/~WRD3084.tmp",
