@@ -25,7 +25,13 @@
 - [ ] McGraw-Hill Connect opens (Sept. 17)
 
 
-- [ ] Stress Reflection Journal - A Wellness Approach (Sept 3rd)
+- [ ] Stress Reflection Journal - *A Wellness Approach* (Oct. 3rd)
+- [ ] Critique Essay Revised - *COMM170* (Oct. 6th)
+- [ ] Assignment 3 - **Programming 1** (Oct. 9th)
+- [ ] Test 1 - **Programming 1** (Oct. 9th)
+- [ ] Quiz 3 - *Math175* (Oct. 5 - 10)
+- [ ] Lab Assignment 2 - **Software Eng.** (Oct. 10th)
+- [ ] Quiz 4 - *Math175* (Oct. 17)
 
 - [ ] Programming exercises
 - [ ] CSS exercises
