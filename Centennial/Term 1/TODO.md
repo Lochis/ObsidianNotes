@@ -17,15 +17,19 @@
 - [x] **Test 1 - GNED** (Sept. 26)
 
 
-- [ ] Quiz 2 Due - **Math175**  (Thurs, Sept 21-***26***)
-	- [ ] Complete 6.3 and 6.4 study plan
-- [ ] Major Quiz - **Math175** (Friday, Sept **27**)
+- [x] Quiz 2 Due - **Math175**  (Thurs, Sept 21-***26***)
+	- [x] Complete 6.3 and 6.4 study plan
+- [x] Major Quiz - **Math175** (Friday, Sept **27**)
       
-- [ ] ***Lab Assignment 1***- *Software Engineering* (Thurs. Sept. 26)
+- [x] ***Lab Assignment 1***- *Software Engineering* (Thurs. Sept. 26)
 - [ ] McGraw-Hill Connect opens (Sept. 17)
+
+
+- [ ] Stress Reflection Journal - A Wellness Approach (Sept 3rd)
 
 - [ ] Programming exercises
 - [ ] CSS exercises
+- [ ] Visio exercises - software eng.
 
 
 
