@@ -15,22 +15,25 @@
 - [x] Review Week 2 of a Wellness Approach content (before Sept 25)
 - [x] Review Week 3 of a Wellness Approach content (before Sept 25)
 - [x] **Test 1 - GNED** (Sept. 26)
-
-
 - [x] Quiz 2 Due - **Math175**  (Thurs, Sept 21-***26***)
 	- [x] Complete 6.3 and 6.4 study plan
 - [x] Major Quiz - **Math175** (Friday, Sept **27**)
-      
 - [x] ***Lab Assignment 1***- *Software Engineering* (Thurs. Sept. 26)
+
+
 - [ ] McGraw-Hill Connect opens (Sept. 17)
 
 
 - [ ] Stress Reflection Journal - *A Wellness Approach* (Oct. 3rd)
 - [ ] Critique Essay Revised - *COMM170* (Oct. 6th)
+- [ ] Assignment 3 - **Web Interface Design** (Oct. 8th)
 - [ ] Assignment 3 - **Programming 1** (Oct. 9th)
 - [ ] Test 1 - **Programming 1** (Oct. 9th)
 - [ ] Quiz 3 - *Math175* (Oct. 5 - 10)
+	- [ ] 4.4 content
 - [ ] Lab Assignment 2 - **Software Eng.** (Oct. 10th)
+- [ ] Test 1 - *Math175* (Oct. 11)
+	- [ ] 4.4, 6.1, 6.2, 6.3, and 6.4 content
 - [ ] Quiz 4 - *Math175* (Oct. 17)
 
 - [ ] Programming exercises
