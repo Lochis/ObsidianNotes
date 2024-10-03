@@ -4,7 +4,6 @@
 - [x] Quiz 1 Due Sep 19 - Math175
 - [ ] Read Chapters 1, 2 - Programming 1
 - [x] Week 3 Lab - Emotion, Humor & Laughter - **GNED** (Thursday, Sept. 19)
-
 - [x] **Assignment 2** - Web interface design (Sept. 24)
 - [x] **NEED TO SUBMIT** - Assignment 2 - Programming 1 (Sept 25)
 - [x]  Critique Essay Draft - COMM170 (Sept 25)
@@ -24,9 +23,8 @@
 - [ ] McGraw-Hill Connect opens (Sept. 17)
 
 
-- [ ] Stress Reflection Journal - *A Wellness Approach* (Oct. 3rd)
+- [x] Stress Reflection Journal - *A Wellness Approach* (Oct. 3rd)
 - [ ] Critique Essay Revised - *COMM170* (Oct. 6th)
-- [ ] Assignment 3 - **Web Interface Design** (Oct. 8th)
 - [ ] Assignment 3 - **Programming 1** (Oct. 9th)
 - [ ] Test 1 - **Programming 1** (Oct. 9th)
 - [ ] Quiz 3 - *Math175* (Oct. 5 - 10)
@@ -34,6 +32,7 @@
 - [ ] Lab Assignment 2 - **Software Eng.** (Oct. 10th)
 - [ ] Test 1 - *Math175* (Oct. 11)
 	- [ ] 4.4, 6.1, 6.2, 6.3, and 6.4 content
+- [ ] Assignment 3 - **Web Interface Design** (Oct. 15th)
 - [ ] Quiz 4 - *Math175* (Oct. 17)
 
 - [ ] Programming exercises
