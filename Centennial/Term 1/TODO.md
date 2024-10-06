@@ -24,8 +24,8 @@
 
 
 - [x] Stress Reflection Journal - *A Wellness Approach* (Oct. 3rd)
-- [ ] Critique Essay Revised - *COMM170* (Oct. 6th)
-- [ ] Assignment 3 - **Programming 1** (Oct. 9th)
+- [x] Critique Essay Revised - *COMM170* (Oct. 6th)
+- [x] Assignment 3 - **Programming 1** (Oct. 9th)
 - [ ] Test 1 - **Programming 1** (Oct. 9th)
 - [ ] Quiz 3 - *Math175* (Oct. 5 - 10)
 	- [ ] 4.4 content
