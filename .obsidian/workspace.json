@@ -11,19 +11,23 @@
             "id": "737abce59c59c5b2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md"
+                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "292851ef477678ea",
+            "id": "3d3ec65d3bc06bb4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md"
+                "file": "Ami Chatbot/Latest update in DB.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md",
+                "file": "Ami Chatbot/Latest update in DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md",
+                "file": "Ami Chatbot/Latest update in DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md"
+                "file": "Ami Chatbot/Latest update in DB.md"
               }
             }
           }
@@ -170,18 +174,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "292851ef477678ea",
+  "active": "3d3ec65d3bc06bb4",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Drawing 2024-10-07 16.07.18.excalidraw.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
+    "Pasted image 20241007182859.png",
+    "Ami Chatbot/Ami-Chatbot.md",
+    "Ami Chatbot/Latest update in DB.md",
     "Centennial/Term 1/TODO.md",
-    "Centennial/Term 1/COMM College Communications 2/COMM170 Resources.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
+    "Drawing 2024-10-07 16.07.18.excalidraw.md",
+    "Centennial/Term 1/COMM College Communications 2/COMM170 Resources.md",
     "Centennial/Term 1/COMM College Communications 2/Sample Pre-Drafting Assignment Two (2021).docx",
     "Centennial/Term 1/COMM College Communications 2/Pre-Drafting Assignment Two Template.docx",
     "Centennial/Term 1/COMM College Communications 2/Research Project Source Evaluation.pdf",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
     "Centennial/Term 1/GNED - A Wellness Approach/Lucas_Vandermaarel_Week 6 Lab - Values.docx",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL1368.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD1364.tmp",
@@ -212,11 +218,9 @@
     "Centennial/Term 1/COMP100 - Programming 1/Courses - Assignments - Quizzes.md",
     "Centennial/Term 1/COMM College Communications 2/Week 2 Notes and Recap.md",
     "Centennial/Term 1/COMM College Communications 2/Week 1 Recap and Homework.md",
-    "Ami Chatbot/Ami-Chatbot.md",
     "Ami Chatbot/Road map.md",
     "Ami Chatbot/PhysicalServer.md",
     "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
-    "PRISM/2024-08-28.md",
-    "eStudentVerification/AspenExport.md"
+    "PRISM/2024-08-28.md"
   ]
 }
