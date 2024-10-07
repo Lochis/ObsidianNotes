@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "292851ef477678ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "8e8ce781db6cd09f",
             "type": "leaf",
             "state": {
@@ -80,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370,
-    "collapsed": true
+    "width": 370
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/TODO.md"
+                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md"
               }
             }
           }
@@ -161,16 +170,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e8ce781db6cd09f",
+  "active": "292851ef477678ea",
   "lastOpenFiles": [
-    "Centennial/Term 1/COMM College Communications 2/COMM170 Resources.md",
+    "Untitled.md",
+    "Drawing 2024-10-07 16.07.18.excalidraw.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
     "Centennial/Term 1/TODO.md",
+    "Centennial/Term 1/COMM College Communications 2/COMM170 Resources.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
     "Centennial/Term 1/COMM College Communications 2/Sample Pre-Drafting Assignment Two (2021).docx",
     "Centennial/Term 1/COMM College Communications 2/Pre-Drafting Assignment Two Template.docx",
     "Centennial/Term 1/COMM College Communications 2/Research Project Source Evaluation.pdf",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
     "Centennial/Term 1/GNED - A Wellness Approach/Lucas_Vandermaarel_Week 6 Lab - Values.docx",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL1368.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD1364.tmp",
@@ -206,8 +217,6 @@
     "Ami Chatbot/PhysicalServer.md",
     "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/dfs.md",
     "PRISM/2024-08-28.md",
-    "eStudentVerification/AspenExport.md",
-    "eStudentVerification/DOB_SOURCE_DOC.md",
-    "Ami Chatbot/match_documents.md"
+    "eStudentVerification/AspenExport.md"
   ]
 }
