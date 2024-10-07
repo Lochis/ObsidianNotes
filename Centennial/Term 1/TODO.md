@@ -27,8 +27,8 @@
 - [x] Critique Essay Revised - *COMM170* (Oct. 6th)
 - [x] Assignment 3 - **Programming 1** (Oct. 9th)
 - [ ] Test 1 - **Programming 1** (Oct. 9th)
-- [ ] Quiz 3 - *Math175* (Oct. 5 - 10)
-	- [ ] 4.4 content
+- [x] Quiz 3 - *Math175* (Oct. 5 - 10)
+	- [x] 4.4 content
 - [ ] Lab Assignment 2 - **Software Eng.** (Oct. 10th)
 - [x] Quiz 1 - **Software Eng.** (Oct. 3 - 10th)
 - [x] Week 6 Lab - Values - **A Wellness Approach** (Oct 10th)
