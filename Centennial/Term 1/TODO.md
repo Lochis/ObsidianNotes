@@ -30,6 +30,7 @@
 - [x] Quiz 3 - *Math175* (Oct. 5 - 10)
 	- [x] 4.4 content
 - [ ] Lab Assignment 2 - **Software Eng.** (Oct. 10th)
+- [ ] Quiz 1 - ***Software Eng.*** (Oct. 10th)
 - [x] Quiz 1 - **Software Eng.** (Oct. 3 - 10th)
 - [x] Week 6 Lab - Values - **A Wellness Approach** (Oct 10th)
 - [ ] Test 1 - *Math175* (Oct. 11)
