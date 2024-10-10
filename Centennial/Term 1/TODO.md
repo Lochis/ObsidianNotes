@@ -26,17 +26,17 @@
 - [x] Stress Reflection Journal - *A Wellness Approach* (Oct. 3rd)
 - [x] Critique Essay Revised - *COMM170* (Oct. 6th)
 - [x] Assignment 3 - **Programming 1** (Oct. 9th)
-- [ ] Test 1 - **Programming 1** (Oct. 9th)
+- [x] Test 1 - **Programming 1** (Oct. 9th)
 - [x] Quiz 3 - *Math175* (Oct. 5 - 10)
 	- [x] 4.4 content
 - [ ] Lab Assignment 2 - **Software Eng.** (Oct. 10th)
-- [ ] Quiz 1 - ***Software Eng.*** (Oct. 10th)
+- [x] Quiz 1 - ***Software Eng.*** (Oct. 10th)
 - [x] Quiz 1 - **Software Eng.** (Oct. 3 - 10th)
 - [x] Week 6 Lab - Values - **A Wellness Approach** (Oct 10th)
 - [ ] Test 1 - *Math175* (Oct. 11)
 	- [ ] 4.4, 6.1, 6.2, 6.3, and 6.4 content
 - [ ] Assignment 3 - **Web Interface Design** (Oct. 15th)
-- [ ] Quiz 4 - *Math175* (Oct. 17)
+- [ ] Quiz 4 - *Math175* (Oct. 12 -17)
 - [ ] Test 1 Practical and Theory - **Software Eng.** (Oct. 18)
 
 - [ ] Project 2, Pre-Drafting Assignment Two - COMM170 (Nov. 3rd)
