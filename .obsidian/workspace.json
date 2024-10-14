@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md"
+                "file": "Centennial/Term 1/TODO.md"
               }
             }
           }
@@ -173,25 +173,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3ec65d3bc06bb4",
+  "active": "8e8ce781db6cd09f",
   "lastOpenFiles": [
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Lucas_Vandermaarel_Assignment3.zip",
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3.zip",
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment2.zip",
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/r34.jpg",
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan-gtr-rear-view-2024.png",
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissanGTR.png",
+    "Centennial/Term 1/COMP Web Interface Design/Week4-6/~$MP213assignment3F20.docx",
+    "Centennial/Term 1/COMP Web Interface Design/Week4-6/COMP213assignment3F20.docx",
+    "Centennial/Term 1/COMP Web Interface Design/Week4-6/COMP213assignment3F20 (1).docx",
+    "Centennial/Term 1/COMP Web Interface Design/Week4-6",
+    "Centennial/Term 1/COMP Web Interface Design/New folder",
+    "Centennial/Term 1/COMP Web Interface Design/Week3/~$MP213assignment2F20.docx",
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Lucas Vandermaarel_Assignment3.zip",
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Lucas Vandermaarel_Assignment3",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
     "Centennial/Term 1/TODO.md",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL4059.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD4051.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL1181.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD1177.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL0439.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD0431.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL0875.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD0871.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRL1257.tmp",
-    "Centennial/Term 1/COMP123 - Software Engineering Fundamentals/~WRD1253.tmp",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Ami Chatbot/Latest update in DB.md",
     "Pasted image 20241007182859.png",
     "Ami Chatbot/Ami-Chatbot.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
     "Centennial/Term 1/COMM College Communications 2/COMM170 Resources.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/preview-image.jpg",
@@ -200,9 +204,6 @@
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissanGTR.webp",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/Nissan-Skyline-GT-R-R34-255-1024x575.webp",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment2/images/weimang_tree_kangaroo.jpg",
-    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment2/images/banner.jpg",
-    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment2/images/plantacion-de-mangle-fabiola-cruz.jpg",
-    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment2/images/marine-costal-cover.jpg",
     "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
     "Generic Work Notes/App Approval Submitted.md",
     "Untitled 1.md",
