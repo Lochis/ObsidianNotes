@@ -1,13 +1,14 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: beige;
+    background-color: rgb(126, 161, 114);
 }
 
 footer {
-    background-color: rgb(210, 185, 233);
+    background-color: #7D7C7A;
     padding: 10px;
     border-radius: 25px;
-    border: solid black 1px;
+    border: solid #383838 4px;
+    margin-top: 10vh;
 }
 
 .container {
@@ -17,7 +18,10 @@ footer {
 }
 
 #banner-container {
-    border: solid rgb(100, 5, 95) 4px; 
+    border: solid rgb(86, 68, 93) 4px; 
+    display: flex;
+    width: 100%;
+    overflow: hidden;
 }
 
 #title-text {
@@ -33,9 +37,86 @@ footer {
     object-fit: cover;
 }
 
-.banner-image {
-    flex: 1;
-    object-fit: cover; 
+#larger-preview-image {
+    border-radius: 25px;
+    object-fit: cover;
     width:100%; 
-    max-height: 20vh; 
+    height:100%;
+}
+
+.banner-image {
+    flex: 4;
+    object-fit: cover; 
+    max-height: 10vh; 
+}
+
+#GTR-desc{
+    line-height: 1.6;
+    font-size: 18px;
+    color: #111110;
+}
+
+#product-desc-table{
+    width:100%; 
+    text-align: left;
+    border-radius: 25px;
+}
+
+#product-desc-table thead th:nth-child(1) {
+    border-top-left-radius: 25px;
+}
+
+#product-desc-table thead th:nth-child(2){
+    border-top-right-radius: 25px;
+}
+
+#product-desc-table tbody tr:nth-last-child(-n+1) td:nth-last-child(-n+1) {
+    border-bottom-right-radius: 25px;
+}
+
+#product-desc-table tbody tr:nth-last-child(-n+1) td:nth-last-child(n+2) {
+    border-bottom-left-radius: 25px;
+}
+
+#product-desc-table td {
+    padding-left: 5px;
+}
+
+#product-desc-table tbody>tr:nth-child(even){
+    background-color: rgb(194, 194, 194);
+}
+
+#product-desc-table tbody>tr:nth-child(odd){
+    background-color: rgb(238, 238, 238);
+}
+
+#product-desc-table tbody tr td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#product-desc-table thead th{
+    padding: 10px;
+    background-color: rgb(211, 114, 99);
+    color: white;
+}
+
+.back-btn{
+    border-radius: 25px; 
+    background-color: rgb(226, 109, 92); 
+    padding:10px; 
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+.back-btn:hover {
+    background-color: rgb(211, 114, 99);
+}
+
+#GTR-features {
+    padding-left: 400px;
+    color: #dfdfdf;
+    text-shadow: black 1px 1px 1px;
+    font-size: 16px;
 }

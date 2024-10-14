@@ -16,21 +16,102 @@
 
         <header>
             <a target="_blank" href="https://www.nissan.ca/">
-                <div id="banner-container" style="display: flex;">
+                <div id="banner-container">
                     <img class="banner-image" src="./images/nissanGTR.webp"
                         alt="Nissan R34 Skyline GT-R with midnight purple paint" />
-                    <img class="banner-image" src="./images/nissan_logo.jpg" />
-                    <img class="banner-image" src="./images/nissan-gtr-rear-view-2024.avif" />
+                    <img class="banner-image" src="./images/nissan_logo.jpg" alt="nissan logo" />
+                    <img class="banner-image" src="./images/nissan-gtr-rear-view-2024.avif"
+                        alt="A back view of a 2024 Nissan GTR" />
                 </div>
             </a>
             <h1 id="title-text">Nissan Motor Corporation</h1>
         </header>
 
         <main>
-            <a style="float:right;" href="../index.html">Home Page</a>
+            <a class="back-btn" style="float:right;" href="../index.html">Home Page</a>
             <h3>Vehicles / Cars</h3>
-            <img id="preview-image" src="./images/preview-image.jpg" alt="Nissan R34 Skyline GT-R with midnight purple paint"/>
-            <a href="./Details.html">View Larger Page</a>
+
+            <figure style="margin-left:0; float:left; padding-right: 20px; height:600px;">
+                <img id="preview-image" src="./images/preview-image.jpg"
+                    alt="Nissan R34 Skyline GT-R with midnight purple paint" />
+                <figcaption style="text-align: center; margin-top:1vh;"><a class="back-btn" href="./Details.html">View Larger Picture</a></figcaption>
+            </figure>
+
+            <h3 style="text-align: left;">Nissan GT-R</h3>
+            <div id="GTR-desc">
+            <p>
+                The Nissan GT-R is a car everyone should own.
+                We built the R34 back in 1999 to 2002, encorporating advanced-at-the-time features like all-wheel-drive and a disaply screen that showed real-time driving information.
+                Featuring in movies such as <i>The Fast and Furious</i> and video games such as <i>Need for Speed</i>, the R34 became a legend.
+            </p>
+            <p>
+                In 2007, Nissan launched a new GT-R. The R35. While the R34 was part of the <i>Skyline</i> family, the R35 was not.
+                The R35 came with a 3.8-liter twin-turbo V6 engine which brought a great improvement in horsepower over the R34.
+                During this time, it was known for it's speed. It had a 0 to 60mph time of just under 3 seconds.
+            </p>
+            <p>By 2024, the GT-R had received even more upgrades, like better aerodynamics and new tech features.
+                Special versions like the NISMO edition focus on extreme performance, keeping the GT-R's "Godzilla"
+                nickname alive.
+                It's still a car that offers incredible speed and handling without the super-high price of other sports
+                cars.
+            </p>
+        </div>
+
+        <h3>Some classic features of GT-Rs:</h3>
+        <ul id="GTR-features"> 
+            <li>
+                All wheel drive
+            </li>
+            <br/>
+            <li>
+                Niche driving information on the dash
+            </li>
+            <br/>
+            <li>
+                High horsepower
+            </li>
+        </ul>
+
+            <table id="product-desc-table" cellspacing="0">
+                <thead>
+                    <th>Description</th>
+                    <th>Price</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>2024 Nissan GT-R</td>
+                        <td>$120,990</td> 
+                    </tr>
+                    <tr>
+                        <td>2021 Nissan GT-R</td>
+                        <td>$113,540</td>
+                    </tr>
+                    <tr>
+                        <td>2017 Nissan GT-R</td>
+                        <td>$109,990</td>
+                    </tr>
+                    <tr>
+                        <td>2009 Nissan GT-R (R35)</td>
+                        <td>$77,000</td>
+                    </tr>
+                    <tr>
+                        <td>2002 Nissan Skyline GT-R (R34)</td>
+                        <td>$150,000 - $300,000+</td>
+                    </tr>
+                    <tr>
+                        <td>1999 Nissan Skyline GT-R (R34)</td>
+                        <td>$45,000 (at launch) </td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+            <img style="padding-top: 10px; padding-bottom: 10px;" src="./images/map_of_canada.png" usemap="#canadamap" alt="A map of Canada">
+            <map name="canadamap">
+                <area id="ontario-area" class="area" shape="rect" coords="390,500,532,640" target="_blank" href="https://service.nissan.ca/en/ontario" alt="Ontario nissan dealers">
+                <area id="quebec-area" class="area"  shape="rect" coords="530,350,667,590" target="_blank" href="https://service.nissan.ca/en/quebec" alt="Quebec nissan dealers"> 
+                <area id="british-columbia-area" class="area"  shape="rect" coords="41,352,131,557" target="_blank" href="https://service.nissan.ca/en/british-columbia" alt="British Columbia nissan dealers ">
+            </map>
 
         </main>
 
@@ -57,11 +138,15 @@
                             Image - Nissan Logo</a>
                     </li>
                     <li>
-                        <a href="https://accelerationtimes.com/models/nissan-skyline-gt-r">Preview Image - 1998 Nissan Skyline GT-R R34</a>
+                        <a href="https://accelerationtimes.com/models/nissan-skyline-gt-r">Preview Image - 1998 Nissan
+                            Skyline GT-R R34</a>
                     </li>
                     <li>
                         <a href="https://en.wikipedia.org/wiki/Nissan_Skyline_GT-R">Main information - Nissan Skyline
                             GT-R Wikipedia</a>
+                    </li>
+                    <li>
+                        <a href="https://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada">Canada Map - Provinces and territories of Canada</a>
                     </li>
                 </ul>
             </small>
