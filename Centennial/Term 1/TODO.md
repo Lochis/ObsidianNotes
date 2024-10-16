@@ -18,31 +18,31 @@
 	- [x] Complete 6.3 and 6.4 study plan
 - [x] Major Quiz - **Math175** (Friday, Sept **27**)
 - [x] ***Lab Assignment 1***- *Software Engineering* (Thurs. Sept. 26)
-
-
-- [ ] McGraw-Hill Connect opens (Sept. 17)
-
-
 - [x] Stress Reflection Journal - *A Wellness Approach* (Oct. 3rd)
 - [x] Critique Essay Revised - *COMM170* (Oct. 6th)
 - [x] Assignment 3 - **Programming 1** (Oct. 9th)
 - [x] Test 1 - **Programming 1** (Oct. 9th)
 - [x] Quiz 3 - *Math175* (Oct. 5 - 10)
 	- [x] 4.4 content
-- [ ] Lab Assignment 2 - **Software Eng.** (Oct. 10th)
 - [x] Quiz 1 - ***Software Eng.*** (Oct. 10th)
 - [x] Quiz 1 - **Software Eng.** (Oct. 3 - 10th)
 - [x] Week 6 Lab - Values - **A Wellness Approach** (Oct 10th)
-- [ ] Test 1 - *Math175* (Oct. 11)
-	- [ ] 4.4, 6.1, 6.2, 6.3, and 6.4 content
-- [ ] Assignment 3 - **Web Interface Design** (Oct. 15th)
+- [x] Lab Assignment 2 - **Software Eng.** (Oct. 10th)
+- [x] Test 1 - *Math175* (Oct. 11)
+	- [x] 4.4, 6.1, 6.2, 6.3, and 6.4 content
+- [x] Assignment 3 - **Web Interface Design** (Oct. 15th)
+
+- [ ] McGraw-Hill Connect opens (Sept. 17)
+
 - [ ] Quiz 4 - *Math175* (Oct. 12 -17)
+- [ ] Week 7 Lab - Lifestyle Stress Management -  **A Wellness Approach** (Oct. 17)
 - [ ] Test 1 Practical and Theory - **Software Eng.** (Oct. 18)
+
+- [ ] Unit 7: Locate Sources -  ***COMM170*** (Oct. 20)
 
 - [ ] Project 2, Pre-Drafting Assignment Two - COMM170 (Nov. 3rd)
 	- [ ] ***My article chosen:***  Oremerod, K. (May 29, 2019). _[Why Social Media is Ruining Your Life](https://www.amazon.com/gp/product/1788400623/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788400623&linkCode=as2&tag=motearnew-20&linkId=f328d2cd9f55da79e0951bf509627aeb)_ The Utne Reader_._ retrieved on March 16, 2024.
     - [Why Social Media is Ruining Your Relationships PDF](https://e.centennialcollege.ca/content/enforced/1096251-COMM171909_2024W/Why%20Social%20Media%20is%20Ruining%20Your%20Relationships%20_%20Utne.pdf?ou=1096251&ou=1186600)
-    - 
 
 - [ ] Programming exercises
 - [ ] CSS exercises

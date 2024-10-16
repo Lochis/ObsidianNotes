@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Centennial/Term 1/TODO.md"
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md"
               }
             }
           }
@@ -173,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e8ce781db6cd09f",
+  "active": "3d3ec65d3bc06bb4",
   "lastOpenFiles": [
+    "Centennial/Term 1/TODO.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Lucas_Vandermaarel_Assignment3.zip",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3.zip",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment2.zip",
@@ -188,9 +189,7 @@
     "Centennial/Term 1/COMP Web Interface Design/New folder",
     "Centennial/Term 1/COMP Web Interface Design/Week3/~$MP213assignment2F20.docx",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Lucas Vandermaarel_Assignment3.zip",
-    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Lucas Vandermaarel_Assignment3",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
-    "Centennial/Term 1/TODO.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Ami Chatbot/Latest update in DB.md",
     "Pasted image 20241007182859.png",
