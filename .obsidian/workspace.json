@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370,
-    "collapsed": true
+    "width": 370
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -173,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d3ec65d3bc06bb4",
+  "active": "9c771ed65f71c5b4",
   "lastOpenFiles": [
     "Centennial/Term 1/TODO.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Lucas_Vandermaarel_Assignment3.zip",
