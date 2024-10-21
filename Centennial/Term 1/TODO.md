@@ -34,9 +34,9 @@
 
 - [ ] McGraw-Hill Connect opens (Sept. 17)
 
-- [ ] Quiz 4 - *Math175* (Oct. 12 -17)
-- [ ] Week 7 Lab - Lifestyle Stress Management -  **A Wellness Approach** (Oct. 17)
-- [ ] Test 1 Practical and Theory - **Software Eng.** (Oct. 18)
+- [x] Quiz 4 - *Math175* (Oct. 12 -17)
+- [x] Week 7 Lab - Lifestyle Stress Management -  **A Wellness Approach** (Oct. 17)
+- [ ] Test 1 Practical and Theory - **Software Eng.** (Oct. 18)  RESCHEDULED
 
 - [ ] Unit 7: Locate Sources -  ***COMM170*** (Oct. 20)
 
