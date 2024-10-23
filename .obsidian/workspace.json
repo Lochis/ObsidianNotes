@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ami Chatbot/Issues.md",
-                "mode": "source",
+                "file": "Ami Chatbot/SMTP.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ami Chatbot/Issues.md",
+                "file": "Ami Chatbot/SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ami Chatbot/Issues.md",
+                "file": "Ami Chatbot/SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ami Chatbot/Issues.md"
+                "file": "Ami Chatbot/SMTP.md"
               }
             }
           }
@@ -200,9 +200,9 @@
   },
   "active": "5a8bd1eadd08471c",
   "lastOpenFiles": [
+    "Ami Chatbot/Issues.md",
     "Pasted image 20241022160313.png",
     "Ami Chatbot/Ami-Chatbot.md",
-    "Ami Chatbot/Issues.md",
     "Ami Chatbot/SMTP.md",
     "Ami Chatbot/Road map.md",
     "Centennial/Term 1/TODO.md",
@@ -232,7 +232,6 @@
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan_logo.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissanGTR.webp",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/Nissan-Skyline-GT-R-R34-255-1024x575.webp",
-    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment2/images/weimang_tree_kangaroo.jpg",
     "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
     "Generic Work Notes/App Approval Submitted.md",
     "Untitled 1.md",
