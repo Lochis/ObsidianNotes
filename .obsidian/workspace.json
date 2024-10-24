@@ -16,59 +16,39 @@
                 "file": "Ami Chatbot/Ami-Chatbot.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ami-Chatbot"
             }
           },
           {
             "id": "3d3ec65d3bc06bb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ami Chatbot/Road map.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-06 00.14.04.excalidraw"
             }
           },
           {
-            "id": "b2273dc2b5d028f3",
+            "id": "1d07b862c228d837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ami Chatbot/Ami-Chatbot.md",
+                "file": "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Locate Sources.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5a8bd1eadd08471c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ami Chatbot/SMTP.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e8ce781db6cd09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Centennial/Term 1/TODO.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Locate Sources"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -103,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ami Chatbot/SMTP.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -151,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ami Chatbot/SMTP.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODO"
             }
           },
           {
@@ -165,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -174,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ami Chatbot/SMTP.md"
-              }
+                "file": "Centennial/Term 1/TODO.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODO"
             }
           }
         ],
@@ -198,15 +192,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a8bd1eadd08471c",
+  "active": "1d07b862c228d837",
   "lastOpenFiles": [
-    "Ami Chatbot/Issues.md",
-    "Pasted image 20241022160313.png",
-    "Ami Chatbot/Ami-Chatbot.md",
-    "Ami Chatbot/SMTP.md",
-    "Ami Chatbot/Road map.md",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Resources.md",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Locate Sources.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Choose and Analyze a Source.md",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings",
+    "Untitled",
     "Centennial/Term 1/TODO.md",
+    "Ami Chatbot/SMTP.md",
+    "Pasted image 20241022160313.png",
+    "Ami Chatbot/Issues.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-17 15.46.06.excalidraw.md",
+    "Centennial/Term 1/GNED - A Wellness Approach/~$cas_Vandermaarel_Week 7 Lab.docx",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL3986.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD3970.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL3582.tmp",
@@ -214,19 +213,15 @@
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL3143.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD3131.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL0592.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0576.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL1249.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD1229.tmp",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
+    "Ami Chatbot/Ami-Chatbot.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/r34.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan-gtr-rear-view-2024.png",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissanGTR.png",
     "Ami Chatbot/Latest update in DB.md",
     "Pasted image 20241007182859.png",
     "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
-    "Centennial/Term 1/COMM College Communications 2/COMM170 Resources.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/preview-image.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan-gtr-rear-view-2024.avif",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan_logo.jpg",
