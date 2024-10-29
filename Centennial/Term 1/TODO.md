@@ -36,10 +36,13 @@
 
 - [x] Quiz 4 - *Math175* (Oct. 12 -17)
 - [x] Week 7 Lab - Lifestyle Stress Management -  **A Wellness Approach** (Oct. 17)
-- [ ] Test 1 Practical and Theory - **Software Eng.** (Oct. 18)  RESCHEDULED
+- [x] Test 1 Practical and Theory - **Software Eng.** (Oct. 18)  
 
-- [ ] Unit 7: Locate Sources -  ***COMM170*** (Oct. 20)
+- [x] Unit 7: Locate Sources -  ***COMM170*** (Oct. 20)
+- [x] Quiz 4 - **COMM100** (In Class/ Lab time)
+- [ ] Quiz 5 - **MATH175** (Oct. 31)
 - [ ]  A Wellness Approach - Test 2 (Weeks 5 -7) [Closes Oct. 31 at midnight]
+- [ ] Major Quiz 2 - **MATH175** (Nov. 1)
 
 - [ ] Project 2, Pre-Drafting Assignment Two - COMM170 (Nov. 3rd)
 	- [ ] ***My article chosen:***  Oremerod, K. (May 29, 2019). _[Why Social Media is Ruining Your Life](https://www.amazon.com/gp/product/1788400623/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788400623&linkCode=as2&tag=motearnew-20&linkId=f328d2cd9f55da79e0951bf509627aeb)_ The Utne Reader_._ retrieved on March 16, 2024.
