@@ -37,12 +37,14 @@
             "id": "1d07b862c228d837",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2024-10-07 16.07.18.excalidraw.md"
+                "file": "Centennial/Term 1/TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-07 16.07.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ],
@@ -102,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370,
-    "collapsed": true
+    "width": 370
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -193,6 +194,7 @@
   },
   "active": "1d07b862c228d837",
   "lastOpenFiles": [
+    "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Centennial/Term 1/TODO.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Choose and Analyze a Source.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~$e-Drafting Assignment Two Template.docx",
@@ -213,7 +215,6 @@
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD3970.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL3582.tmp",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
-    "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Ami Chatbot/Ami-Chatbot.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/r34.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan-gtr-rear-view-2024.png",

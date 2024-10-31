@@ -40,7 +40,7 @@
 
 - [x] Unit 7: Locate Sources -  ***COMM170*** (Oct. 20)
 - [x] Quiz 4 - **COMM100** (In Class/ Lab time)
-- [ ] Quiz 5 - **MATH175** (Oct. 31)
+- [x] Quiz 5 - **MATH175** (Oct. 31)
 - [ ]  A Wellness Approach - Test 2 (Weeks 5 -7) [Closes Oct. 31 at midnight]
 - [ ] Major Quiz 2 - **MATH175** (Nov. 1)
 
