@@ -49,12 +49,14 @@
             "id": "835ba8a2b093dacd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md"
+                "file": "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Choose and Analyze a Source.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-31 22.27.07.excalidraw"
+              "icon": "lucide-file",
+              "title": "Choose and Analyze a Source"
             }
           }
         ],
@@ -114,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370,
-    "collapsed": true
+    "width": 370
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -205,29 +206,30 @@
   },
   "active": "835ba8a2b093dacd",
   "lastOpenFiles": [
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-17 15.46.06.excalidraw.md",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL0093.tmp",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD0089.tmp",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL0372.tmp",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD0005.tmp",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL0003.tmp",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD0002.tmp",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Resources.md",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Choose and Analyze a Source.md",
     "Centennial/Term 1/TODO.md",
+    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~$e-Drafting Assignment Two Template.docx",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-17 15.46.06.excalidraw.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Untitled.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Choose and Analyze a Source.md",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~$e-Drafting Assignment Two Template.docx",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL2285.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD0005.tmp",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Pre-Drafting Assignment Two Template.docx",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Locate Sources.md",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Resources.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings",
     "Untitled",
     "Ami Chatbot/SMTP.md",
     "Pasted image 20241022160313.png",
     "Ami Chatbot/Issues.md",
-    "Centennial/Term 1/GNED - A Wellness Approach/~$cas_Vandermaarel_Week 7 Lab.docx",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL3986.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD3970.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL3582.tmp",
     "Ami Chatbot/Ami-Chatbot.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/r34.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan-gtr-rear-view-2024.png",
@@ -249,7 +251,6 @@
     "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
     "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
     "Centennial/Term 1/COMP100 - Programming 1/Week2/Week 2 - in class notes.md",
-    "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md",
-    "Centennial/Term 1/COMP100 - Programming 1/Courses - Assignments - Quizzes.md"
+    "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md"
   ]
 }
