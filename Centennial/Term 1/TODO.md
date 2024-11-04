@@ -44,14 +44,15 @@
 - [x]  A Wellness Approach - Test 2 (Weeks 5 -7) [Closes Oct. 31 at midnight]
 - [x] Major Quiz 2 - **MATH175** (Nov. 1)
 
-- [ ] Project 2, Pre-Drafting Assignment Two - COMM170 (Nov. 3rd)
+- [x] Project 2, Pre-Drafting Assignment Two - COMM170 (Nov. 3rd)
 	- [ ] ***My article chosen:***  Oremerod, K. (May 29, 2019). _[Why Social Media is Ruining Your Life](https://www.amazon.com/gp/product/1788400623/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788400623&linkCode=as2&tag=motearnew-20&linkId=f328d2cd9f55da79e0951bf509627aeb)_ The Utne Reader_._ retrieved on March 16, 2024.
     - [Why Social Media is Ruining Your Relationships PDF](https://e.centennialcollege.ca/content/enforced/1096251-COMM171909_2024W/Why%20Social%20Media%20is%20Ruining%20Your%20Relationships%20_%20Utne.pdf?ou=1096251&ou=1186600)
 
 - [ ] Assignment 4 - **COMP100** (Nov. 6)
 - [ ] Test 2 - **Comp100** (Nov. 6)
-- [ ] Quiz 2 - **Software Fund. Eng.** (Nov. 7)
+- [x] Quiz 2 - **Software Fund. Eng.** (Nov. 7)
 - [ ] Quiz 6 - **MATH175** (Nov. 2 - Nov. 7)
+- [ ] Research Essay Draft - **COMM170** (Nov. 10)
 
 - [ ] Programming exercises
 - [ ] CSS exercises
