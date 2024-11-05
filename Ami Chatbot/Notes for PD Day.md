@@ -2,4 +2,6 @@
 - Answer typical IT Helpdesk questions
 - Do typical AI things like summarize documents, memos for example
 - Only for staff
+
+- Will be able to search Admin Procedures and give possible matches
 - 
