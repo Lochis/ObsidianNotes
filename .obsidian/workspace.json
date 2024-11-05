@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
+                "file": "Ami Chatbot/Notes for PD Day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Notes for PD Day"
             }
           }
         ],
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370
+    "width": 212
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -199,15 +199,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "835ba8a2b093dacd",
   "lastOpenFiles": [
+    "Ami Chatbot/Ami-Chatbot.md",
+    "Ami Chatbot/Notes for PD Day.md",
+    "Centennial/Term 1/TODO.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md",
     "Pasted Image 20241104112416_614.png",
-    "Ami Chatbot/Ami-Chatbot.md",
-    "Centennial/Term 1/TODO.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Lucas_Vandermaarel_Pre-Drafting Assignment Two.docx",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL3015.tmp",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD3011.tmp",
