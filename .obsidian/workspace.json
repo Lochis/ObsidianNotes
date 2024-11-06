@@ -63,12 +63,14 @@
             "id": "388f8e8bece10309",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "Centennial/Term 1/TODO.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "TODO"
             }
           }
         ],
@@ -218,21 +220,23 @@
   },
   "active": "388f8e8bece10309",
   "lastOpenFiles": [
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0310.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0306.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0902.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0899.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL1302.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD1298.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL2832.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD2828.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0005.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0004.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0003.tmp",
+    "eStudentVerification/AspenExport.md",
+    "Centennial/Term 1/TODO.md",
     "Ami Chatbot/Notes for PD Day.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md",
     "Pasted Image 20241104112416_614.png",
     "Ami Chatbot/Ami-Chatbot.md",
-    "Centennial/Term 1/TODO.md",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Lucas_Vandermaarel_Pre-Drafting Assignment Two.docx",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL3015.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD3011.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL1005.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD1001.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL2943.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD2939.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL3885.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRD3885.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/~WRL1091.tmp",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Resources.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Locate Sources.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Choose and Analyze a Source.md",
@@ -261,8 +265,6 @@
     "Clever/Acadience Export.md",
     "Centennial/OSAP.md",
     "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md",
-    "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md",
-    "Centennial/Term 1/COMP100 - Programming 1/Week2/Week 2 - in class notes.md",
-    "Centennial/Term 1/COMP100 - Programming 1/Notes from Textbook/Chapter 1.md"
+    "Centennial/Term 1/COMP100 - Programming 1/Assignment Submission Format.md"
   ]
 }

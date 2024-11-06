@@ -54,6 +54,10 @@
 - [ ] Quiz 6 - **MATH175** (Nov. 2 - Nov. 7)
 - [ ] Research Essay Draft - **COMM170** (Nov. 10)
 
+
+
+- [ ] Individual Project - **COMP213** (Dec. 10)
+
 - [ ] Programming exercises
 - [ ] CSS exercises
 - [ ] Visio exercises - software eng.
