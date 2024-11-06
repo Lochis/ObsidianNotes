@@ -49,14 +49,12 @@
             "id": "835ba8a2b093dacd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "eStudentVerification/AspenExport.md",
-                "mode": "preview",
-                "source": false
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "AspenExport"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-31 22.27.07.excalidraw"
             }
           }
         ],
@@ -206,10 +204,10 @@
   },
   "active": "835ba8a2b093dacd",
   "lastOpenFiles": [
+    "eStudentVerification/AspenExport.md",
     "C#/Learning Path.md",
     "Clever/Acadience Export.md",
     "Clever/Acadience.md",
-    "eStudentVerification/AspenExport.md",
     "Generic Work Notes/App Approval Submitted.md",
     "eStudentVerification/DOB_SOURCE_DOC.md",
     "Ami Chatbot/Notes for PD Day.md",
