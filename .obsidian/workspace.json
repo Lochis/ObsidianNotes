@@ -58,9 +58,21 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "388f8e8bece10309",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "835ba8a2b093dacd",
+  "active": "388f8e8bece10309",
   "lastOpenFiles": [
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md",
     "Pasted Image 20241104112416_614.png",
