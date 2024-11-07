@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370
+    "width": 370,
+    "collapsed": true
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -220,6 +221,10 @@
   },
   "active": "388f8e8bece10309",
   "lastOpenFiles": [
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0632.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0625.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0642.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0639.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL0789.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD0785.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL1436.tmp",
@@ -227,10 +232,6 @@
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL0209.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD0201.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL0935.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0931.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL1095.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD1087.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0713.tmp",
     "conflict-files-obsidian-git.md",
     "eStudentVerification/AspenExport.md",
     "Centennial/Term 1/TODO.md",
