@@ -29,26 +29,38 @@
               "state": {
                 "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-06 00.14.04.excalidraw"
             }
           },
           {
             "id": "1d07b862c228d837",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-09-19 12.12.48.excalidraw"
+            }
+          },
+          {
+            "id": "835ba8a2b093dacd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ami Chatbot/CloudHosting.md",
+                "file": "Centennial/Term 1/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CloudHosting"
+              "title": "TODO"
             }
           },
           {
-            "id": "362638b4cc639456",
+            "id": "388f8e8bece10309",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394
+    "width": 370
   },
   "right": {
     "id": "affba43a67ea4910",
@@ -196,62 +208,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "362638b4cc639456",
+  "active": "388f8e8bece10309",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL2757.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD2725.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0005.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0004.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL0003.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD0002.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0001.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0000.tmp",
+    "conflict-files-obsidian-git.md",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL2757.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~$cas_Vandermaarel_Week 10 Lab - Social Support.docx",
-    "Centennial/Term 1/TODO.md",
-    "Ami Chatbot/CloudHosting.md",
-    "Centennial/Term 1/GNED - A Wellness Approach/Week 10 Lab - Social Support.docx",
-    "Ami Chatbot/Latest update in DB.md",
-    "Ami Chatbot/Issues.md",
-    "Ami Chatbot/Ami-Chatbot.md",
-    "Ami Chatbot/match_documents.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0310.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0306.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL0902.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD0899.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL1302.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRD1298.tmp",
+    "Centennial/Term 1/GNED - A Wellness Approach/~WRL2832.tmp",
     "eStudentVerification/AspenExport.md",
-    "C#/Learning Path.md",
-    "Clever/Acadience Export.md",
-    "Clever/Acadience.md",
-    "Generic Work Notes/App Approval Submitted.md",
-    "eStudentVerification/DOB_SOURCE_DOC.md",
+    "Centennial/Term 1/TODO.md",
     "Ami Chatbot/Notes for PD Day.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md",
     "Pasted Image 20241104112416_614.png",
+    "Ami Chatbot/Ami-Chatbot.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Resources.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Locate Sources.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Choose and Analyze a Source.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-17 15.46.06.excalidraw.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Untitled.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Ami Chatbot/SMTP.md",
     "Pasted image 20241022160313.png",
+    "Ami Chatbot/Issues.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/r34.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan-gtr-rear-view-2024.png",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissanGTR.png",
+    "Ami Chatbot/Latest update in DB.md",
     "Pasted image 20241007182859.png",
     "Centennial/Term 1/MATH Functions & Number Systems/Notes.md",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/preview-image.jpg",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan-gtr-rear-view-2024.avif",
     "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissan_logo.jpg",
-    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissanGTR.webp"
+    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/Assignment3/images/nissanGTR.webp",
+    "Centennial/Term 1/COMP100 - Programming 1/Important Notes.md",
+    "Generic Work Notes/App Approval Submitted.md",
+    "Untitled 1.md",
+    "Clever/Acadience.md",
+    "Clever/Acadience Export.md",
+    "Centennial/OSAP.md",
+    "Centennial/Term 1/COMP100 - Programming 1/Luiz Codes - Supporting Material.md"
   ]
 }
