@@ -49,9 +49,9 @@
     - [Why Social Media is Ruining Your Relationships PDF](https://e.centennialcollege.ca/content/enforced/1096251-COMM171909_2024W/Why%20Social%20Media%20is%20Ruining%20Your%20Relationships%20_%20Utne.pdf?ou=1096251&ou=1186600)
 
 - [x] Assignment 4 - **COMP100** (Nov. 6)
-- [ ] Test 2 - **Comp100** (Nov. 6)
+- [x] Test 2 - **Comp100** (Nov. 6)
 - [x] Quiz 2 - **Software Fund. Eng.** (Nov. 7)
-- [ ] Quiz 6 - **MATH175** (Nov. 2 - Nov. 7)
+- [x] Quiz 6 - **MATH175** (Nov. 2 - Nov. 7)
 - [ ] Test 2 - **MATH175** (Nov. 8)
 - [ ] Research Essay Draft - **COMM170** (Nov. 10)
 
