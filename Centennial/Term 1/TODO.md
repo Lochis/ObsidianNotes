@@ -52,7 +52,7 @@
 - [x] Test 2 - **Comp100** (Nov. 6)
 - [x] Quiz 2 - **Software Fund. Eng.** (Nov. 7)
 - [x] Quiz 6 - **MATH175** (Nov. 2 - Nov. 7)
-- [ ] Test 2 - **MATH175** (Nov. 8)
+- [x] Test 2 - **MATH175** (Nov. 8)
 - [ ] Research Essay Draft - **COMM170** (Nov. 10)
 
 
