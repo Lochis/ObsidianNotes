@@ -54,6 +54,7 @@
 - [x] Quiz 6 - **MATH175** (Nov. 2 - Nov. 7)
 - [x] Test 2 - **MATH175** (Nov. 8)
 - [ ] Research Essay Draft - **COMM170** (Nov. 10)
+	- [ ] And submit to discussion board
 
 
 
