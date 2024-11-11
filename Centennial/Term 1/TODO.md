@@ -32,7 +32,7 @@
 	- [x] 4.4, 6.1, 6.2, 6.3, and 6.4 content
 - [x] Assignment 3 - **Web Interface Design** (Oct. 15th)
 
-- [ ] McGraw-Hill Connect opens (Sept. 17)
+
 
 - [x] Quiz 4 - *Math175* (Oct. 12 -17)
 - [x] Week 7 Lab - Lifestyle Stress Management -  **A Wellness Approach** (Oct. 17)
@@ -45,7 +45,7 @@
 - [x] Major Quiz 2 - **MATH175** (Nov. 1)
 
 - [x] Project 2, Pre-Drafting Assignment Two - COMM170 (Nov. 3rd)
-	- [ ] ***My article chosen:***  Oremerod, K. (May 29, 2019). _[Why Social Media is Ruining Your Life](https://www.amazon.com/gp/product/1788400623/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788400623&linkCode=as2&tag=motearnew-20&linkId=f328d2cd9f55da79e0951bf509627aeb)_ The Utne Reader_._ retrieved on March 16, 2024.
+	- [x] ***My article chosen:***  Oremerod, K. (May 29, 2019). _[Why Social Media is Ruining Your Life](https://www.amazon.com/gp/product/1788400623/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1788400623&linkCode=as2&tag=motearnew-20&linkId=f328d2cd9f55da79e0951bf509627aeb)_ The Utne Reader_._ retrieved on March 16, 2024.
     - [Why Social Media is Ruining Your Relationships PDF](https://e.centennialcollege.ca/content/enforced/1096251-COMM171909_2024W/Why%20Social%20Media%20is%20Ruining%20Your%20Relationships%20_%20Utne.pdf?ou=1096251&ou=1186600)
 
 - [x] Assignment 4 - **COMP100** (Nov. 6)
@@ -53,12 +53,16 @@
 - [x] Quiz 2 - **Software Fund. Eng.** (Nov. 7)
 - [x] Quiz 6 - **MATH175** (Nov. 2 - Nov. 7)
 - [x] Test 2 - **MATH175** (Nov. 8)
-- [ ] Research Essay Draft - **COMM170** (Nov. 10)
-	- [ ] And submit to discussion board
+- [x] Research Essay Draft - **COMM170** (Nov. 10)
+	- [x] And submit to discussion board
 
+- [ ] Week 11 Lab - Technology and Stress - **A Wellness Approach** (Nov. 14)
 
 
 - [ ] Individual Project - **COMP213** (Dec. 10)
+- [ ] McGraw-Hill Connect  - **COMP120** ( opened Sept. 17) ***WORTH 10% of grade***
+- [ ] Group project - **COMP120** (Weekly on Sunday)
+
 
 - [ ] Programming exercises
 - [ ] CSS exercises
