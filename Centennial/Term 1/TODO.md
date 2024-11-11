@@ -57,10 +57,12 @@
 	- [x] And submit to discussion board
 
 - [ ] Week 11 Lab - Technology and Stress - **A Wellness Approach** (Nov. 14)
+- [ ] Quiz 7 - **MATH175** (Nov. 16 - 21)
+- [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
 
 
 - [ ] Individual Project - **COMP213** (Dec. 10)
-- [ ] McGraw-Hill Connect  - **COMP120** ( opened Sept. 17) ***WORTH 10% of grade***
+- [x] McGraw-Hill Connect  - **COMP120** ( opened Sept. 17) ***WORTH 10% of grade***
 - [ ] Group project - **COMP120** (Weekly on Sunday)
 
 
