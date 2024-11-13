@@ -56,7 +56,7 @@
 - [x] Research Essay Draft - **COMM170** (Nov. 10)
 	- [x] And submit to discussion board
 
-- [ ] Week 11 Lab - Technology and Stress - **A Wellness Approach** (Nov. 14)
+- [x] Week 11 Lab - Technology and Stress - **A Wellness Approach** (Nov. 14)
 - [ ] Quiz 7 - **MATH175** (Nov. 16 - 21)
 - [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
 
