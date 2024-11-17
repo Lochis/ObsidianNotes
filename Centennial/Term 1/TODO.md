@@ -57,14 +57,19 @@
 	- [x] And submit to discussion board
 
 - [x] Week 11 Lab - Technology and Stress - **A Wellness Approach** (Nov. 14)
-- [ ] Quiz 7 - **MATH175** (Nov. 16 - 21)
+- [x] Quiz 7 - **MATH175** (Nov. 16 - 21)
+      
 - [ ] Peer Feedback 2 - **COMM170** (Nov. 17)
-- [ ] Assignment 5 - **COMP100** (Nov. 19)
-- [ ] Quiz 3 - **Software Fund. Eng.** (Nov. 21)
+- [x] Assignment 5 - **COMP100** (Nov. 19)
+- [x] Quiz 3 - **Software Fund. Eng.** (Nov. 21)
+- [ ] Week 12 Lab - **GNED** (Nov. 21)
 - [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
 - [ ] Research Essay Revised - **COMM170** (Nov. 24)
+
 - [ ] Assignment 4 - **COMP213** (Nov. 26)
 
+
+Sign up for Copilot via **COMP120**
 
 - [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Individual Project - **COMP213** (Dec. 10)
