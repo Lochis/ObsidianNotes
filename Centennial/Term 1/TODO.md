@@ -59,7 +59,7 @@
 - [x] Week 11 Lab - Technology and Stress - **A Wellness Approach** (Nov. 14)
 - [x] Quiz 7 - **MATH175** (Nov. 16 - 21)
       
-- [ ] Peer Feedback 2 - **COMM170** (Nov. 17)
+- [x] Peer Feedback 2 - **COMM170** (Nov. 17)
 - [x] Assignment 5 - **COMP100** (Nov. 19)
 - [x] Quiz 3 - **Software Fund. Eng.** (Nov. 21)
 - [ ] Week 12 Lab - **GNED** (Nov. 21)
