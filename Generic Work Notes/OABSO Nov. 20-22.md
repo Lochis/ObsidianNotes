@@ -7,3 +7,9 @@
  - Paid subscription for cloud skill training
  - https://skillbuilder.aws/ 
  - Might be possible PD opportunity to get certain credentials
+
+### Microsoft Fabric
+ - Data warehouse - SQL Server like
+ - Could be a switch from VMs to cloud service. 
+	 - Might be good choice if leaving vmware and power BI is already gotten
+	 - Plus, might be included if we end up going to sentinel
