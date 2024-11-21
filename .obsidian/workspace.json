@@ -11,12 +11,14 @@
             "id": "fbb0f4279294708f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Generic Work Notes/The AI Canvas.excalidraw.md"
+                "file": "Generic Work Notes/OABSO Nov. 20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "The AI Canvas.excalidraw"
+              "icon": "lucide-file",
+              "title": "OABSO Nov. 20"
             }
           }
         ]
@@ -75,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316,
-    "collapsed": true
+    "width": 316
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -161,10 +162,20 @@
   },
   "active": "fbb0f4279294708f",
   "lastOpenFiles": [
+    "2024-08-02.md",
+    "2024-08-09.md",
+    "2024-Jul-26-Grocery.pdf",
+    "Drawing 2024-10-07 16.07.18.excalidraw.md",
+    "Drawing 2024-11-10 13.21.49.excalidraw.md",
+    "Pasted image 20240911190914.png",
+    "Pasted image 20240911191205.png",
+    "Pasted image 20241007182859.png",
+    "Pasted image 20241022160313.png",
+    "Pasted Image 20241104112416_614.png",
     "Untitled.canvas",
     "Generic Work Notes/The AI Canvas.excalidraw.md",
-    "Generic Work Notes/OABSO Nov. 20.md",
     "[.md",
+    "Generic Work Notes/OABSO Nov. 20.md",
     "Generic Work Notes/App Approval Submitted.md",
     "Generic Work Notes/IBM Pre-OASBO.md",
     "Centennial/Term 1/TODO.md",
@@ -177,7 +188,6 @@
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL3277.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRD3265.tmp",
     "Centennial/Term 1/GNED - A Wellness Approach/~WRL2355.tmp",
-    "Centennial/Term 1/GNED - A Wellness Approach/~WRD2339.tmp",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md"
   ]
 }
