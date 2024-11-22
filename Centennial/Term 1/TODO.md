@@ -62,18 +62,27 @@
 - [x] Peer Feedback 2 - **COMM170** (Nov. 17)
 - [x] Assignment 5 - **COMP100** (Nov. 19)
 - [x] Quiz 3 - **Software Fund. Eng.** (Nov. 21)
-- [ ] Week 12 Lab - **GNED** (Nov. 21)
+- [x] Week 12 Lab - **GNED** (Nov. 21)
 - [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
 - [ ] Research Essay Revised - **COMM170** (Nov. 24)
 
 - [ ] Assignment 4 - **COMP213** (Nov. 26)
+- [ ] Week 13 Lab - **A wellness approach** (Nov. 28)
 
 
 Sign up for Copilot via **COMP120**
 
+- [ ] Lab Assignment 3 (Python) - **Software Fund. Eng.** (Dec. 5)
 - [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Individual Project - **COMP213** (Dec. 10)
+- [ ] Final Assignment - **A Wellness Approach** (Dec. 10)
 - [ ] Bonus Lab - **GNED** (Dec. 10)
+
+
+### General important information about REGISTRATION
+If all requirements are met, students' requested courses will be added between Dec 18 - 20. **It is recommended that students attempt to register themselves on Dec 16 through Web Registration**.   
+  
+**Completing this form does not guarantee that you will be registered in your requested courses**. Successful registration is dependent on availability at time of registration.
       
 - [x] McGraw-Hill Connect  - **COMP120** ( opened Sept. 17) ***WORTH 10% of grade***
 
