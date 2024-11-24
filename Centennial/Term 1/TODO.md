@@ -63,7 +63,6 @@
 - [x] Peer Feedback 2 - **COMM170** (Nov. 17)
 - [x] Assignment 5 - **COMP100** (Nov. 19)
 - [x] Quiz 3 - **Software Fund. Eng.** (Nov. 21)
-<<<<<<< HEAD
 - [x] Quiz 5 - **COMP100** (Nov. 20)
 - [x] Week 12 Lab - **GNED** (Nov. 21)
 
