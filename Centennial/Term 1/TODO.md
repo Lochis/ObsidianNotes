@@ -1,3 +1,4 @@
+
 - [x] Week 2 Lab - A Wellness Approach (Thursday, Sept. 12)
 - [x] Unit 2: Summarizing - Comm170 (Sunday, Sept. 15)
 - [x] Week 2 Exercises - Programming 1 (Before Sept. 18)
@@ -64,16 +65,18 @@
 - [x] Quiz 3 - **Software Fund. Eng.** (Nov. 21)
 - [x] Quiz 5 - **COMP100** (Nov. 20)
 - [x] Week 12 Lab - **GNED** (Nov. 21)
-- [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
-- [ ] Research Essay Revised - **COMM170** (Nov. 24)
+
+- [x] Research Essay Revised - **COMM170** (Nov. 24)
 
 - [ ] Assignment 4 - **COMP213** (Nov. 26)
-
+- [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
+- [ ] Week 13 Lab - **A Wellness Approach** (Nov. 28)
 
 Sign up for Copilot via **COMP120**
 
 - [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Individual Project - **COMP213** (Dec. 10)
+- [ ] Final Assignment - **A Wellness Approach** (Dec. 10)
 - [ ] Bonus Lab - **GNED** (Dec. 10)
       
 - [x] McGraw-Hill Connect  - **COMP120** ( opened Sept. 17) ***WORTH 10% of grade***
