@@ -80,8 +80,6 @@
 - [ ] Assignment 4 - **COMP213** (Nov. 26)
 - [ ] Week 13 Lab - **A wellness approach** (Nov. 28)
 
->>>>>>> 536b2c926a7f8ad99fcbc0614ee3f478f52b7ce6
-
 Sign up for Copilot via **COMP120**
 
 - [ ] Lab Assignment 3 (Python) - **Software Fund. Eng.** (Dec. 5)
