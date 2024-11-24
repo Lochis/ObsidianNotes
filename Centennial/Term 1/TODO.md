@@ -72,15 +72,13 @@
 - [ ] Assignment 4 - **COMP213** (Nov. 26)
 - [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
 - [ ] Week 13 Lab - **A Wellness Approach** (Nov. 28)
-=======
+
 - [x] Week 12 Lab - **GNED** (Nov. 21)
 - [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
 - [ ] Research Essay Revised - **COMM170** (Nov. 24)
 
 - [ ] Assignment 4 - **COMP213** (Nov. 26)
 - [ ] Week 13 Lab - **A wellness approach** (Nov. 28)
-
-Sign up for Copilot via **COMP120**
 
 - [ ] Lab Assignment 3 (Python) - **Software Fund. Eng.** (Dec. 5)
 - [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
