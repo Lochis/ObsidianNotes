@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(246, 242, 116);
+    background-color: rgba(70, 70, 72,0.3);
 }
 
 
@@ -16,7 +16,7 @@ footer {
     width:1080px; 
     margin-left:auto; 
     margin-right:auto;
-    border: 1px solid black;
+    border: 3px solid rgb(70, 70, 72);
 }
 
 .form-group {
@@ -37,8 +37,10 @@ footer {
 
 .subtitle {
     margin-bottom: 0px;
+    padding-left: 10px;
     width: 100%;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgb(70, 70, 72);
+    color: #d5dd3c;
 }
 
 textarea {
@@ -71,4 +73,20 @@ input[type="text"] {
 ol {
     padding-top: 5px;
     padding-bottom: 20px;
+}
+
+.endingRemarks {
+    text-align: center;
+}
+
+button[type="submit"] {
+    color: #d5dd3c;
+    background-color: rgb(70, 70, 72);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+button[type="submit"]:hover {
+    background-color: rgba(70, 70, 72,0.8);
 }
