@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(126, 161, 114);
+    background-color: rgb(246, 242, 116);
 }
 
 
@@ -13,104 +13,62 @@ footer {
 }
 
 .container {
-    width:980px; 
+    width:1080px; 
     margin-left:auto; 
     margin-right:auto;
+    border: 1px solid black;
 }
 
-#title-text {
-    text-align: center;
-    color:rgb(139, 66, 136);
-    text-shadow: black 1px 2px 1px;
+.form-group {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
-#preview-image {
-    border-radius: 25px;
-    width: 300px;
-    height: 200px;
-    object-fit: cover;
+.form-group label:first-child {
+    font-weight: 600;
 }
 
-#larger-preview-image {
-    border-radius: 25px;
-    object-fit: cover;
-    width:100%; 
-    height:100%;
+#form-content {
+    padding: 0 70px 70px 70px;
 }
 
-.banner-image {
-    flex: 4;
-    object-fit: cover; 
-    max-height: 10vh; 
+.subtitle {
+    margin-bottom: 0px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.3);
 }
 
-#GTR-desc{
-    line-height: 1.6;
-    font-size: 18px;
-    color: #111110;
+textarea {
+    border: none;
+    width: 100%;
+    resize: none;
+    line-height: 1.5em;
+    background: repeating-linear-gradient(
+        to bottom,
+        transparent,
+        transparent calc(1.5em - 1px),
+        black calc(1.5em - 1px),
+        black 1.5em
+    );
 }
 
-#product-desc-table{
-    width:100%; 
-    text-align: left;
-    border-radius: 25px;
+input[type="text"] {
+    line-height: 1.5em;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
 }
 
-#product-desc-table thead th:nth-child(1) {
-    border-top-left-radius: 25px;
+.questionsList {
+    list-style-type:lower-alpha;
+    display: flex;
+    gap: 120px;
 }
 
-#product-desc-table thead th:nth-child(2){
-    border-top-right-radius: 25px;
-}
-
-#product-desc-table tbody tr:nth-last-child(-n+1) td:nth-last-child(-n+1) {
-    border-bottom-right-radius: 25px;
-}
-
-#product-desc-table tbody tr:nth-last-child(-n+1) td:nth-last-child(n+2) {
-    border-bottom-left-radius: 25px;
-}
-
-#product-desc-table td {
-    padding-left: 5px;
-}
-
-#product-desc-table tbody>tr:nth-child(even){
-    background-color: rgb(194, 194, 194);
-}
-
-#product-desc-table tbody>tr:nth-child(odd){
-    background-color: rgb(238, 238, 238);
-}
-
-#product-desc-table tbody tr td{
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-#product-desc-table thead th{
-    padding: 10px;
-    background-color: rgb(211, 114, 99);
-    color: white;
-}
-
-.back-btn{
-    border-radius: 25px; 
-    background-color: rgb(226, 109, 92); 
-    padding:10px; 
-    text-decoration: none;
-    color: black;
-    font-weight: 700;
-}
-
-.back-btn:hover {
-    background-color: rgb(211, 114, 99);
-}
-
-#GTR-features {
-    padding-left: 400px;
-    color: #dfdfdf;
-    text-shadow: black 1px 1px 1px;
-    font-size: 16px;
+ol {
+    padding-top: 5px;
+    padding-bottom: 20px;
 }

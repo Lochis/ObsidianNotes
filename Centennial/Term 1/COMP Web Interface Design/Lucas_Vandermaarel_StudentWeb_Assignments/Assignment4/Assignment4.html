@@ -1,20 +1,312 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Assignment 4</title>
-    <link rel="stylesheet" href="./css/styles.css"/>
+    <link rel="stylesheet" href="./css/styles.css" />
 </head>
 
 <!-- Lucas Vandermaarel - Student Number: 301482828-->
 
 <body>
     <div class="container">
-    <header>
-        <img src="./images/centennialcollege.jpg"/>
-    </header>
 
-</div>
+
+
+
+        <header>
+            <a href="https://www.centennialcollege.ca/"><img src="./images/centennialcollege.jpg" width="100%" /></a>
+        </header>
+
+        <div id="form-content">
+
+            <div style="text-align: center;">
+                <h1 style="margin-bottom:0;">Centennial College</h1>
+                <h3 style="margin-top:0;">Continuing Education Course/Instructor Evaluation</h3>
+            </div>
+            <p>
+                Please read each statement carefully and consider each one individually. Use the <strong>computer
+                    card</strong> to make your choice (use a pencil to fill in the space). Give only <strong>one
+                    answer</strong> for each question.
+            </p>
+
+            <form method="get">
+                <div style="display:flex;" class="form-group">
+                    <label style="flex:1;" for="courseName">Course Name:</label>
+                    <input style="flex:6" type="text" id="courseName" name="courseName" required />
+                </div>
+
+                <div class="form-group">
+
+                    <label style="flex: 1;">Semester:</label>
+
+                    <div style="flex: 6;">
+                        <div style="display:flex; justify-content: center; gap:85px;">
+                            <div>
+                                <input type="radio" id="fall" name="semester" value="fall" required>
+                                <label for="fall">Fall</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="winter" name="semester" value="winter" required>
+                                <label for="winter">Winter</label>
+                            </div>
+
+                            <div>
+                                <input type="radio" id="springSummer" name="semester" value="springSummer" required>
+                                <label for="springSummer">Spring/Summer</label>
+                            </div>
+                            <div>
+                                <label for="semesterYear"><strong>Year:</strong></label>
+                                <input type="text" id="semesterYear" name="semesterYear" required />
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div style="display:flex;" class="form-group">
+                    <label style="flex: 1;" for="instructorName">Instructor:</label>
+                    <input style="flex: 6;" type="text" id="instructorName" name="instructorName" required />
+                </div>
+
+                <h2 class="subtitle">Instructor</h2>
+                <br/>
+                <span>How would you rate the instructor's:</span>
+
+                <ol>
+                    <li>
+                        <strong>knowledge</strong> of the subject?
+                        <ol class="questionsList">
+                            <div>
+                                <input type="radio" id="excellent" name="q1" value="excellent" required>
+                                <label for="excellent">Excellent</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="good" name="q1" value="good" required>
+                                <label for="good">Good</label>
+                            </div>
+
+                            <div>
+                                <input type="radio" id="fair" name="q1" value="fair" required>
+                                <label for="fair">Fair</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="notSatisfactory" name="q1" value="NS" required>
+                                <label for="notSatisfactory">Not Satisfactory</label>
+                            </div>
+                        </ol>
+
+                    </li>
+                    <li>
+                        <strong>helpfulness</strong>?
+                        <ol class="questionsList">
+                            <div>
+                                <input type="radio" id="excellent2" name="q2" value="excellent" required>
+                                <label for="excellent2">Excellent</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="good2" name="q2" value="good" required>
+                                <label for="good2">Good</label>
+                            </div>
+
+                            <div>
+                                <input type="radio" id="fair2" name="q2" value="fair" required>
+                                <label for="fair2">Fair</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="notSatisfactory2" name="q2" value="NS" required>
+                                <label for="notSatisfactory2">Not Satisfactory</label>
+                            </div>
+                        </ol>
+                    
+                    </li>
+                    <li>
+                        <strong>courtesy and respect</strong> for all students?</li>
+                    <ol class="questionsList">
+                        <div>
+                            <input type="radio" id="excellent3" name="q3" value="excellent" required>
+                            <label for="excellent3">Excellent</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="good3" name="q3" value="good" required>
+                            <label for="good3">Good</label>
+                        </div>
+
+                        <div>
+                            <input type="radio" id="fair3" name="q3" value="fair" required>
+                            <label for="fair3">Fair</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="notSatisfactory3" name="q3" value="NS" required>
+                            <label for="notSatisfactory3">Not Satisfactory</label>
+                        </div>
+                    </ol>
+                    <li><strong>communication</strong> skills?
+                        <ol class="questionsList">
+                            <div>
+                                <input type="radio" id="excellent4" name="q4" value="excellent" required>
+                                <label for="excellent4">Excellent</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="good4" name="q4" value="good" required>
+                                <label for="good4">Good</label>
+                            </div>
+    
+                            <div>
+                                <input type="radio" id="fair4" name="q4" value="fair" required>
+                                <label for="fair4">Fair</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="notSatisfactory4" name="q4" value="NS" required>
+                                <label for="notSatisfactory4">Not Satisfactory</label>
+                            </div>
+                        </ol></li>
+                    <li>overall <strong>performance</strong>?
+                        <ol class="questionsList">
+                            <div>
+                                <input type="radio" id="excellent5" name="q5" value="excellent" required>
+                                <label for="excellent5">Excellent</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="good5" name="q5" value="good" required>
+                                <label for="good5">Good</label>
+                            </div>
+    
+                            <div>
+                                <input type="radio" id="fair5" name="q5" value="fair" required>
+                                <label for="fair5">Fair</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="notSatisfactory5" name="q5" value="NS" required>
+                                <label for="notSatisfactory5">Not Satisfactory</label>
+                            </div>
+                        </ol>
+                    </li>
+                </ol>
+
+                <h2 class="subtitle">Course</h2>
+                <ol start="6">
+                    <li>How would you rate the <strong>course materials</strong>?
+                        <ol class="questionsList">
+                            <div>
+                                <input type="radio" id="excellent6" name="q6" value="excellent" required>
+                                <label for="excellent6">Excellent</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="good6" name="q6" value="good" required>
+                                <label for="good6">Good</label>
+                            </div>
+    
+                            <div>
+                                <input type="radio" id="fair6" name="q6" value="fair" required>
+                                <label for="fair6">Fair</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="notSatisfactory6" name="q6" value="NS" required>
+                                <label for="notSatisfactory6">Not Satisfactory</label>
+                            </div>
+                        </ol>
+                    </li>
+                    <li>How much did this course meet your <strong>expectations</strong>?
+                        <ol class="questionsList">
+                            <div>
+                                <input type="radio" id="excellent7" name="q7" value="excellent" required>
+                                <label for="excellent7">Excellent</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="good7" name="q7" value="good" required>
+                                <label for="good7">Good</label>
+                            </div>
+    
+                            <div>
+                                <input type="radio" id="fair7" name="q7" value="fair" required>
+                                <label for="fair7">Fair</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="notSatisfactory7" name="q7" value="NS" required>
+                                <label for="notSatisfactory7">Not Satisfactory</label>
+                            </div>
+                        </ol>
+                    </li>
+                    <li>How would you rate this course (<strong>overall</strong>)?
+                        <ol class="questionsList">
+                            <div>
+                                <input type="radio" id="excellent8" name="q8" value="excellent" required>
+                                <label for="excellent8">Excellent</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="good8" name="q8" value="good" required>
+                                <label for="good8">Good</label>
+                            </div>
+    
+                            <div>
+                                <input type="radio" id="fair8" name="q8" value="fair" required>
+                                <label for="fair8">Fair</label>
+                            </div>
+                            <div>
+                                <input type="radio" id="notSatisfactory8" name="q8" value="NS" required>
+                                <label for="notSatisfactory8">Not Satisfactory</label>
+                            </div>
+                        </ol>
+                    </li>
+                </ol>
+
+                <h2 class="subtitle">General Information</h2>
+
+                <ol start="9">
+                    <li>Was the <strong>course outline</strong> reviewed/explained at the beginning of your course?
+                        <select id="q9" name="q9" required>
+                            <option value="yes">Yes</option>
+                            <option value="no">No</option>
+                            <option value="notSure">Not Sure</option>
+                        </select>
+                    </li>
+
+                    <br/>
+
+                    <li>Would you <strong>recommend</strong> this course to a friend with the same interests?
+                        <label for="q10">Choose an option:</label>
+                        <select id="q10" name="q10" required>
+                            <option value="yes">Yes</option>
+                            <option value="no">No</option>
+                            <option value="notSure">Not Sure</option>
+                        </select>
+                    </li>
+                </ol>
+
+                <h2 class="subtitle">Any Other Comments <span style="font-size: medium; font-weight:100;">(please use
+                        the back of the computer card or this paper if necessary)</span></h2>
+                <ol start="11">
+                    <li>
+                        <div style="display:flex;">
+                        <span style="flex:1;">What is the <strong>best thing</strong> about this course?</span>
+                        <input style="flex: 2;" type="text" id="bestThing" name="bestThing" required/>
+                    </div>
+                    </li>
+                    <li>
+                        <div style="display:flex;">
+                            <span style="flex:1;">How could we <strong>improve</strong> this course?</span>
+                            <input style="flex: 2;" type="text" id="improve" name="improve" required/>
+                        </div>
+                        </li>
+                    <li>
+                        <div style="display:flex;">
+                            <label style="flex:1;" for="otherText">Other:</label>
+                            <textarea style="flex:11;" rows="4" id="otherText" name="otherText" required></textarea>
+                        </div>
+                    </li>
+                </ol>
+
+
+                <div class="form-group">
+                    <button type="submit">Submit</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
 </body>
+
 </html>
