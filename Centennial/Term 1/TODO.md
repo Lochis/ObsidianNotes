@@ -70,7 +70,7 @@
 - [x] Week 12 Lab - **GNED** (Nov. 21)
 
 - [x] Assignment 4 - **COMP213** (Nov. 26)
-- [ ] Quiz 8 - **MATH175** (Nov. 23 - 28)
+- [x] Quiz 8 - **MATH175** (Nov. 23 - 28)
 - [ ] Week 13 Lab - **A Wellness Approach** (Nov. 28)
 - [ ] Quiz 6 - **COMP100** (Nov. 27)
 
