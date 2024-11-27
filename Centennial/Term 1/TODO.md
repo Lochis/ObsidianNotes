@@ -71,7 +71,7 @@
 
 - [x] Assignment 4 - **COMP213** (Nov. 26)
 - [x] Quiz 8 - **MATH175** (Nov. 23 - 28)
-- [ ] Week 13 Lab - **A Wellness Approach** (Nov. 28)
+- [x] Week 13 Lab - **A Wellness Approach** (Nov. 28)
 - [ ] Quiz 6 - **COMP100** (Nov. 27)
 
 - [ ] Lab Assignment 3 (Python) - **Software Fund. Eng.** (Dec. 5)
