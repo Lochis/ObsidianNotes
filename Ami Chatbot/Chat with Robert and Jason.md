@@ -44,3 +44,10 @@
 		- This would allow me to work on the AI at work with much higher availability than the Azure VM.
 		- A decent GPU for AI calculations is around ***$1400*** before tax in the consumer market.
 		- A *datacenter* grade GPU would cost around *$7300*. For this, not needed.
+
+
+
+### App requests
+- Add extra questions
+	-  did you run this by principal?
+	- 
