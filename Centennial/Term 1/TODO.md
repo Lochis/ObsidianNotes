@@ -75,10 +75,14 @@
 - [x] Quiz 6 - **COMP100** (Nov. 27)
 
 
+- [ ] Major Quiz 3 - **MATH175** (Nov. 29th)
+
+- [ ] Quiz 9 - **MATH175** (Nov. 30th - Dec. 5)
 - [ ] Test 3 - **A Wellness Approach** (Dec. 1 - 5)
 - [ ] Lab Assignment 3 (Python) - **Software Fund. Eng.** (Dec. 5)
 - [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Quiz 4 - **COMP120** (Dec. 5)
+- [ ] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
 - [ ] Individual Project - **COMP213** (Dec. 10)
 - [ ] Final Assignment - **A Wellness Approach** (Dec. 10)
 - [ ] Bonus Lab - **GNED** (Dec. 10)
