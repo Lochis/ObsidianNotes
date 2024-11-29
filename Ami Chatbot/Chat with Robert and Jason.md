@@ -11,7 +11,7 @@
    ## Action Items 
    - Pilot at a school after IT dept and board office
    - Clean up IT SharePoint files
-   - Make it a topic to clean up files
+   - Make it a topic to clean up files for other depts.
    - Maybe take Incident Response doc and put it away
    - Create a quote/ put specifications together for a new build
    - Figure out why you can't find *SSS* subsite?!
