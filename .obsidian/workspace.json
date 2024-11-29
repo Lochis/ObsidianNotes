@@ -11,17 +11,28 @@
             "id": "196299a6999302b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Centennial/Term 1/TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-31 22.27.07.excalidraw"
+            }
+          },
+          {
+            "id": "847b8909d9d5b1c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-28 18.09.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-28 18.09.06.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480
+    "width": 292.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -160,11 +172,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "196299a6999302b6",
+  "active": "847b8909d9d5b1c0",
   "lastOpenFiles": [
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-28 18.09.06.excalidraw.md",
+    "Centennial/Term 1/TODO.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-09-19 12.12.48.excalidraw.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-06 00.14.04.excalidraw.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-17 15.46.06.excalidraw.md",
     "Ami Chatbot/Chat with Robert and Jason.md",
     "Ami Chatbot/Ami-Chatbot.md",
-    "Centennial/Term 1/TODO.md",
     "Centennial/Term 1/COMM College Communications 2/Opinion Piece/Peer Review 3 and Final Reflection Template.docx",
     "Centennial/Term 1/COMM College Communications 2/Opinion Piece/Public Communication Template.docx",
     "Centennial/Term 1/COMM College Communications 2/Opinion Piece",
@@ -182,7 +199,6 @@
     "Untitled.canvas",
     "Generic Work Notes/The AI Canvas.excalidraw.md",
     "Generic Work Notes/OABSO Nov. 20-22.md",
-    "Generic Work Notes/IBM Pre-OASBO.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md"
+    "Generic Work Notes/IBM Pre-OASBO.md"
   ]
 }

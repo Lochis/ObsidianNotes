@@ -86,6 +86,10 @@
 - [ ] Individual Project - **COMP213** (Dec. 10)
 - [ ] Final Assignment - **A Wellness Approach** (Dec. 10)
 - [ ] Bonus Lab - **GNED** (Dec. 10)
+      
+- [ ] Final Exam - **Software Eng. Fund.** (Dec. 12)
+	- theory part(Multiple Choice questions) and 
+	- practical part (Python questions)
 
 
 ### General important information about REGISTRATION
