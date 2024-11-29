@@ -19,7 +19,10 @@ obsius: https://obsius.site/6o343f6t6e435s5i5n5a
 
 
 > [!TODO]- TODO
->
+> - [ ] Finish Admin calls
+> - [ ] Make admin calls secure by checking if authenticated and if user role is Global Admin
+>       
+>       
 > - [ ] [Contextual responses/ Chat History](ChatHistory.md)
 > - [ ] Map out link paths of The Core Navigation bar
 > - [ ] Figure out how AMDSB main website and school sites would be scraped
