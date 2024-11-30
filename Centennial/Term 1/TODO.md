@@ -73,9 +73,7 @@
 - [x] Quiz 8 - **MATH175** (Nov. 23 - 28)
 - [x] Week 13 Lab - **A Wellness Approach** (Nov. 28)
 - [x] Quiz 6 - **COMP100** (Nov. 27)
-
-
-- [ ] Major Quiz 3 - **MATH175** (Nov. 29th)
+- [x] Major Quiz 3 - **MATH175** (Nov. 29th)
 
 - [ ] Quiz 9 - **MATH175** (Nov. 30th - Dec. 5)
 - [ ] Test 3 - **A Wellness Approach** (Dec. 1 - 5)
