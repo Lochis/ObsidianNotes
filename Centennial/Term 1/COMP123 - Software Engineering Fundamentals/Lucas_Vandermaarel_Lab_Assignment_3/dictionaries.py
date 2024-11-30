@@ -19,6 +19,7 @@ for val in favorite_languages:
     print(favorite_languages[val])
     
 
+print()
 #Exercise 2
 student = {
     'student name': 'Lucas Vandermaarel',
@@ -29,5 +30,7 @@ student = {
     'lab': 3
 }
 
-for stu in student:
-    print('key: ' + student[stu] + student.get(stu))
+studentKeys = student.keys()
+studentValues = student.values()
+
+print('Keys:', studentKeys, '\nValues:', studentValues)

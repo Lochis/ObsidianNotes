@@ -32,13 +32,16 @@ print('comp100,comp120,comp213')
 courseNames = ['comp100', 'comp120', 'comp213']
 
 print('--- Print personalized ---')
-for course in courseNames:
-    print('You are enrolled in ' + course)
+print('You are enrolled in ' + courseNames[0])
+print('You are enrolled in ' + courseNames[1])
+print('You are enrolled in ' + courseNames[2])
     
 courseNames.append('comp200')
 print('------ After Append ------')
 
-for course in courseNames:
-    print('You are enrolled in ' + course)
+print('You are enrolled in ' + courseNames[0])
+print('You are enrolled in ' + courseNames[1])
+print('You are enrolled in ' + courseNames[2])
+print('You are enrolled in ' + courseNames[3])
     
 print()
