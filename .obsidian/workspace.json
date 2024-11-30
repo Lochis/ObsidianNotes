@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "242d3b0e9a34d5dc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-30 15.47.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-30 15.47.28.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1547c889f3e1a123",
+  "active": "242d3b0e9a34d5dc",
   "lastOpenFiles": [
+    "Centennial/Term 1/TODO.md",
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-30 15.47.28.excalidraw.md",
     "Centennial/Term 1/GNED - A Wellness Approach/Final Test (3)/Week 10 - Interpersonal.pptx",
     "Centennial/Term 1/GNED - A Wellness Approach/Final Test (3)/Week 11 - Intrapersonal.pptx",
     "Centennial/Term 1/GNED - A Wellness Approach/Final Test (3)/Week 12 - Physical Health & Nutrition.pptx",
@@ -172,10 +187,8 @@
     "Centennial/Term 1/GNED - A Wellness Approach/Labs/Week 2 Lab - Symptoms of Stress.docx",
     "Centennial/Term 1/GNED - A Wellness Approach/Labs/Week 10 Lab - Social Support.docx",
     "Centennial/Term 1/GNED - A Wellness Approach/Labs/Lucas_Vandermaarel_Week 13 Lab - Occupational Stress.docx",
-    "Centennial/Term 1/GNED - A Wellness Approach/Labs/Lucas_Vandermaarel_Week 12 Lab - Physical Activity.docx",
     "Ami Chatbot/Ami-Chatbot.md",
     "Ami Chatbot/Chat with Robert and Jason.md",
-    "Centennial/Term 1/TODO.md",
     "Centennial/OSAP.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-31 22.27.07.excalidraw.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-28 18.09.06.excalidraw.md",
