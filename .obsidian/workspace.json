@@ -11,12 +11,14 @@
             "id": "242d3b0e9a34d5dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-30 15.47.28.excalidraw.md"
+                "file": "Centennial/Term 1/TODO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-30 15.47.28.excalidraw"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.0026054382324
+    "width": 292.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -160,9 +163,9 @@
   },
   "active": "242d3b0e9a34d5dc",
   "lastOpenFiles": [
+    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-30 15.47.28.excalidraw.md",
     "Personal/Recipes.md",
     "Centennial/Term 1/TODO.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-30 15.47.28.excalidraw.md",
     "Centennial/Term 1/GNED - A Wellness Approach/Final Test (3)/Week 10 - Interpersonal.pptx",
     "Centennial/Term 1/GNED - A Wellness Approach/Final Test (3)/Week 11 - Intrapersonal.pptx",
     "Centennial/Term 1/GNED - A Wellness Approach/Final Test (3)/Week 12 - Physical Health & Nutrition.pptx",
