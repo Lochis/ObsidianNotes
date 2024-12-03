@@ -80,6 +80,7 @@
 - [x] Quiz 4 - **COMP120** (Dec. 5)
       
 - [ ] Test 3 - **A Wellness Approach** (Dec. 1 - 5)
+- [ ] Quiz 7 - **COMP100** (Nov. 4)
       
 - [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
