@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.0026054382324
+    "width": 292.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -160,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1547c889f3e1a123",
+  "active": "242d3b0e9a34d5dc",
   "lastOpenFiles": [
     "Centennial/Term 1/GNED - A Wellness Approach/Final Test (3)/~$Week 12 - Physical Health & Nutrition.pptx",
     "Centennial/Term 1/GNED - A Wellness Approach/Final Test (3)/~$Week 13 - Occupational Stress.pptx",

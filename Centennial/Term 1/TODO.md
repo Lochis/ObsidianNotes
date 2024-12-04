@@ -79,8 +79,8 @@
 - [x] Lab Assignment 3 (Python) - **Software Fund. Eng.** (Dec. 5)
 - [x] Quiz 4 - **COMP120** (Dec. 5)
       
-- [ ] Test 3 - **A Wellness Approach** (Dec. 1 - 5)
-- [ ] Quiz 7 - **COMP100** (Nov. 4)
+- [x] Test 3 - **A Wellness Approach** (Dec. 1 - 5)
+- [x] Quiz 7 - **COMP100** (Nov. 4)
       
 - [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
@@ -88,6 +88,9 @@
 - [ ] Final Assignment - **A Wellness Approach** (Dec. 10)
 - [ ] Bonus Lab - **GNED** (Dec. 10)
 - [ ] Test 3 - **MATH175** (Dec. 13)
+- [ ] Final Exam - **Software Eng. Fund.** (Dec. 12)
+	- theory part(Multiple Choice questions) and 
+	- practical part (Python questions)
 
 ```python
 
@@ -109,12 +112,6 @@ return;
 }
 
 ```
-
-      
-- [ ] Final Exam - **Software Eng. Fund.** (Dec. 12)
-	- theory part(Multiple Choice questions) and 
-	- practical part (Python questions)
-
 
 ### General important information about REGISTRATION
 If all requirements are met, students' requested courses will be added between Dec 18 - 20. **It is recommended that students attempt to register themselves on Dec 16 through Web Registration**.   
