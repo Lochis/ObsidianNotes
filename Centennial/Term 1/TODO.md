@@ -93,7 +93,7 @@
 	- theory part(Multiple Choice questions) and 
 	- practical part (Python questions)
 
-- [ ] COMM170 Final project (Dec. 8, Dec.8, Dec.15)
+- [ ] **COMM170** Final project (*Dec. 8, Dec.8, Dec.15*)
 . - Opinion Piece - completed Project 3 template 
 - Digital Presentation - audio or audio/visual recording + slides
 - Peer Review - Peer Review & Final Reflection Template

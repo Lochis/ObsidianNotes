@@ -9,6 +9,18 @@ obsius: https://obsius.site/6o343f6t6e435s5i5n5a
 
 **Button that can email auth'd user current chat**
 
+>[!INFO] Project Scope
+>Project Scope: AI-Powered Knowledge Management and Support System “AMi”
+>Project Overview
+>This project aims to develop an AMDSB AI-powered system named “AMi” to enhance our internal knowledge management and support capabilities. The system will leverage existing resources, including the TOPDesk knowledgebase, SharePoint documents, and other data sources to provide accurate and timely responses to staff inquiries. Additionally, it will integrate secure Single Sign-On (SSO) with Multi-Factor Authentication (MFA) and offer an email chat option for user convenience.
+>
+> Objectives
+>1. Enable AMi to answer questions based on the TOPDesk knowledgebase, ensuring quick and accurate information retrieval.
+>2. Enable AMi to answer questions based on Core resources ensuring quick and accurate information retrieval. 
+>3. Integrate AMi with all SharePoint repositories to answer queries based on stored documents. This will require a preliminary cleanup of the SharePoint repository to ensure data accuracy and relevance.
+>4. Implement SSO with MFA to ensure that only authorized staff can access the AMi system, enhancing security and user experience. 
+>5. Provide an email chat option, allowing AMDSB staff to interact with the AMi system via email, in addition to the web interface.
+
 
 > [!WARNING]
 >
