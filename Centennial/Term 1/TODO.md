@@ -84,6 +84,7 @@
       
 - [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
+- [ ] Assignment 6 - **COMP100** (Dec. 10)
 - [ ] Individual Project - **COMP213** (Dec. 10)
 - [ ] Final Assignment - **A Wellness Approach** (Dec. 10)
 - [ ] Bonus Lab - **GNED** (Dec. 10)
@@ -91,6 +92,17 @@
 - [ ] Final Exam - **Software Eng. Fund.** (Dec. 12)
 	- theory part(Multiple Choice questions) and 
 	- practical part (Python questions)
+
+- [ ] COMM170 Final project (Dec. 8, Dec.8, Dec.15)
+. - Opinion Piece - completed Project 3 template 
+- Digital Presentation - audio or audio/visual recording + slides
+- Peer Review - Peer Review & Final Reflection Template
+
+Due Dates:
+
+- Opinion Piece - December 8
+- Digital Presentation - December 8
+- Peer review - December 15
 
 ```python
 
