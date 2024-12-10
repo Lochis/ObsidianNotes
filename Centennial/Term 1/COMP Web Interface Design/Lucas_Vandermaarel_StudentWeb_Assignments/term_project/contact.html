@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+
+<body>
+    <header>
+        <a href="./index.html"><img id="brand-logo" src="./images/CrispyHavenLogo.png" alt="Crispy Haven logo"></a>
+        <div>
+            <ul>
+                <li><a href="./menu.html" alt="link to menu">Menu</a></li>
+                <li><a href="./specials.html" alt="link to specials">Specials</a></li>
+                <li><a href="./gallery.html" alt="link to gallery">Gallery</a></li>
+                <li><a href="./reviews.html" alt="link to reviews">Reviews</a></li>
+                <li><a href="./contact.html" alt="link to contact">Contact</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <h1 class="colorChange">Contact Us</h1>
+            <p>We'd love to hear from you! Please fill out the form below to get in touch with us.</p>
+            <form action="submit_form.php" method="post">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="4" required></textarea>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Submit</button>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Crispy Haven. Lucas Vandermaarel. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
