@@ -278,6 +278,21 @@ footer {
     cursor: pointer;
 }
 
+.special-flex {
+    flex-direction: column; 
+    display: flex;
+}
+
+.special-flex img {
+    border-radius: 50px;
+    width: 100%;
+}
+
+.hr-color { 
+    border: var(--header-color) 1px solid;
+    width: 100%;
+}
+
 @media screen and (min-width: 980px) {
     header {
         height: 10vh;
@@ -290,6 +305,10 @@ footer {
 
     #cooks-section {
         flex-direction: row;
+    }
+
+    .special-flex img {
+        width: 20vw;
     }
 
     #cooks { 
