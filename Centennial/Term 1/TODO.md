@@ -82,11 +82,13 @@
 - [x] Test 3 - **A Wellness Approach** (Dec. 1 - 5)
 - [x] Quiz 7 - **COMP100** (Nov. 4)
       
-- [ ] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
+- [x] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
-- [ ] Assignment 6 - **COMP100** (Dec. 10)
+- [ ] Final Exam - **COMP213** (Dec. 10)
+- [ ] Assignment 6 - **COMP100** ( Dec. 10)
 - [ ] Individual Project - **COMP213** (Dec. 10)
-- [ ] Final Assignment - **A Wellness Approach** (Dec. 10)
+- [x] Final Assignment - **A Wellness Approach** (Dec. 10)
+- [ ] Final Test - **COMP100** (Dec . 11)
 - [ ] Bonus Lab - **GNED** (Dec. 10)
 - [ ] Test 3 - **MATH175** (Dec. 13)
 - [ ] Final Exam - **Software Eng. Fund.** (Dec. 12)
@@ -94,8 +96,8 @@
 	- practical part (Python questions)
 
 - [ ] **COMM170** Final project (*Dec. 8, Dec.8, Dec.15*)
-. - Opinion Piece - completed Project 3 template 
-- Digital Presentation - audio or audio/visual recording + slides
+ - [x] Opinion Piece - completed Project 3 template 
+- [x] Digital Presentation - audio or audio/visual recording + slides
 - Peer Review - Peer Review & Final Reflection Template
 
 Due Dates:
