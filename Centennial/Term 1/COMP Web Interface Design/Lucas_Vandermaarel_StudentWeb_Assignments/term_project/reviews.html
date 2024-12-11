@@ -32,6 +32,7 @@
                 </div>
                 <div>
                     <h3 class="text-primary">John Doe</h3>
+                    <p>⭐⭐⭐⭐⭐</p>
                     <p>"The best fried chicken I've ever had! Crispy Haven never disappoints."</p>
                 </div>
                
@@ -43,6 +44,7 @@
                 </div>
                 <div>
                     <h3 class="text-primary">Jane Bright</h3>
+                    <p>⭐⭐⭐⭐</p>
                     <p>"Amazing food and great service. Highly recommend the spicy Nashville hot chicken!"</p>
                 </div>
                
@@ -53,6 +55,7 @@
                 </div>
                 <div>
                     <h3 class="text-primary">Emily Johnson</h3>
+                    <p>⭐⭐⭐</p>
                     <p>"A wonderful dining experience. The sides are just as good as the chicken."</p>
                 </div>
             </div>
@@ -63,11 +66,35 @@
                 </div>
                 <div>
                     <h3 class="text-primary">Michael Brown</h3>
+                    <p>⭐⭐⭐⭐⭐</p>
                     <p>"Crispy Haven is my go-to place for comfort food. Love their family meals."</p>
                 </div>
-                
             </div>
         </div>
+        <h2 class="colorChange">Submit Your Review</h2>
+        <form action="./reviews.html" method="get">
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+                <label for="rating">Rating</label>
+                <select id="rating" name="rating" required>
+                    <option value="1">⭐</option>
+                    <option value="2">⭐⭐</option>
+                    <option value="3">⭐⭐⭐</option>
+                    <option value="4">⭐⭐⭐⭐</option>
+                    <option value="5">⭐⭐⭐⭐⭐</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="comments">Comments</label>
+                <textarea id="comments" name="comments" rows="4" required></textarea>
+            </div>
+            <div class="form-group">
+                <button class="primary-btn" id="submit" type="submit">Submit</button>
+            </div>
+        </form>
     </main>
 
     <footer>

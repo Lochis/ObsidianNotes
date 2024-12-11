@@ -318,7 +318,7 @@ footer {
 
 .review {
     display: flex;
-    background-color: rgba(198, 203, 207, 0.9);
+    background-color: rgba(63, 63, 63, 0.9);
     margin-bottom: 40px;
     border-radius: 25px;
     padding-left: 10px;
@@ -334,39 +334,61 @@ footer {
 }
 
 .review p {
-    color: black;
+    color: white;
     font-weight: 700;
 }
 
 form { 
     display: flex;
     flex-direction: column;
+    margin-bottom: 10vh;
+    margin: auto;
 }
 
 .form-group {
     display: flex;
     flex-direction: column;
-    margin-bottom: 20px;
     align-items: center;
     text-align: center;
     padding: 20px;
+    justify-content: space-between;
 }
 
-.form-group input, textarea {
-    width: 100%;
+.form-group input[type="submit"] {
+    background-color: var(--header-color);
+    cursor: pointer;
+}
+
+.form-group:nth-last-child(1){
+    justify-content: center;
+}
+
+.form-group input, textarea, select {
+    width: 70vw;
     border-radius: 25px;
     line-height: 1.5;
     padding: 8px;
     font-size: 14px;
 }
 
+.form-group select {
+    background-color: #000000;
+    color: white;
+    text-align: right;
+    padding: 10px;
+}
+
 .form-group label {
-    
+    width: 200px;
+    text-align: center;
+    font-weight: 600;
+    color: var(--header-color);
+    text-shadow: #000000 2px 2px 1px;
 }
 
 #submit {
     padding: 10px;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .mapouter {
@@ -431,6 +453,14 @@ form {
 
     .hr-color { 
         width: 100%;
+    }
+
+    .form-group label {
+        width: 200px;
+    }
+
+    .form-group input, textarea, select {
+        width: 30vw;
     }
 }
 
