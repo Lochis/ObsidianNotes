@@ -84,12 +84,11 @@
       
 - [x] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
 - [ ] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
-- [ ] Final Exam - **COMP213** (Dec. 10)
-- [ ] Assignment 6 - **COMP100** ( Dec. 10)
-- [ ] Individual Project - **COMP213** (Dec. 10)
+- [x] Final Exam - **COMP213** (Dec. 10)
+- [x] Assignment 6 - **COMP100** ( Dec. 10)
+- [x] Individual Project - **COMP213** (Dec. 10)
 - [x] Final Assignment - **A Wellness Approach** (Dec. 10)
 - [ ] Final Test - **COMP100** (Dec . 11)
-- [ ] Bonus Lab - **GNED** (Dec. 10)
 - [ ] Test 3 - **MATH175** (Dec. 13)
 - [ ] Final Exam - **Software Eng. Fund.** (Dec. 12)
 	- theory part(Multiple Choice questions) and 
