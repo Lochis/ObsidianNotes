@@ -83,11 +83,11 @@
 - [x] Quiz 7 - **COMP100** (Nov. 4)
       
 - [x] Group project - **COMP120** (Weekly on Sunday [Due on Dec. 8])
-- [ ] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
 - [x] Final Exam - **COMP213** (Dec. 10)
 - [x] Assignment 6 - **COMP100** ( Dec. 10)
 - [x] Individual Project - **COMP213** (Dec. 10)
 - [x] Final Assignment - **A Wellness Approach** (Dec. 10)
+- [ ] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
 - [ ] Final Test - **COMP100** (Dec . 11)
 - [ ] Test 3 - **MATH175** (Dec. 13)
 - [ ] Final Exam - **Software Eng. Fund.** (Dec. 12)
