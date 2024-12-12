@@ -89,12 +89,14 @@
 - [x] Final Assignment - **A Wellness Approach** (Dec. 10)
 - [x] Quiz 10 - **MATH175** (Dec. 7 - Dec. 12)
 - [x] Final Test - **COMP100** (Dec . 11)
-- [ ] Test 3 - **MATH175** (Dec. 13)
-- [ ] Final Exam - **Software Eng. Fund.** (Dec. 12)
+- [x] Final Exam - **Software Eng. Fund.** (Dec. 12)
 	- theory part(Multiple Choice questions) and 
 	- practical part (Python questions)
 
+
+- [ ] Test 3 - **MATH175** (Dec. 13)
 - [ ] **COMM170** Final project (*Dec. 8, Dec.8, Dec.15*)
+      
  - [x] Opinion Piece - completed Project 3 template 
 - [x] Digital Presentation - audio or audio/visual recording + slides
 - Peer Review - Peer Review & Final Reflection Template
