@@ -94,8 +94,8 @@
 	- practical part (Python questions)
 
 
-- [ ] Test 3 - **MATH175** (Dec. 13)
-- [ ] **COMM170** Final project (*Dec. 8, Dec.8, Dec.15*)
+- [x] Test 3 - **MATH175** (Dec. 13)
+- [x] **COMM170** Final project (*Dec. 8, Dec.8, Dec.15*)
       
  - [x] Opinion Piece - completed Project 3 template 
 - [x] Digital Presentation - audio or audio/visual recording + slides
