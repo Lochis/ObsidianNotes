@@ -11,10 +11,12 @@
             "id": "bca31610e447a305",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2024-12-18 23.36.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-18 23.36.53.excalidraw"
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.0026054382324
+    "width": 549.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -156,8 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1547c889f3e1a123",
+  "active": "bca31610e447a305",
   "lastOpenFiles": [
+    "Drawing 2024-10-07 16.07.18.excalidraw.md",
+    "Drawing 2024-12-18 23.36.53.excalidraw.md",
     "Ami Chatbot/Images/ami_Profile_x32.png",
     "Ami Chatbot/Images/ami_Profile_x1024 (Custom).png",
     "Ami Chatbot/Images/ami_Profile_x64.png",
@@ -180,7 +185,6 @@
     "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRD2027.tmp",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-12-11 19.19.32.excalidraw.md",
     "Centennial/Term 1/TODO.md",
-    "Centennial/Term 1/COMP Web Interface Design/Lucas_Vandermaarel_StudentWeb_Assignments/term_project/images/reviews/emilyJohnson.png",
     "eStudentVerification/AspenExport.md",
     "eStudentVerification/DOB_SOURCE_DOC.md",
     "Ami Chatbot/Ami-Chatbot.md",
