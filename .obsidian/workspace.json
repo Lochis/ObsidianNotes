@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be885cc261930afd",
+        "id": "90fca236c4dc34c7",
         "type": "tabs",
         "children": [
           {
-            "id": "bca31610e447a305",
+            "id": "892ad9ee95ade926",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2024-12-18 23.36.53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-18 23.36.53.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -75,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.0026054382324,
-    "collapsed": true
+    "width": 549.0026054382324
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -159,8 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bca31610e447a305",
+  "active": "1547c889f3e1a123",
   "lastOpenFiles": [
+    "Centennial/Term 2/COMP225",
+    "Centennial/Term 2/COMP123",
+    "Centennial/Term 2/COMP122",
+    "Centennial/Term 2/COMP125",
+    "Centennial/Term 2",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Drawing 2024-12-18 23.36.53.excalidraw.md",
     "Ami Chatbot/Images/ami_Profile_x32.png",
@@ -179,10 +181,6 @@
     "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRD1683.tmp",
     "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRL2924.tmp",
     "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRD2924.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRL2992.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRD2992.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRL2031.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRD2027.tmp",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-12-11 19.19.32.excalidraw.md",
     "Centennial/Term 1/TODO.md",
     "eStudentVerification/AspenExport.md",
