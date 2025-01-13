@@ -11,14 +11,12 @@
             "id": "892ad9ee95ade926",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Centennial/Term 2/TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "Centennial/Term 2/COMP123/Week 1/2_Week_01_lab_02_Cars_W.pdf"
               },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "icon": "lucide-file-text",
+              "title": "2_Week_01_lab_02_Cars_W"
             }
           }
         ]
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.0026054382324
+    "width": 327.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -162,8 +161,11 @@
   },
   "active": "892ad9ee95ade926",
   "lastOpenFiles": [
-    "Centennial/Term 2/COMP123/Important Notes.md",
     "Centennial/Term 2/TODO.md",
+    "Centennial/Term 2/COMP123/Week 1/3_Week_01_lab_03_Date_W.pdf",
+    "Centennial/Term 2/COMP123/Week 1/2_Week_01_lab_02_Cars_W.pdf",
+    "Centennial/Term 2/COMP123/Week 1",
+    "Centennial/Term 2/COMP123/Important Notes.md",
     "Centennial/Term 2/COMP225/Basic Notes.md",
     "Centennial/Term 2/COMP225",
     "Centennial/Term 2/COMP123",
@@ -184,9 +186,6 @@
     "Ami Chatbot/Images/ami_Profile.png",
     "Ami Chatbot/Images",
     "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~$cas_Vandermaarel_Peer Review 3 and Final Reflection Template.docx",
-    "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRL1694.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRD1683.tmp",
-    "Centennial/Term 1/COMM College Communications 2/Opinion Piece/~WRL2924.tmp",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-12-11 19.19.32.excalidraw.md",
     "Centennial/Term 1/TODO.md",
     "eStudentVerification/AspenExport.md",
