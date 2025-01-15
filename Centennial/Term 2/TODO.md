@@ -1,2 +1,2 @@
-- [ ] **COMP123** - Week 1 - Cars and Date (Lab 02 and Lab 03) - *Jan 19*
-- [ ] 
+- [x] **COMP123** - Week 1 - Cars and Date (Lab 02 and Lab 03) - *Jan 19*
+- [x] **COMP123** - Quiz 1 - *Jan 12*

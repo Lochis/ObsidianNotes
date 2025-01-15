@@ -1,0 +1,181 @@
+using System;
+
+// Lucas Vandermaarel
+// Jan 13, 2025
+// Lab 03 with Enhancements
+
+namespace Lab03
+{
+    internal class Date
+    {
+        const int MONTHS_IN_YEAR = 12;
+
+        private int year;
+        private int month;
+        private int day;
+
+
+        public Date(int day = 1, int month = 1, int year = 2022)
+        {
+            this.day = day;
+            this.month = month;
+            this.year = year;
+            Normalize();
+        }
+
+        public override string ToString()
+        {
+            // To make output more sensible, we add one day or one month as we cannot have 0 days or 0 months in a date.
+            int day = this.day;
+            int month = this.month;
+
+            if (day == 0)
+            {
+                day += 1;
+            }
+
+            if (month == 0)
+            {
+                month += 1;
+            }
+
+            // Text for the month
+            string monthText;
+
+            switch (month)
+            {
+                case 1: 
+                    monthText = "January";
+                    break;
+                case 2:
+                    monthText = "February";
+                    break;
+                case 3:
+                    monthText = "March";
+                    break;
+                case 4:
+                    monthText = "April";
+                    break;
+                case 5:
+                    monthText = "May";
+                    break;
+                case 6:
+                    monthText = "June";
+                    break;
+                case 7:
+                    monthText = "July";
+                    break;
+                case 8:
+                    monthText = "August";
+                    break;
+                case 9:
+                    monthText = "September";
+                    break;
+                case 10:
+                    monthText = "October";
+                    break;
+                case 11:
+                    monthText = "November";
+                    break;
+                case 12:
+                    monthText = "December";
+                    break;
+                default:
+                    monthText = "Invalid Month";
+                    break;
+            }
+
+            return $"{monthText} {day:D2}, {year}";
+        }
+
+        public void Add(int days)
+        {
+            this.day += days;
+            Normalize();
+        }
+
+        public void Add(int months, int days)
+        {
+            this.day += days;
+            this.month += months;
+            Normalize();
+        }
+
+        public void Add (Date other)
+        {
+            this.day += other.day;
+            this.month += other.month;
+            this.year += other.year;
+            Normalize();
+        }
+
+        private void Normalize()
+        {
+            if (this.day > NumberOfDaysInMonth(this.month))
+            {
+                this.day -= this.day;
+                this.month += 1;
+            }
+
+            if (this.month > MONTHS_IN_YEAR)
+            {
+                this.month -= this.month;
+                this.year += 1;
+            }
+        }
+
+        // Returns true if the year is a leap year, false if not.
+        private bool IsLeapYear()
+        {
+            return (this.year % 4 == 0 && this.year % 100 != 0) || this.year % 400 == 0;
+        }
+
+        // Gets number of days in given month.
+        private int NumberOfDaysInMonth(int month)
+        {
+            int daysinMonth;
+            switch (month)
+            {
+                //february
+                case 2:
+                    daysinMonth = IsLeapYear() ? 29 : 28;
+                    break;
+                // september
+                case 9:
+                    daysinMonth = 30;
+                    break;
+                // april
+                case 4:
+                    daysinMonth = 30;
+                    break;
+                // june
+                case 6:
+                    daysinMonth = 30;
+                    break;
+                default:
+                    daysinMonth = 31;
+                    break;
+            }
+            return daysinMonth;
+        }
+
+        static void Main(string[] args)
+        {
+            // 1.
+            Date date = new Date(27, 2, 2024);
+            // 2.
+            Console.WriteLine(date.ToString());
+            // 3.
+            // Testing Leap year logic by adding 3 to the date. February 27 + 3 days is over 29, should go to March 1st.
+            date.Add(3);
+            Console.WriteLine(date.ToString());
+            // adding 17 months and 20 days 
+            date.Add(17, 20);
+            Console.WriteLine(date.ToString());
+            // adding a date to another date.
+            Date date2 = new Date(10, 5, 2025);
+            date.Add(date2);
+            Console.WriteLine(date.ToString());
+        }
+    }
+}

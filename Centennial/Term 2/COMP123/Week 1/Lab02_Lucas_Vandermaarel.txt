@@ -1,0 +1,41 @@
+using System;
+
+// Lucas Vandermaarel
+// Jan 13, 2025
+// Lab 02
+
+namespace Lab02
+{
+    internal class Car
+    {
+        private int year;
+        private string model;
+        private bool isDrivable;
+        private double price;
+
+        public Car(int year, string model, double price, bool isDrivable = true)
+        {
+            this.year = year;
+            this.model = model;
+            this.isDrivable = isDrivable;
+            this.price = price;
+        }
+
+        public override string ToString()
+        {
+            return $"Year: {year} \nModel: {model} \nCan it Drive? {isDrivable}\nPrice: {price:C}\n";
+        }
+
+        static void Main(string[] args)
+        {
+            Car c1 = new Car(2022, "Volkswagen Jetta", 35000.99, true);
+            Car c2 = new Car(2015, "BMW 3 Series", 54000.21, false);
+            Car c3 = new Car(2010, "Honda Civic", 8000.1);
+            Car c4 = new Car(2025, "Porsche 911 Carrera GTS", 164900.20);
+            Console.WriteLine(c1.ToString());
+            Console.WriteLine(c2.ToString());
+            Console.WriteLine(c3.ToString());
+            Console.WriteLine(c4.ToString());
+        }
+    }
+}
