@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8">
     <title>Lucas Vandermaarel Assignment 1</title>
@@ -10,19 +9,44 @@
 </head>
 
 <body>
-    
-            <label for="rows">Rows:</label>
-            <input id="rows" type="text" value=""/>
+    <header>
+        <h1 id="title">Lucas Vandermaarel - Assignment 1</h1>
+        <h3 id="subtitle">Dynamic Table Creation</h3>
+        <hr />
+    </header>
 
-            <label for="cols">Cols:</label>
+    <div id="desc" class="container">
+        <p>
+            This page will create a table based on the number of rows and columns you specify. 
+            <br/>
+            Enter the number of rows and columns you would like in the form below and click the <span class="highlightedText">Create Table</span> button.
+        </p>
+    </div>
+    
+
+    <form class="container" onsubmit="createTable()">
+        <div>
+            <label for="rows">Rows</label>
+            <input id="rows" type="text" value="" />
+        </div>
+        <div>
+            <label for="cols">Cols</label>
             <input id="cols" type="text" value="" />
+        </div>
+        <div>
+            <button id="submitBtn" type="button">Create Table</button>
+        </div>
+    </form>
 
-            <button type="button">Create Table</button>
+    <div id="dynamic-table"></div>
+
     
+    <footer>
+        <hr />
+        <span>Lucas Vandermaarel - 2024 &copy;</span>
+    </footer>
 
-    <table id="dynamic-table"/>
-
-    <script src="LucasVandermaarel_Assignment1.js" async defer></script>
+    <script src="LucasVandermaarel_Assignment1.js"></script>
 </body>
 
 </html>
