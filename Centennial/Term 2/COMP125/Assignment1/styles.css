@@ -1,3 +1,7 @@
+html {
+    scrollbar-color: rgba(43, 87, 136, 0.85) #1b1c1d;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #1b1c1d;
@@ -9,9 +13,10 @@ footer {
     display: flex;
     flex-direction: column;
     width: 85%;
-    margin-bottom: 10vh;
+    margin-bottom: 3vh;
     margin-left: 5vh;
     margin-right: 5vh;
+    margin-top: 5vh;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -53,6 +58,7 @@ button:hover {
 }
 
 input[type="text"] {
+    width: 85%;
     padding-left: 10px;
     border-radius: 10px;
     height: 25px;
@@ -77,30 +83,49 @@ hr {
     width: 100%;
 }
 
+.text-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 2vh;
+}
+
+#dynamic-table{
+    overflow:auto;
+    max-height: 65vh;
+}
+
 @media screen and (min-width: 768px) {
     .container {
         flex-direction: row;
         width: 85%;
     }
 
-    hr, dynamic-table {
+    hr, #dynamic-table {
+        margin:auto;
         width: 85%;
+    }
+
+    .text-input {
+        flex-direction: row;
     }
 }
 
+
+
 table {
-    margin-top: 2vh;
     width: 100%;
     border-radius: 25px;
     border-collapse: collapse;
 }
 
 table tr:nth-child(odd) {
-    background-color: rgba(23, 201, 100, 0.5);
+    background-color: rgba(0, 91, 196,0.4);
 }
 
 table tr:nth-child(even) {
-    background-color: rgba(14, 121, 60, 0.5);
+    background-color: rgba(0, 68, 147,0.4);
 }
 
 table td{

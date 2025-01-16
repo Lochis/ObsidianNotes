@@ -1,12 +1,10 @@
-
-
-
 const createTable = (rows, cols) => {
     const table = document.getElementById("dynamic-table");
 
-    const tableElement = document.createElement("table");
     // reset table
-    tableElement.innerHTML = "";
+    table.innerHTML = "";
+
+    const tableElement = document.createElement("table");
 
     for (let i = 0; i < rows; i++) {
         let row = document.createElement("tr");
