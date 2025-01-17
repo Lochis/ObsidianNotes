@@ -15,3 +15,22 @@ Console.WriteLine(p1.age); // 21, since age is static, changed from 19 -> 21. An
 // if static is not present, the object will hold the field/ property to itself. Not shareable.
 
 ```
+
+
+#### Implicit vs Explicit Casting
+**Implicit** means *automatic*
+**Explicit** means that we are *manually* casting
+
+An explicit accessor of both the getter and the setter **MUST BE** less restrictive than the property accessor
+
+If the accessor modifier for the property is omitted, then private is assumed
+
+If accessor modifiers for the getter and the setter are omitted then the accessibility of the property is assumed
+
+
+![[Pasted image 20250117141838.png]]
+
+
+For an array, you must specify the size on initialization
+
+For a List Collection, you can add more and more values
