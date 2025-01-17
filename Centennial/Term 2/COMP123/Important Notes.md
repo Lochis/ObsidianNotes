@@ -34,3 +34,34 @@ If accessor modifiers for the getter and the setter are omitted then the accessi
 For an array, you must specify the size on initialization
 
 For a List Collection, you can add more and more values
+
+
+```csharp
+class Program  
+{  
+    enum Days  
+    {  
+        Sunday,  
+        Monday,  
+        Tuesday,  
+        Wednesday,  
+        Thursday,  
+        Friday,  
+        Saturday  
+    }  
+    public static void Main()  
+    {  
+        Days today = Days.Saturday;  
+        Console.WriteLine($"Today is: {today}");  
+  
+        if ( today == Days.Sunday  || today == Days.Saturday)  
+        {  
+            Console.WriteLine("Its a weekend");  
+        }  
+        else  
+        {  
+            Console.WriteLine("Its a working day");  
+        }  
+    }  
+}
+```
