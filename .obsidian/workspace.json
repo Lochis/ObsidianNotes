@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Centennial/Term 2/COMP123/Week2/Lab Notes.md",
+                "file": "Centennial/Term 2/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab Notes"
+              "title": "TODO"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.0026054382324
+    "width": 262.0026054382324
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -162,8 +162,13 @@
   },
   "active": "892ad9ee95ade926",
   "lastOpenFiles": [
-    "Centennial/Term 2/COMP123/Week2/Week_02_lab_05_Pet_W.pdf",
     "Centennial/Term 2/COMP123/Week2/Lab Notes.md",
+    "Centennial/Term 2/COMP123/Week2/LucasVandermaarel_Lab06_Medal.txt",
+    "Centennial/Term 2/COMP123/Week2/LucasVandermaarel_Lab05_Pet - Copy.txt",
+    "Centennial/Term 2/COMP123/Week2/LucasVandermaarel_Lab05_Pet.txt",
+    "Centennial/Term 2/COMP123/Week2/New Text Document.txt",
+    "Centennial/Term 2/COMP123/Week2/Untitled.md",
+    "Centennial/Term 2/COMP123/Week2/Week_02_lab_05_Pet_W.pdf",
     "Centennial/Term 2/COMP123/Important Notes.md",
     "Centennial/Term 2/COMP123/Week2/Week_02_lab_06_Medal_W.pdf",
     "Pasted image 20250117164350.png",
@@ -175,10 +180,6 @@
     "Centennial/Term 2/COMP125/Assignment1/LucasVandermaarel_Assignment1.zip",
     "Centennial/Term 2/COMP125/~WRL0003.tmp",
     "Centennial/Term 2/COMP125/~WRD0002.tmp",
-    "Centennial/Term 2/COMP125/~WRL0001.tmp",
-    "Centennial/Term 2/COMP125/~WRD0000.tmp",
-    "Centennial/Term 2/COMP125/~$casVandermaarel_Assignment1_Screenshot.docx",
-    "Centennial/Term 2/COMP125/LucasVandermaarel_Assignment1_Screenshot.docx",
     "Centennial/Term 2/COMP123/Week 1/lab02 submission.md",
     "Centennial/Term 2/COMP225/Basic Notes.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
@@ -206,7 +207,6 @@
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-10-17 15.46.06.excalidraw.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Resources.md",
     "Centennial/Term 1/COMM College Communications 2/Argument Essay Writings/Locate Sources.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas"
   ]
 }

@@ -1,3 +1,9 @@
 - [x] **COMP123** - Week 1 - Cars and Date (Lab 02 and Lab 03) - *Jan 19*
 - [x] **COMP123** - Quiz 1 - *Jan 12*
 - [x] **COMP125** - Assignment 1 - *Jan 23*
+- [x] **COMP123** - Quiz 2 - *Jan 19 
+      Failed ^ since missed it... FF!
+- [x] **COMP123** - Assignment 2 - *Jan 26*
+- [ ] **COMP123** - Quiz 3 - *Jan 26*
+- [ ] **COMP225** - *Assignment # 1*: Smart Book week#3 (Requirements Engineering ch7 part 1)
+ - [ ] **COMP225** - *Assignment #2*: Smart Book week#4 *(Open: Jan 27 - Due: Jan 31)*

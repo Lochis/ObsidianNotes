@@ -1,0 +1,102 @@
+using System;
+using System.Collections;
+
+// Lucas Vandermaarel
+// Lab 05 - Pet
+// Jan 20, 2025
+
+namespace Lab_05_Pet
+{
+    class Pet
+    {
+        public string Name { get; }
+        public string Owner { get; private set; }
+        public int Age { get; }
+        public string Description { get; }
+        public bool IsHouseTrained { get; private set; }
+
+        public Pet(string name, int age, string description)
+        {
+            Name = name;
+            Age = age;
+            Description = description;
+            Owner = "no one";
+            IsHouseTrained = false;
+        }
+
+        public override string ToString()
+        {
+            return $"Name: {Name}\nOwner: {Owner}\nAge: {Age}\nDescription: {Description}\nIsHouseTrained: {IsHouseTrained}\n";
+        }
+
+
+        public void Train()
+        {
+            IsHouseTrained = true;
+        }
+
+        public void SetOwner(string newOwner)
+        {
+            Owner = newOwner;
+        }
+
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // 1. Creating four Pet objects
+            Pet pet1 = new Pet("Max", 3, "Dog");
+            Pet pet2 = new Pet("Sam", 2, "Cat");
+            Pet pet3 = new Pet("Tom", 1, "Parrot");
+            Pet pet4 = new Pet("Jerry", 4, "Rabbit");
+
+            Console.WriteLine("4 Pet objects created, creating a list and adding the Pet objects to that list.");
+
+            // 2. Creating a list to store the objects above
+            List <Pet> petList = new List <Pet>();
+
+            // Adding the objects to the list
+            petList.Add(pet1);
+            petList.Add(pet2);
+            petList.Add(pet3);
+            petList.Add(pet4);
+
+
+            // 3. Using some methods on some of the objects
+            pet2.Train();
+            Console.WriteLine("- training pet 2.");
+            pet3.SetOwner("Lucas");
+            Console.WriteLine("- setting the owner of pet 3 to Lucas.");
+            pet3.Train();
+            Console.WriteLine("- training pet 3.");
+            pet1.SetOwner("Mona");
+            pet1.Train();
+            Console.WriteLine("- setting the owner of pet 1 to Mona and training them.");
+
+
+            // 4. Looping through the list and printing the objects
+            Console.WriteLine("All Pets:");
+            foreach (Pet pet in petList)
+            {
+                Console.WriteLine(pet.ToString());
+            }
+
+            // 5. Asking for user input (owner) to search for a pet
+            Console.Write("Enter the owner's name for the pet you are looking for: ");
+            string search = Console.ReadLine();
+
+            foreach (Pet pet in petList)
+            {
+                if (pet.Owner == search)
+                {
+                    Console.WriteLine("\nPet found!\n");
+                    Console.WriteLine(pet.ToString());
+                }
+            }
+
+        }
+    }
+}
