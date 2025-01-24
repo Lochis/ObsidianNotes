@@ -5,6 +5,7 @@
       Failed ^ since missed it... FF!
 - [x] **COMP123** - Assignment 2 - *Jan 26*
 - [ ] **COMP123** - Quiz 3 - *Jan 26*
-- [ ] **COMP225** - *Assignment # 1*: Smart Book week#3 (Requirements Engineering ch7 part 1)
+- [ ] **COMP123** - Assignment 3 - *Feb 2*
+- [x] **COMP225** - *Assignment # 1*: Smart Book week#3 (Requirements Engineering ch7 part 1)
  - [ ] **COMP225** - *Assignment #2*: Smart Book week#4 *(Open: Jan 27 - Due: Jan 31)*
  - [ ] **COMP122** - DB - All Quizzes (1-10)
