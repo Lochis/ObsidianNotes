@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Lucas Vandermaarel Assignment 2</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Lucas Vandermaarel</h1>
+        <h3>Assignment 2</h3>
+    </header>
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Hello, my name is <span style="color:rgb(63, 214, 63);">Lucas Vandermaarel</span>. 
+            <br/> 
+            I am a student at <span style="color:rgb(197, 197, 90);">Centennial College</span> and work at a K-12 school board as a Critical Systems Analyst.</p>
+        <p>The most notable thing in my life at the moment is the <span style="color:rgb(63, 214, 63);">AI chatbot</span> that I am developing at my job.
+            <br/>
+             I am using Llama3.1 and utilizing RAG successfully with our organization's help documents.</p>
+            <p>Outside of school and work, I am enjoying playing a rythm game called <span style="color:pink">Osu!</span>
+                <br/>
+            I am attempting reach my peak rank again after 4 years of not playing which was 3600th in the world.</p>
+    </section>
+
+    <section id="courses">
+        <div class="section-header">
+            <h2>Courses</h2>
+            <button id="previousCourseBtn" onclick="showPreviousCourses()">Show Courses From Previous Semesters</button>
+        </div>
+        <ul>
+            <li>COMP125 - Client-Side Web Development</li>
+            <li>COMP122 - Introduction to Database Conce</li>
+            <li>COMP123 - Programming 2</li>
+        </ul>
+
+    </section>
+
+    <section id="mission">
+        <div class="section-header">
+            <h2>Mission</h2>
+            <button id="changeTextColorBtn" onclick="changeTextColor()">Change text color</button>
+        </div>
+
+        <p id="missionText">My career mission is to become a proficient full-stack developer.</p>
+
+    </section>
+
+    <section id="skills">
+        <div class="section-header">
+            <h2>Skills</h2>
+            <button id="addReactBtn" onclick="addReactSkill()">Add React to the Skillset</button>
+        </div>
+        <ul id="skillsList">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ul>
+
+    </section>
+
+    <script src="./functions.js" async defer></script>
+</body>
+
+</html>

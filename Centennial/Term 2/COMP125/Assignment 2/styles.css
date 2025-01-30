@@ -1,0 +1,72 @@
+html {
+    scrollbar-color: rgba(43, 87, 136, 0.85) #1b1c1d;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1b1c1d;
+    color: #e7e7e7;
+    min-height: 100vh;
+    font-size: 1.2rem;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: #74a0d3;
+    margin-top: 5vh;
+}
+
+button {
+    background: #002E62;
+    color: #e7e7e7;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 8px;
+    transition: all 300ms;
+}
+
+button:hover {
+    background: #004493;
+    cursor: pointer;
+}
+
+button:disabled {
+    background: #010911;
+    cursor: not-allowed;
+}
+
+section {
+    width: 100%;
+    margin: auto;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.section-header * {
+    height: 40px;
+}
+
+h2 {
+    color: #74a0d3;
+}
+
+@media screen and (min-width: 768px) {
+    section {
+        width: 50vw;
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    section {
+        flex-direction: column;
+        width: 25vw;
+    }
+}
