@@ -11,10 +11,14 @@
             "id": "12a250371f46e0e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Centennial/Term 2/TODO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TODO"
             }
           }
         ]
@@ -156,8 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1547c889f3e1a123",
+  "active": "12a250371f46e0e9",
   "lastOpenFiles": [
+    "Centennial/Term 2/COMP125/Assignment 2/LucasVandermaarel_Assignment2.zip",
+    "Centennial/Term 2/COMP125/Assignment 2/functions.zip",
     "Centennial/Term 2/COMP125/Assignment 2/functions.js",
     "Centennial/Term 2/COMP125/Assignment 2/styles.css",
     "Centennial/Term 2/COMP125/Assignment 2/LucasVandermaarel_Assignment2.html",
@@ -171,8 +177,6 @@
     "Centennial/Term 2/COMP122/Database/insert-data/9_production_stocks.sql",
     "Centennial/Term 2/COMP122/Database/insert-data/8_sales_order_items.sql",
     "Centennial/Term 2/COMP122/Database/insert-data/6_sales_staff.sql",
-    "Centennial/Term 2/COMP122/Database/insert-data/5_sales_stores.sql",
-    "Centennial/Term 2/COMP122/Database/insert-data/4_sales_customer.sql",
     "Centennial/Term 2/COMP123/Week3/Week3.md",
     "Centennial/Term 2/COMP123/Week2/Lab Notes.md",
     "Centennial/Term 2/COMP123/Week2/Untitled.md",
