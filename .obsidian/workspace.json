@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Centennial/Term 2/COMP123/Week3/Week3.md",
+                "file": "Centennial/Term 2/COMP123/Week 4/Serialization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week3"
+              "title": "Serialization"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,8 +163,12 @@
   },
   "active": "12a250371f46e0e9",
   "lastOpenFiles": [
-    "Centennial/Term 2/COMP123/Week3/Lucas_Vandermaarel_Lab09_Song.txt",
-    "Centennial/Term 2/COMP123/Week3/LucasVandermaarel_Lab08_Time.txt",
+    "Centennial/Term 2/COMP123/Important Notes.md",
+    "Centennial/Term 2/COMP123/Week 4/Serialization.md",
+    "Centennial/Term 2/COMP123/Week 4",
+    "Centennial/Term 2/COMP123/Week 3/Week3.md",
+    "Centennial/Term 2/COMP123/Week 3/Lucas_Vandermaarel_Lab09_Song.txt",
+    "Centennial/Term 2/COMP123/Week 3/LucasVandermaarel_Lab08_Time.txt",
     "Centennial/Term 2/TODO.md",
     "Centennial/Term 2/COMP125/Assignment 2/LucasVandermaarel_Assignment2.zip",
     "Centennial/Term 2/COMP125/Assignment 2/functions.zip",
@@ -175,12 +180,8 @@
     "Pasted image 20250128171323.png",
     "Centennial/Term 2/COMP122/For Classes Vs for assignments.md",
     "Centennial/Term 2/COMP122/JLDB_Build.sql",
-    "Centennial/Term 2/COMP122/Database/insert-data/7_sales_orders.sql",
-    "Centennial/Term 2/COMP122/Database/insert-data/9_production_stocks.sql",
-    "Centennial/Term 2/COMP123/Week3/Week3.md",
-    "Centennial/Term 2/COMP123/Week2/Lab Notes.md",
+    "Centennial/Term 2/COMP123/Week 2/Lab Notes.md",
     "Centennial/Term 2/COMP123/Week2/Untitled.md",
-    "Centennial/Term 2/COMP123/Important Notes.md",
     "Pasted image 20250117164350.png",
     "Pasted image 20250117164132.png",
     "Pasted image 20250117141838.png",
