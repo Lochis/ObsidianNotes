@@ -7,6 +7,8 @@
 - [x] **COMP123** - Quiz 3 - *Jan 26*
 - [x] **COMP225** - *Assignment # 1*: Smart Book week#3 (Requirements Engineering ch7 part 1)
  - [x] **COMP225** - *Assignment #2*: Smart Book week#4 *(Open: Jan 27 - Due: Jan 31)*
- - [ ] **COMP123** - Assignment 3 - *Feb 2*
+ - [x] **COMP123** - Assignment 3 - *Feb 2*
  - [ ] **COMP122** - DB - All Quizzes (1-10)
 - [x] **COMP125** - Assignment 2 - *Feb 4*
+- [ ] **COMP122** - Assignment 1 - *Feb 9*
+- [ ] **COMP123** - Assignment 4 - *Feb 9*
