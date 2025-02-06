@@ -15,3 +15,7 @@ INSERT ALL
     INTO STUDENT (StudentId, Lastname, Firstname, ProgramCode, Email) VALUES (300123123, 'Chong', 'Raul', 3409, 'rchong@my.centennialcollege.ca')
     INTO STUDENT (StudentId, Lastname, Firstname, ProgramCode, Email) VALUES (300124124, 'Vasudevan', 'Hima', 3408, 'hvasu@my.centennialcollege.ca')
 SELECT 1 FROM DUAL;
+
+UPDATE STUDENT SET ProgramCode = 3408 WHERE StudentId = 300111222;
+
+DELETE FROM STUDENT WHERE StudentID = 300123123;
