@@ -11,8 +11,8 @@
  - [ ] **COMP122** - DB - All Quizzes (1-10)
 - [x] **COMP125** - Assignment 2 - *Feb 4*
 - [ ] **COMP122** - Assignment 1 - *Feb 9*
-- [ ] **COMP123** - Assignment 4 - *Feb 9*
+- [x] **COMP123** - Assignment 4 - *Feb 9*
 - [ ] **COMP123** - Quiz 5 - *Feb 9*
-- [ ] **COMP225** - Quiz 1 - *Feb 6*
+- [x] **COMP225** - Quiz 1 - *Feb 6*
 - [ ] **Midterm Exam** (COMP 125 Sec. 401) - *Feb 19 @ 6.30pm*
 - [ ] **COMP125** - Assignment 3 - *Feb 20*
