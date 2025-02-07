@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Centennial/Term 2/COMP225/Basic Notes.md",
+                "file": "Centennial/Term 2/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Notes"
+              "title": "TODO"
             }
           }
         ]
@@ -161,8 +161,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1547c889f3e1a123",
+  "active": "12a250371f46e0e9",
   "lastOpenFiles": [
+    "Centennial/Term 2/COMP225/Basic Notes.md",
     "Centennial/Term 2/COMP225/usecase2.png",
     "Centennial/Term 2/COMP225/usecase.png",
     "Centennial/Term 2/COMP225/Screenshot 2025-02-06 112139.png",
@@ -190,13 +191,11 @@
     "Pasted image 20250117141838.png",
     "Untitled.md",
     "Centennial/Term 2/COMP123/Week 1/lab02 submission.md",
-    "Centennial/Term 2/COMP225/Basic Notes.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Drawing 2024-12-18 23.36.53.excalidraw.md",
     "Ami Chatbot/Images/ami_Profile_x32.png",
     "Ami Chatbot/Images/ami_Profile_x1024 (Custom).png",
     "Ami Chatbot/Images/ami_Profile_x64.png",
-    "Ami Chatbot/Images/ami_Profile_x128.png",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-12-11 19.19.32.excalidraw.md",
     "Centennial/Term 1/TODO.md",
     "eStudentVerification/AspenExport.md",
