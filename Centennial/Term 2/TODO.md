@@ -10,7 +10,7 @@
  - [x] **COMP123** - Assignment 3 - *Feb 2*
  - [ ] **COMP122** - DB - All Quizzes (1-10)
 - [x] **COMP125** - Assignment 2 - *Feb 4*
-- [ ] **COMP122** - Assignment 1 - *Feb 9*
+- [x] **COMP122** - Assignment 1 - *Feb 9*
 - [x] **COMP123** - Assignment 4 - *Feb 9*
 - [x] **COMP123** - Quiz 5 - *Feb 9*
 - [x] **COMP225** - Quiz 1 - *Feb 6*
