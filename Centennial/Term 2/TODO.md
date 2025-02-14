@@ -17,3 +17,4 @@
 - [ ] **Midterm Exam** (COMP 125 Sec. 401) - *Feb 19 @ 6.30pm*
 - [ ] **Midterm Exam** (COMP225) - *Feb 20 @ 10:30AM*
 - [ ] **COMP125** - Assignment 3 - *Feb 20*
+- [ ]  **COMP123** (Programming 2) - Midterm - *March 7th* (24 hours open)
