@@ -18,4 +18,6 @@
 - [ ] **Midterm Exam** (COMP225) - *Feb 20 @ 10:30AM*
 - [ ] **COMP125** - Assignment 3 - *Feb 20*
 - [ ]  **COMP123** (Programming 2) - Midterm - *March 7th* (24 hours open)
-- [ ] **COMP123** - Quiz 6 *(Sun. Feb. 16)*
+- [x] **COMP123** - Quiz 6 *(Sun. Feb. 16)*
+- [ ] **COMP123** - Assignment 6 (Shapes) - *Feb. 16*
+- [ ] 
