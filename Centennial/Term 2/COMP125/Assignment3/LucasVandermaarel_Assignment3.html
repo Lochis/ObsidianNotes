@@ -11,60 +11,276 @@
 
 <body>
     <header>
-        <h1>Lucas Vandermaarel</h1>
-        <h3>Assignment 3</h3>
+        <h1>EMPLOYMENT / JOB APPLICATION</h1>
     </header>
-    
-    <section id="welcome">
-        <hr/>
-        
-    </section>
-    
-    <section id="introduction">
-        <h2>Introduction</h2>
-        <p>Hello, my name is <span style="color:rgb(63, 214, 63);">Lucas Vandermaarel</span>. 
-            <br/> 
-            I am a student at <span style="color:rgb(197, 197, 90);">Centennial College</span> and work at a K-12 school board as a Critical Systems Analyst.</p>
-        <p>The most notable thing in my life at the moment is the <span style="color:rgb(63, 214, 63);">AI chatbot</span> that I am developing at my job.
-            <br/>
-             I am using Llama3.1 and utilizing RAG successfully with our organization's help documents.</p>
-            <p>Outside of school and work, I am enjoying playing a rythm game called <span style="color:pink">Osu!</span>
-                <br/>
-            I am attempting reach my peak rank again after 4 years of not playing which was 3600th in the world.</p>
-    </section>
 
-    <section id="courses">
-        <div class="section-header">
-            <h2>Courses</h2>
-            <button id="previousCourseBtn" onclick="showPreviousCourses()">Show Courses From Previous Semesters</button>
-        </div>
-        <ul>
-            <li>COMP125 - Client-Side Web Development</li>
-            <li>COMP122 - Introduction to Database Conce</li>
-            <li>COMP123 - Programming 2</li>
-            <li>COMP225 - Software Requirements Engineering</li>
-        </ul>
-    </section>
+    <section>
+        <form id="jobApplicationForm">
+            <h3 class="fieldsetHeader">Introduction</h3>
+            <fieldset>
+                <div class="flex-row">
+                    <label>FULL NAME:</label>
+                    <div class="flex-row" style="flex: 1;">
+                        <div class="label-below">
+                            <input type="text" id="firstName" name="firstName" required>
+                            <label class="required" for="lastName">First</label>
+                        </div>
+                        <div class="label-below">
+                            <input type="text" id="middleName" name="middleName" required>
+                            <label class="required" for="lastName">Middle</label>
+                        </div>
+                        <div class="label-below">
+                            <input type="text" id="lastName" name="lastName" required>
+                            <label class="required" for="lastName">Last</label>
+                        </div>
 
-    <section id="mission">
-        <div class="section-header">
-            <h2>Mission</h2>
-            <button id="changeTextColorBtn" onclick="changeTextColor()">Change text color</button>
-        </div>
+                        <label class="required" for="date">DATE:</label>
+                        <input type="date" id="date" name="date" required>
+                    </div>
+                </div>
 
-        <p id="missionText">My career mission is to become a proficient full-stack developer.</p>
-    </section>
+                <div class="flex-row">
 
-    <section id="skills">
-        <div class="section-header">
-            <h2>Skills</h2>
-            <button id="addReactBtn" onclick="addReactSkill()">Add React to the Skillset</button>
-        </div>
-        <ul id="skillsList">
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-        </ul>d
+                    <label>ADDRESS:</label>
+
+
+                    <div class="label-below" style="flex: 100;">
+                        <input style="width:100%;" type="text" id="streetAddress" name="streetAddress" required>
+                        <label class="required" for="streetAddress">Street Address</label>
+                    </div>
+                    <div class="label-below">
+                        <input type="text" id="aptSuite" name="aptSuite" required>
+                        <label class="required" for="aptSuite">Apt/Suite</label>
+                    </div>
+                </div>
+
+                <div class="flex-row" id="cityStateZip">
+                    <div class="label-below" style="flex:1;">
+                        <input type="text" id="city" name="city" required>
+                        <label class="required" for="city">City</label>
+                    </div>
+                    <div class="label-below" style="flex:1;">
+                        <input type="text" id="state" name="state" required>
+                        <label class="required" for="state">State</label>
+                    </div>
+                    <div class="label-below" style="flex:1;">
+                        <input type="text" id="zip" name="zip" required>
+                        <label class="required" for="zip">Zip Code</label>
+                    </div>
+
+                </div>
+
+                <div class="flex-row">
+                    <label class="required" for="email">E-MAIL:</label>
+                    <div style="flex: 1;">
+                        <input type="email" id="email" name="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" required>
+                    </div>
+
+                    <div style="flex:0.5; display: flex;">
+                        <label class="required" for="phone">PHONE:</label>
+                        <input type="tel" id="phone" name="phone" placeholder="+1 123-456-7890"
+                            pattern="\+1 [0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+                    </div>
+
+                </div>
+
+                <div class="flex-row" id="ssn">
+                    <div>
+                        <label>SSN:</label>
+                        <input type="text" maxlength="3" id="ssn1">
+                        -
+                        <input type="text" maxlength="3" id="ssn2">
+                        -
+                        <input type="text" maxlength="3" id="ssn3">
+                    </div>
+                </div>
+
+
+                <div class="flex-row">
+                    <div>
+                        <label class="required">DATE AVAILABLE:</label>
+                        <input type="date" id="dateAvailable" required>
+                    </div>
+
+                    <div>
+                        <label for="desiredPay">DESIRED PAY: $</label>
+                        <input type="number" id="desiredPay">
+                    </div>
+                    <div>
+                        <input type="radio" id="desiredPayHourly" name="desiredPayType" value="hourly" required>
+                        <label for="desiredPayHourly">HOUR</label>
+
+
+                        <input type="radio" id="desiredPaySalary" name="desiredPayType" value="salary" required>
+                        <label for="desiredPaySalary">SALARY</label>
+                    </div>
+                </div>
+
+                <div class="flex-row">
+
+                    <label class="required">Position Applied For:</label>
+                    <input style="flex:100;" type="text" id="position" required>
+
+                </div>
+
+                <div class="flex-row">
+                    <label class="required" for="employementDesired">EMPLOYMENT DESIRED:</label>
+                    <div style="flex: 100;">
+                        <input type="radio" id="fullTime" name="employementDesired" value="fullTime" required>
+                        <label for="fullTime">FULL TIME</label>
+
+                        <input type="radio" id="partTime" name="employementDesired" value="partTime" required>
+                        <label for="partTime">PART TIME</label>
+
+                        <input type="radio" id="seasonal" name="employementDesired" value="seasonal" required>
+                        <label for="seasonal">SEASONAL</label>
+                    </div>
+                </div>
+
+
+
+
+            </fieldset>
+
+            <h3 class="fieldsetHeader">Employment History</h3>
+            <fieldset>
+                <div class="flex-row">
+                    <label class="required" for="citizen">Are you a U.S. Citizen?</label>
+                    <div>
+                        <input type="radio" id="citizenYes" name="citizen" value="yes" required>
+                        <label for="citizenYes">Yes</label>
+
+                        <input type="radio" id="citizenNo" name="citizen" value="no" required>
+                        <label for="citizenNo">No</label>
+                    </div>
+                </div>
+
+                <div class="flex-row" id="allowedToWorkRow">
+                    <label class="required">If no, are you allowed to work in the U.S.?</label>
+                    <div>
+                        <input type="radio" id="allowedToWorkYes" name="allowedToWork" value="yes" required>
+                        <label for="allowedToWorkYes">Yes</label>
+
+                        <input type="radio" id="allowedToWorkNo" name="allowedToWork" value="no" required>
+                        <label for="allowedToWorkNo">No</label>
+                    </div>
+                </div>
+
+                <div class="flex-row">
+                    <label class="required" for="workedBefore">Have you ever worked for this employer?</label>
+                    <div>
+                        <input type="radio" id="workedBeforeYes" name="workedBefore" value="yes" required>
+                        <label for="workedBeforeYes">Yes</label>
+
+                        <input type="radio" id="workedBeforeNo" name="workedBefore" value="no" required>
+                        <label for="workedBeforeNo">No</label>
+                    </div>
+                </div>
+
+                <div class="flex-row">
+                    <label class="required" for="felony">Have you ever been convicted of a felony?</label>
+                    <div>
+                        <input type="radio" id="felonyYes" name="felony" value="yes" required>
+                        <label for="felonyYes">Yes</label>
+
+                        <input type="radio" id="felonyNo" name="felony" value="no" required>
+                        <label for="felonyNo">No</label>
+                    </div>
+                </div>
+
+                <div class="flex-row" id="felonyExplanationRow">
+                    <label class="required" for="felonyExplain">If yes, please explain:</label>
+                    <textarea style="flex:100;" type="text" id="felonyExplain" required></textarea>
+                </div>
+
+            </fieldset>
+
+            <h3 class="fieldsetHeader">Education</h3>
+            <fieldset>
+                <div class="flex-row">
+                    <div style="flex:1;">
+                        <label class="required" for="highSchool">HIGH SCHOOL:</label>
+                        <select id="highSchool" required>
+                            <option value="">Select High school</option>
+                            <option value="ABLSS">A.B. Lucas Secondary School</option>
+                            <option value="CHSS">Central Huron Secondary School</option>
+                        </select>
+                    </div>
+                    <div style="flex: 1;">
+                        <label class="required" for="highSchoolCityState">CITY/STATE:</label>
+                        <input type="text" id="highSchoolCityState" required>
+                    </div>
+                </div>
+
+                <div class="flex-row">
+                    <div style="flex: 1;">
+                        <label for="highSchoolFrom">FROM:</label>
+                        <input type="date" id="highSchoolFrom" required>
+                    </div>
+                    <div style="flex: 1;">
+                        <label for="highSchoolTo">TO:</label>
+                        <input type="date" id="highSchoolTo" required>
+                    </div>
+                </div>
+
+                <div class="flex-row">
+                    <div style="flex:1;">
+                        <label class="required" for="highschoolGraduate">GRADUATE?</label>
+                        <input type="radio" id="highschoolGraduateYes" name="highschoolGraduate" value="yes" required>
+                        <label for="highschoolGraduateYes">Yes</label>
+
+                        <input type="radio" id="highschoolGraduateNo" name="highschoolGraduate" value="no" required>
+                        <label for="highschoolGraduateNo">No</label>
+                    </div>
+                    <div style="flex: 1;">
+                        <label class="required" for="diploma">DIPLOMA:</label>
+                        <input type="text" id="diploma" required>
+                    </div>
+                </div>
+
+                <div class="flex-row">
+                    <div style="flex:1;">
+                        <label class="required">College:</label>
+                        <select id="college" required>
+                            <option value="">Select College</option>
+                            <option value="CEN">Centennial College</option>
+                            <option value="FAN">Fanshawe College</option>
+                        </select>
+                    </div>
+                    <div style="flex: 1;">
+                        <label class="required" for="collegeCityState">CITY/STATE:</label>
+                        <input type="text" id="collegeCityState" required>
+                    </div>
+                </div>
+
+                <div class="flex-row">
+                    <div style="flex: 1;">
+                        <label for="collegeFrom">FROM:</label>
+                        <input type="date" id="collegeFrom" required>
+                    </div>
+                    <div style="flex: 1;">
+                        <label for="collegeTo">TO:</label>
+                        <input type="date" id="collegeTo" required>
+                    </div>
+                </div>
+
+                <div class="flex-row">
+                    <div style="flex:1;">
+                        <label class="required" for="collegeGraduate">GRADUATE?</label>
+
+                        <input type="radio" id="collegeGraduateYes" name="collegeGraduate" value="yes" required>
+                        <label for="collegeGraduateYes">Yes</label>
+
+                        <input type="radio" id="collegeGraduateNo" name="collegeGraduate" value="no" required>
+                        <label for="collegeGraduateNo">No</label>
+                    </div>
+                    <div style="flex: 1;">
+                        <label class="required" for="degree">DEGREE:</label>
+                        <input type="text" id="degree" required>
+                    </div>
+                </div>
+                <button type="submit" id="submit" onclick="validateForm()">Submit</button>
+        </form>
     </section>
 
     <script src="./functions.js" async defer></script>

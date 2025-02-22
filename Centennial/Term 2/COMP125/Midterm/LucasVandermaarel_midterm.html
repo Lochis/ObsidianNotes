@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Lucas' Watches</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Lucas' Watches</h1>
+        <nav>
+            <ul>
+                <li><a href="LucasVandermaarel_midterm.html">Home</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <h3 id="welcomeMessage"></h3>
+
+    <section id="welcome">
+        <h2>About Our Business</h2>
+        <div id="welcomeFlex">
+            <div>
+                <p>Here are Lucas's Watches, we resell watches for a loss! We simply do not care about money here.</p>
+                <p>Have a look, buy 2, 3, 4 watches and try to take us out of business. We dare you!</p>
+            </div>
+            <div>
+                <img id="welcomeWatch" src="./img/oris.webp" alt="beautiful watch" width="300">
+            </div>
+        </div>
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <p>There are a few hot items right now! If you are interested in what we sold in the past, click the Show Discontinued Products button.</p>
+        <button id="discontinuedWatchesBtn" onclick="showDiscontinuedWatches()">Show Discontinued Products</button>
+        <div id="productsGrid">
+
+        </div>
+
+    </section>
+
+
+    <section id="mission">
+        <h2>Our Mission</h2>
+        <p id="missionText">Our mission is to provide the best watches at the lowest costs to any and all.</p>
+        <button onclick="changeMissionTextColor()">Change Mission Text Color</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Lucas' Watches</p>
+    </footer>
+
+    <script src="./js/functions.js"></script>
+
+</body>
+
+</html>
