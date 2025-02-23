@@ -25,12 +25,14 @@
             "id": "927d13c649c5b82c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Centennial/Term 2/COMP123/Important Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Important Notes"
             }
           }
         ],
@@ -174,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1547c889f3e1a123",
+  "active": "927d13c649c5b82c",
   "lastOpenFiles": [
     "Centennial/Term 2/COMP123/Week 6/LucasVandermaarel_Week_06.txt",
     "Centennial/Term 2/COMP123/Week 6/New Text Document.txt",
