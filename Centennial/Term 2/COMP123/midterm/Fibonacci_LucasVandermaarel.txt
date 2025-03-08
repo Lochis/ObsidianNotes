@@ -1,0 +1,59 @@
+using System.Numerics;
+
+namespace question2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("How many terms do you want your Fibonacci series?");
+            Console.Write("Enter: ");
+            int num = int.Parse(Console.ReadLine());
+            while(num <= 0 || num >= 100000)
+            {
+                Console.WriteLine(num + " is not a valid number. Please enter a number between 1 and 100000");
+                Console.Write("Enter: ");
+                num = int.Parse(Console.ReadLine());
+            }
+
+            // if valid number, Fibonacci can be called
+            Fibonacci(num);
+        }
+
+        public static void Fibonacci(int num)
+        {
+            // given terms
+            BigInteger first = 0;
+            BigInteger second = 1;
+
+            BigInteger next;
+
+            Console.Write(first + ",");
+
+            if (num > 1)
+            {
+                Console.Write(second + ",");
+            }
+
+            // loop through terms after the first two
+            // putting my first name in the initialization part
+            for (int lucas = 2; lucas < num; lucas++)
+            {
+                next = first + second;
+                first = second;
+                second = next;
+
+                // take away the comma at the end of the last number
+                if (lucas == num - 1)
+                {
+                    Console.Write(next);
+                } else
+                {
+                    Console.Write(next + ",");
+                }
+                    
+            }
+
+        }  
+    }
+}

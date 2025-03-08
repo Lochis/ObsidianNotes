@@ -1,0 +1,139 @@
+namespace question1
+{
+    class Date
+    {
+        private int day;
+        private int month;
+        private int year;
+
+        static int[] daysInMonth = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+
+        public Date(int day, int month, int year)
+        {
+            this.day = day;
+            this.month = month;
+            this.year = year;
+        }
+
+        public void Add(int days)
+        {
+
+            int daysInCurrentMonth = daysInMonth[this.month - 1];
+            this.day += days;
+
+            if (this.IsLeapYear() && this.month == 2)
+            {
+                daysInCurrentMonth = 29;
+            } 
+            
+            if (this.day > daysInCurrentMonth)
+            {
+                this.day -= daysInCurrentMonth;
+                this.month++;
+            }
+
+
+            // increment year if it goes over
+            if (this.month > 12)
+            {
+                this.month = 1;
+                this.year++;
+            }
+        }
+
+        public static bool IsValidDateInput(string dob)
+        {
+            int day;
+            int month;
+            int year;
+            
+
+            // check length of date
+            if (dob.Length != 10)
+            {
+                return false;
+            }
+
+            // check if more than 3 parts
+            string[] dobArray = dob.Split('/');
+            if (dobArray.Length != 3)
+            {
+                return false;
+            }
+
+            // check if all parts are numbers
+            foreach (string part in dobArray)
+            {
+                if (!int.TryParse(part, out int n))
+                {
+                    return false;
+                }
+            }
+
+            day = int.Parse(dobArray[0]);
+            month = int.Parse(dobArray[1]);
+            year = int.Parse(dobArray[2]);
+
+
+            int daysInCurrentMonth = daysInMonth[month - 1];
+            Date tempDate = new Date(day, month, year);
+
+            // check if day is between 1 and 31
+            if (month == 2 && tempDate.IsLeapYear())
+            {
+                daysInCurrentMonth = 29;
+            } else if (day < 1 || day > 31)
+            {
+                return false;
+            }
+            
+
+            // check if month is between 1 and 12
+            if (month < 1 || month > 12)
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        public bool IsLeapYear()
+        {
+            return (this.year % 4 == 0 && this.year % 100 != 0) || (this.year % 400 == 0);
+        }
+
+        public override string ToString()
+        {
+            return $"{this.day:D2}/{this.month:D2}/{this.year}";
+        }
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Please Enter a date of birth (dd/mm/yyyy): ");
+            string dob = Console.ReadLine();
+
+
+            string[] dobArray = dob.Split('/');
+            Date dDob = new Date(int.Parse(dobArray[0]), int.Parse(dobArray[1]), int.Parse(dobArray[2]));
+
+            if (Date.IsValidDateInput(dob)) { 
+                Console.WriteLine("Valid Date");
+                Console.WriteLine("Lucas");
+
+                if (dDob.IsLeapYear())
+                {
+                    Console.WriteLine("you are lucky Lucas Vandermaarel");
+                    dDob.Add(10);
+                    Console.WriteLine(dDob.ToString());
+                }
+
+            } else
+            {
+                Console.WriteLine("Wrong Date");
+            } 
+        }
+    }
+}
