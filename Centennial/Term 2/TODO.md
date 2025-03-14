@@ -14,10 +14,14 @@
 - [x] **COMP123** - Assignment 4 - *Feb 9*
 - [x] **COMP123** - Quiz 5 - *Feb 9*
 - [x] **COMP225** - Quiz 1 - *Feb 6*
-- [ ] **Midterm Exam** (COMP 125 Sec. 401) - *Feb 19 @ 6.30pm*
-- [ ] **Midterm Exam** (COMP225) - *Feb 20 @ 10:30AM*
-- [ ] **COMP125** - Assignment 3 - *Feb 20*
-- [ ]  **COMP123** (Programming 2) - Midterm - *March 7th* (24 hours open)
+- [x] **Midterm Exam** (COMP 125 Sec. 401) - *Feb 19 @ 6.30pm*
+- [x] **Midterm Exam** (COMP225) - *Feb 20 @ 10:30AM*
+- [x] **COMP125** - Assignment 3 - *Feb 20*
+- [x]  **COMP123** (Programming 2) - Midterm - *March 7th* (24 hours open)
 - [x] **COMP123** - Quiz 6 *(Sun. Feb. 16)*
-- [ ] **COMP123** - Assignment 6 (Shapes) - *Feb. 16*
-- [ ] 
+- [x] **COMP123** - Assignment 6 (Shapes) - *Feb. 16*
+- [ ] **COMP123** - Assignment 7 (GUI Fraction Calculator) - *March 23*
+	1 - 4, create console application
+	5-7, create GUI application (just addition and subtraction of fractions)
+	![[Pasted image 20250314170950.png]]
+- [ ] **COMP123** - Quiz 7 - *March 16*
