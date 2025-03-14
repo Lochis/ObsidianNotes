@@ -1,3 +1,6 @@
+**Use Windows Forms App without (.NET Framework)**
+for gui
+
 Static makes objects properties/ fields sharable.
 e.g.
 ```csharp
