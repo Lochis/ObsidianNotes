@@ -1,0 +1,92 @@
+html {
+    scrollbar-color: rgba(43, 87, 136, 0.85) #1b1c1d;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1b1c1d;
+    color: #e7e7e7;
+    min-height: 100vh;
+    font-size: 1.2rem;
+}
+
+.box {
+    background-color: #6b2be3;
+    border-radius: 10px;
+    width: 250px;
+    height: 50px;
+}
+
+.box img {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    gap: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: #74a0d3;
+    margin-top: 5vh;
+}
+
+button {
+    background: #002E62;
+    color: #e7e7e7;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 8px;
+    transition: all 300ms;
+}
+
+button:hover {
+    background: #004493;
+    cursor: pointer;
+}
+
+button:disabled {
+    background: #010911;
+    cursor: not-allowed;
+}
+
+hr {
+    border: 1px solid #74a0d3;
+    margin: 20px 0;
+}
+
+section {
+    width: 100%;
+    margin: auto;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.section-header * {
+    height: 40px;
+}
+
+h2 {
+    color: #74a0d3;
+}
+
+@media screen and (min-width: 768px) {
+    section {
+        max-width: 980px;
+    }
+}
