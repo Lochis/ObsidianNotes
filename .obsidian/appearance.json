@@ -1,9 +1,1 @@
-{
-  "accentColor": "",
-  "enabledCssSnippets": [
-    "pdf"
-  ],
-  "cssTheme": "Catppuccin",
-  "baseFontSize": 18,
-  "nativeMenus": false
-}
+{}

@@ -14,8 +14,16 @@
         <h1>Lucas Vandermaarel</h1>
         <h3>Assignment 4</h3>
     </header>
-    <div class="container">
-        <div class="box"><img id="image" src="img/cuteOtter.webp"/></div>
+
+
+    <div id="wrapContainer" class="container">
+        <div id="inputContainer">
+            <button onclick="newImage()">New Image</button>
+            <input type="file" onChange="handleImageUpload(event)" id="fileInput" accept="image/*" />
+        </div>
+        <p id="puzzlesCompleted"></p>
+        <div id="boxContainer">
+            <div class="box"></div>
             <div class="box"></div>
             <div class="box"></div>
             <div class="box"></div>
@@ -23,9 +31,10 @@
             <div class="box"></div>
             <div class="box"></div>
         </div>
+    </div>
 
 
-        <script src="./functions.js" async defer></script>
+    <script src="./functions.js" async defer></script>
 </body>
 
 </html>
