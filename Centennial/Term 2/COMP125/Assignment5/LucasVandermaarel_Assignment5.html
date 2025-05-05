@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Lucas Vandermaarel Assignment 5</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Lucas Vandermaarel</h1>
+        <h3>Assignment 5</h3>
+    </header>
+
+    <main>
+        <section>
+            <h2>Canadian Tech Event Registration</h2>
+            <form id="registrationForm" action="#" method="post">
+                <!-- Full Name -->
+                <label for="fullName">Full Name:</label>
+                <input type="text" id="fullName" name="fullName" required>
+                <small id="fullNameError" class="error"></small>
+
+                <!-- Email Address -->
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required>
+                <small id="emailError" class="error"></small>
+
+                <!-- Phone Number -->
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" required>
+                <small id="phoneError" class="error"></small>
+
+                <!-- Postal Code -->
+                <label for="postalCode">Postal Code:</label>
+                <input type="text" id="postalCode" name="postalCode" required>
+                <small id="postalCodeError" class="error"></small>
+
+                <!-- Workshop Topic -->
+                <label for="workshop">Workshop Topic:</label>
+                <select id="workshop" name="workshop" required>
+                    <option value="webDevelopment">Web Development</option>
+                    <option value="dataScience">Data Science</option>
+                    <option value="cyberSecurity">Cyber Security</option>
+                </select>
+
+                <!-- Experience Level -->
+                <fieldset>
+                    <legend>Experience Level:</legend>
+                    <label>
+                        <input type="radio" name="experience" value="beginner" required> Beginner
+                    </label>
+                    <label>
+                        <input type="radio" name="experience" value="intermediate"> Intermediate
+                    </label>
+                    <label>
+                        <input type="radio" name="experience" value="advanced"> Advanced
+                    </label>
+                </fieldset>
+
+                <!-- Additional Comments -->
+                <label for="comments">Additional Comments:</label>
+                <textarea id="comments" name="comments" rows="4" cols="50"></textarea>
+
+                <!-- Submit Button -->
+                <button type="submit" id="submitButton">Submit</button>
+            </form>
+        </section>
+    </main>
+
+    <script src="./functions.js" async defer></script>
+</body>
+
+</html>

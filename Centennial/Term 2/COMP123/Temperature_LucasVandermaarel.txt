@@ -1,0 +1,242 @@
+using System;
+using System.IO;
+using System.Linq;
+
+namespace Temperature
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Temperature Analyzer 1.0 - Lucas Vandermaarel");
+            Console.WriteLine("Please enter 10 or more temperatures in Celsius (e.g. 20.4,16.0,8.1,40.4,33.9,...)");
+
+            string input = Console.ReadLine();
+
+            float[] celciusTemperatures_Lucas = ValidateInput(input);
+
+            while (true)
+            {
+                Console.WriteLine("\nMenu:");
+                Console.WriteLine("1. Convert all to Fahrenheit");
+                Console.WriteLine("2. Highest/Lowest/Median Temperatures");
+                Console.WriteLine("3. Detect Heatwaves");
+                Console.WriteLine("4. Export Report to a text File");
+                Console.WriteLine("5. Exit");
+                Console.Write("Choose an option: ");
+
+                string choice = Console.ReadLine();
+                Console.WriteLine();
+
+                switch (choice)
+                {
+                    case "1":
+                        Console.WriteLine("All temperatures converted to Fahrenheit:");
+
+                        Console.WriteLine(String.Join(", ", ConvertToFahrenheit_Lucas(celciusTemperatures_Lucas).Select(temp => $"{temp:F2}°F").ToArray()));
+                        Console.WriteLine();
+                           
+                        break;
+                    case "2":
+                        float[] analysis_Lucas = Analysis_Lucas(celciusTemperatures_Lucas);
+                        Console.WriteLine($"Highest Temperature: {analysis_Lucas[0]:F2}°C");
+                        Console.WriteLine($"Lowest Temperature: {analysis_Lucas[1]:F2}°C");
+                        Console.WriteLine($"Median Temperature: {analysis_Lucas[2]:F2}°C");
+                        break;
+                    case "3":
+                        Console.Write("Heatwave(s) detected! ");
+                        Console.Write(DisplayHeatWaves_Lucas(Heatwave_Lucas(celciusTemperatures_Lucas)));
+                            break;
+                    case "4":
+                        Report_Lucas(celciusTemperatures_Lucas);
+                        break;
+                    case "5":
+                        return;
+
+                }
+            }
+        }
+
+
+        private static float[] ValidateInput(string input)
+        {
+            float[] celciusTemperatures_Lucas;
+
+            while (true)
+            {
+                try
+                {
+                    // Attempt to parse the input
+                    celciusTemperatures_Lucas = Array.ConvertAll(input.Split(',', ' '), float.Parse);
+
+                    // Check if the user entered at least 10 temperatures
+                    if (celciusTemperatures_Lucas.Length < 10)
+                    {
+                        throw new Exception("You must enter at least 10 temperatures.");
+                    }
+
+                    break;
+                }
+                catch (Exception ex)
+                {
+                    // Display an error message and prompt the user to re-enter the data
+                    Console.WriteLine($"Invalid input: {ex.Message}");
+                    Console.WriteLine("Please enter 10 or more temperatures in Celsius, separated by commas or spaces (e.g., 20.4, 16.0, 8.1, ...):");
+                    input = Console.ReadLine();
+                }
+            }
+
+            return celciusTemperatures_Lucas;
+        }
+
+        private static List<float[]> Heatwave_Lucas(float[] celciusTemperatures_Lucas)
+        {
+            int consecutiveDays = 0;
+
+            List<float> heatWave_Lucas = [];
+            List<float[]> heatWaveList_Lucas = new List<float[]>();
+
+            foreach (float temp in celciusTemperatures_Lucas)
+            {
+                if (temp > 35)
+                {
+                    heatWave_Lucas.Add(temp);
+                    consecutiveDays++;
+
+                    if(consecutiveDays >= 3)
+                    {
+                        heatWaveList_Lucas.Add(heatWave_Lucas.ToArray());
+                    }                    
+                } else
+                {
+                    // not 35, streak broken, reset
+                    consecutiveDays = 0;
+                    heatWave_Lucas.Clear();
+                }
+            }
+
+            return heatWaveList_Lucas;
+            
+        }
+
+        private static string DisplayHeatWaves_Lucas(List<float[]> heatWaveList_Lucas)
+        {
+            string retStr = "";
+            float[] farenheitHeatWave_Lucas;
+            float[] celciusHeatWave_Lucas;
+
+            int celsiusColumnWidth = "Celsius °C".Length;
+            int fahrenheitColumnWidth = "Fahrenheit °F".Length;
+
+            foreach (float[] heatWave in heatWaveList_Lucas)
+            {
+                celsiusColumnWidth = Math.Max(celsiusColumnWidth, string.Join(", ", heatWave.Select(temp => $"{temp}°C")).Length);
+                fahrenheitColumnWidth = Math.Max(fahrenheitColumnWidth, string.Join(", ", ConvertToFahrenheit_Lucas(heatWave).Select(temp => $"{temp}°F")).Length);
+            }
+
+            string separator = new string('-', 20 + celsiusColumnWidth + fahrenheitColumnWidth + 6);
+
+
+            if (heatWaveList_Lucas.Count > 0)
+            {
+                retStr += $"Number of Heat Waves: {heatWaveList_Lucas.Count}\n";
+
+                retStr += $"{separator}\n";
+                retStr += $"{"Heat Wave", -20}{"Celsius °C".PadRight(celsiusColumnWidth)}{"Fahrenheit °F".PadRight(fahrenheitColumnWidth)}\n";
+                retStr += $"{separator}\n";
+
+                for (int i = 0; i < heatWaveList_Lucas.Count; i++)
+                {
+                    celciusHeatWave_Lucas = heatWaveList_Lucas[i];
+                    farenheitHeatWave_Lucas = ConvertToFahrenheit_Lucas(heatWaveList_Lucas[i].Select(temp => temp).ToArray());
+                 
+                    retStr += $"{i + 1, -20}{string.Join(", ", celciusHeatWave_Lucas).PadRight(celsiusColumnWidth)}{string.Join(", ", farenheitHeatWave_Lucas).PadRight(fahrenheitColumnWidth)}\n";
+                    retStr += $"{separator}\n";
+                }
+            }
+            else
+            {
+                retStr += "\tNo heatwaves detected.\n";
+            }
+
+            return retStr;
+        }
+
+        private static void Report_Lucas(float[] celciusTemperatures_Lucas)
+        {
+
+            float[] analysis = Analysis_Lucas(celciusTemperatures_Lucas);
+            float max = analysis[0];
+            float min = analysis[1];
+            float median = analysis[2];
+
+            Console.WriteLine("Exporting report...");
+            string filePath = "TemperatureReport_Lucas.txt";
+            using (StreamWriter writer = new StreamWriter(filePath))
+            {
+                writer.WriteLine("Lucas Vandermaarel's Temperature Report");
+                writer.WriteLine("--------------------------------------------------");
+                writer.WriteLine();
+
+                writer.WriteLine("Data");
+                writer.WriteLine("--------------------------------------------------");
+                writer.WriteLine($"{"Index",-10}{"Celsius °C",-15}{"Fahrenheit °F",-15}");
+                writer.WriteLine("--------------------------------------------------");
+
+                for (int i = 0; i < celciusTemperatures_Lucas.Length; i++)
+                {
+                    writer.WriteLine($"{i + 1,-10}{celciusTemperatures_Lucas[i],-15:F1}{ConvertToFahrenheit_Lucas(celciusTemperatures_Lucas)[i],-15:F1}");
+                }
+
+                writer.WriteLine("--------------------------------------------------");
+                writer.WriteLine();
+
+                writer.WriteLine("Summary");
+                writer.WriteLine("--------------------------------------------------");
+                writer.WriteLine($"Generated On: {DateTime.Now}\n");
+                writer.WriteLine($"Highest Temperature: {max}°C");
+                writer.WriteLine($"Lowest Temperature: {min}°C");
+                writer.WriteLine($"Median Temperature: {median}°C");
+                writer.WriteLine(DisplayHeatWaves_Lucas(Heatwave_Lucas(celciusTemperatures_Lucas)));
+                writer.WriteLine();
+            }
+            Console.WriteLine($"Report exported to {filePath}");
+        }
+
+        private static float[] Analysis_Lucas(float[] celciusTemperatures_Lucas)
+        {
+            // max
+            float max = celciusTemperatures_Lucas.Max();
+            // min
+            float min = celciusTemperatures_Lucas.Min();
+            // median
+            float median = 0;
+            float[] sortedTemperatures_Lucas = celciusTemperatures_Lucas.OrderBy(temp => temp).ToArray();
+
+            if (sortedTemperatures_Lucas.Length % 2 == 0)
+            {
+                // in case of odd number of elements
+                median = (sortedTemperatures_Lucas[sortedTemperatures_Lucas.Length / 2 - 1] + sortedTemperatures_Lucas[sortedTemperatures_Lucas.Length / 2]) / 2;
+            }
+            else
+            {
+                // in case of even number of elements
+                median = sortedTemperatures_Lucas[sortedTemperatures_Lucas.Length / 2];
+            }
+
+            return [max, min, median];
+        }
+
+        private static float[] ConvertToFahrenheit_Lucas(float[] celciusTemperatures_Lucas)
+        {
+            float[] fahrenheitTemperatures = new float[celciusTemperatures_Lucas.Length];
+            for (int i = 0; i < celciusTemperatures_Lucas.Length; i++)
+            {
+                fahrenheitTemperatures[i] = (celciusTemperatures_Lucas[i] * 9 / 5) + 32;
+            }
+            
+            return fahrenheitTemperatures;
+        }
+    }
+}
