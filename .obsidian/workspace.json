@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.0026054382324
+    "width": 345.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -159,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62365d481875684d",
+  "active": "12a250371f46e0e9",
   "lastOpenFiles": [
+    "Drawing 2024-12-18 23.36.53.excalidraw.md",
     "Centennial/Term 2/COMP122/For Classes Vs for assignments.md",
     "Centennial/Term 2/COMP125/Assignment4/img/cuteOtter.webp",
     "Centennial/Term 2/COMP125/Assignment4/img/4ecaf631e67b45897dcc7460b97359a8.webp",
@@ -197,7 +199,6 @@
     "Untitled.md",
     "Centennial/Term 2/COMP123/Week 1/lab02 submission.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
-    "Drawing 2024-12-18 23.36.53.excalidraw.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-12-11 19.19.32.excalidraw.md",
     "Centennial/Term 1/TODO.md",
     "eStudentVerification/AspenExport.md",
