@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bb5f8d9730ea31b9",
+        "id": "87b6a85053067c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "12a250371f46e0e9",
+            "id": "c091566558aa7e22",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Drawing 2024-12-18 23.36.53.excalidraw.md"
+                "file": "Drawing 2025-05-29 12.35.13.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-18 23.36.53.excalidraw"
+              "title": "Drawing 2025-05-29 12.35.13.excalidraw"
             }
           }
         ]
@@ -160,8 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12a250371f46e0e9",
+  "active": "c091566558aa7e22",
   "lastOpenFiles": [
+    "Drawing 2025-05-29 12.35.13.excalidraw.md",
+    "Untitled 1.md",
+    "Drawing 2024-12-18 23.36.53.excalidraw.md",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~$iz2-Potential-Issues-LucasVandermaarel.docx",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL1545.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD1541.tmp",
@@ -172,8 +175,6 @@
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL0003.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD0002.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL0001.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD0000.tmp",
-    "Drawing 2024-12-18 23.36.53.excalidraw.md",
     "Pasted Image 20250520180343_217.png",
     "Centennial/Term 2/COMP122/For Classes Vs for assignments.md",
     "Centennial/Term 2/COMP125/Assignment4/img/cuteOtter.webp",
@@ -207,7 +208,6 @@
     "Ami Chatbot/Ami-Chatbot.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-30 15.47.28.excalidraw.md",
     "Personal/Recipes.md",
-    "Ami Chatbot/Chat with Robert and Jason.md",
     "Untitled.canvas"
   ]
 }
