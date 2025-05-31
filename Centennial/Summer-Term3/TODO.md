@@ -1,0 +1,9 @@
+- [ ] Get logged into domain
+- [ ] Put up simple web page for rocky commercial roofing
+- [ ] Do MATH214 Quiz and test preparation (Weeks 1 - 4)
+	- [ ] Especially Cryptography
+	- [ ] Make cheatsheets
+- [ ] **MATH214** - Quiz 4 (Tues, June 3rd)
+- [ ] **MATH214** - Test 1 (Wed, June 4th)
+- [ ] **COMP214(DB)** - Quiz 4 Subqueries (Wed, June 11th)
+- [ ] **COMP214(DB)** - Assignment #1 (Sunday, June 15th)

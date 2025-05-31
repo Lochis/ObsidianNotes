@@ -11,15 +11,30 @@
             "id": "c091566558aa7e22",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Drawing 2025-05-29 12.35.13.excalidraw.md"
+                "file": "Centennial/Summer-Term3/Pics/Pasted image 20240911190914.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-29 12.35.13.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted image 20240911190914"
+            }
+          },
+          {
+            "id": "af420b22d0c26432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Assignments information.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignments information"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.0026054382324,
-    "collapsed": true
+    "width": 345.0026054382324
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -160,54 +174,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c091566558aa7e22",
+  "active": "af420b22d0c26432",
   "lastOpenFiles": [
-    "Drawing 2025-05-29 12.35.13.excalidraw.md",
-    "Untitled 1.md",
-    "Drawing 2024-12-18 23.36.53.excalidraw.md",
+    "Centennial/OSAP.md",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Assignments information.md",
+    "Centennial/Summer-Term3/TODO.md",
+    "Centennial/Summer-Term3/~$age does not exist.docx",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~$iz2-Potential-Issues-LucasVandermaarel.docx",
+    "Centennial/Summer-Term3/Untitled.md",
+    "Centennial/Summer-Term3/Pics/Pasted image 20240911190914.png",
+    "Centennial/Summer-Term3/Pics",
+    "Centennial/Summer-Term3/Pics/Pasted Image 20250520180343_217.png",
+    "Centennial/Summer-Term3/Pics/Pasted image 20250128171323.png",
+    "Centennial/Summer-Term3/Pics/Pasted image 20250117164350.png",
+    "Centennial/Summer-Term3/Pics/Pasted image 20250117164132.png",
+    "Centennial/Summer-Term3/Pics/Pasted image 20250117141838.png",
+    "Centennial/Summer-Term3/Pics/Pasted Image 20241104112416_614.png",
+    "Pasted image 20241007182859.png",
+    "Pasted image 20241022160313.png",
+    "Centennial/Summer-Term3/Pics/Pasted image 20240918234204.png",
+    "Centennial/Summer-Term3/MATH214/Drawing 2024-12-18 23.36.53.excalidraw.md",
+    "Centennial/Summer-Term3/MATH214",
+    "Centennial/Summer-Term3/MATH214/Drawing 2025-05-29 12.35.13.excalidraw.md",
+    "2024-Jul-26-Grocery.pdf",
+    "2024-08-02.md",
+    "2024-08-09.md",
+    "Untitled 1.md",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL1545.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD1541.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL3561.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD3561.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL0005.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD0004.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL0003.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD0002.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL0001.tmp",
-    "Pasted Image 20250520180343_217.png",
     "Centennial/Term 2/COMP122/For Classes Vs for assignments.md",
-    "Centennial/Term 2/COMP125/Assignment4/img/cuteOtter.webp",
-    "Centennial/Term 2/COMP125/Assignment4/img/4ecaf631e67b45897dcc7460b97359a8.webp",
     "Centennial/Term 2/TODO.md",
-    "Pasted image 20250314170950.png",
     "Centennial/Term 2/COMP123/Important Notes.md",
     "Centennial/Term 2/COMP225/Class diagram and crc cards.md",
-    "Centennial/Term 2/COMP123/midterm/issue2.png",
-    "Centennial/Term 2/COMP123/midterm/Issue1.png",
     "Centennial/Term 2/COMP225/Basic Notes.md",
     "Centennial/Term 2/COMP225/CRC Cards.md",
     "Centennial/Term 2/COMP225/Class-Based Modeling example.md",
-    "Pasted image 20250303144543.png",
-    "Pasted image 20250303160312.png",
-    "Pasted image 20250303155403.png",
-    "Pasted image 20250303151633.png",
-    "Centennial/OSAP.md",
     "Centennial/Term 2/COMP123/Week 4/Serialization.md",
     "Centennial/Term 2/COMP123/Week 3/Week3.md",
     "Centennial/Term 2/COMP122/Select Statement Syntax.md",
     "Centennial/Term 2/COMP123/Week 2/Lab Notes.md",
     "Centennial/Term 2/COMP123/Week2/Untitled.md",
-    "Untitled.md",
     "Centennial/Term 2/COMP123/Week 1/lab02 submission.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-12-11 19.19.32.excalidraw.md",
     "Centennial/Term 1/TODO.md",
     "eStudentVerification/AspenExport.md",
-    "eStudentVerification/DOB_SOURCE_DOC.md",
-    "Ami Chatbot/Ami-Chatbot.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-11-30 15.47.28.excalidraw.md",
-    "Personal/Recipes.md",
     "Untitled.canvas"
   ]
 }
