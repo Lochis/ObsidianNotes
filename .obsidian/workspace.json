@@ -32,9 +32,21 @@
               "icon": "lucide-file",
               "title": "Assignments information"
             }
+          },
+          {
+            "id": "cda0234a93f63bcb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Summer-Term3/MATH214/Drawing 2025-06-01 10.08.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-01 10.08.38.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.0026054382324
+    "width": 345.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -174,16 +187,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af420b22d0c26432",
+  "active": "cda0234a93f63bcb",
   "lastOpenFiles": [
-    "Centennial/OSAP.md",
+    "Centennial/Summer-Term3/MATH214/~WRL2646.tmp",
+    "Centennial/Summer-Term3/MATH214/~WRD0005.tmp",
+    "Centennial/Summer-Term3/MATH214/Drawing 2024-12-18 23.36.53.excalidraw.md",
+    "Centennial/Summer-Term3/MATH214/Math Test 1 Notes.md",
+    "Centennial/Summer-Term3/MATH214/~WRL0003.tmp",
+    "Centennial/Summer-Term3/MATH214/~WRD0002.tmp",
+    "Centennial/Summer-Term3/MATH214/Drawing 2025-06-01 10.08.38.excalidraw.md",
+    "Centennial/Summer-Term3/MATH214/~$th_Test1_Notes.docx",
+    "Centennial/Summer-Term3/~$th_Test1_Notes.docx",
+    "Centennial/Summer-Term3/~WRL0001.tmp",
+    "Centennial/Summer-Term3/~WRD0000.tmp",
+    "Centennial/Summer-Term3/MATH214/Math_Test1_Notes.docx",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Assignments information.md",
+    "Centennial/OSAP.md",
     "Centennial/Summer-Term3/TODO.md",
     "Centennial/Summer-Term3/~$age does not exist.docx",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~$iz2-Potential-Issues-LucasVandermaarel.docx",
     "Centennial/Summer-Term3/Untitled.md",
     "Centennial/Summer-Term3/Pics/Pasted image 20240911190914.png",
-    "Centennial/Summer-Term3/Pics",
     "Centennial/Summer-Term3/Pics/Pasted Image 20250520180343_217.png",
     "Centennial/Summer-Term3/Pics/Pasted image 20250128171323.png",
     "Centennial/Summer-Term3/Pics/Pasted image 20250117164350.png",
@@ -193,18 +217,10 @@
     "Pasted image 20241007182859.png",
     "Pasted image 20241022160313.png",
     "Centennial/Summer-Term3/Pics/Pasted image 20240918234204.png",
-    "Centennial/Summer-Term3/MATH214/Drawing 2024-12-18 23.36.53.excalidraw.md",
-    "Centennial/Summer-Term3/MATH214",
     "Centennial/Summer-Term3/MATH214/Drawing 2025-05-29 12.35.13.excalidraw.md",
-    "2024-Jul-26-Grocery.pdf",
     "2024-08-02.md",
     "2024-08-09.md",
     "Untitled 1.md",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL1545.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD1541.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL3561.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD3561.tmp",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL0005.tmp",
     "Centennial/Term 2/COMP122/For Classes Vs for assignments.md",
     "Centennial/Term 2/TODO.md",
     "Centennial/Term 2/COMP123/Important Notes.md",
@@ -219,9 +235,6 @@
     "Centennial/Term 2/COMP123/Week2/Untitled.md",
     "Centennial/Term 2/COMP123/Week 1/lab02 submission.md",
     "Drawing 2024-10-07 16.07.18.excalidraw.md",
-    "Centennial/Term 1/MATH Functions & Number Systems/Drawing 2024-12-11 19.19.32.excalidraw.md",
-    "Centennial/Term 1/TODO.md",
-    "eStudentVerification/AspenExport.md",
     "Untitled.canvas"
   ]
 }
