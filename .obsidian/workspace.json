@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Assignments information.md",
+                "file": "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/SQL Joins Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignments information"
+              "title": "SQL Joins Cheat Sheet"
             }
           },
           {
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.0026054382324,
-    "collapsed": true
+    "width": 345.0026054382324
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -187,25 +186,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cda0234a93f63bcb",
+  "active": "af420b22d0c26432",
   "lastOpenFiles": [
-    "Centennial/Summer-Term3/MATH214/~WRL2646.tmp",
-    "Centennial/Summer-Term3/MATH214/~WRD0005.tmp",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL3979.tmp",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD3975.tmp",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL2611.tmp",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD2607.tmp",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Assignment1.sql",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Assignments information.md",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/SQL Joins Cheat Sheet.md",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~$casVandermaarel_Assigment#1_ (SubQ, Joins, Analytics) - V2.docx",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL1458.tmp",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD1450.tmp",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/LucasVandermaarel_Assigment#1_ (SubQ, Joins, Analytics) - V2.docx",
+    "Centennial/Summer-Term3/MATH214/Week 6 Counting Method.md",
+    "Centennial/Summer-Term3/MATH214/Drawing 2025-06-01 10.08.38.excalidraw.md",
+    "Centennial/Summer-Term3/MATH214/~WRL2334.tmp",
+    "Centennial/Summer-Term3/MATH214/~WRD2330.tmp",
     "Centennial/Summer-Term3/MATH214/Drawing 2024-12-18 23.36.53.excalidraw.md",
     "Centennial/Summer-Term3/MATH214/Math Test 1 Notes.md",
-    "Centennial/Summer-Term3/MATH214/~WRL0003.tmp",
-    "Centennial/Summer-Term3/MATH214/~WRD0002.tmp",
-    "Centennial/Summer-Term3/MATH214/Drawing 2025-06-01 10.08.38.excalidraw.md",
-    "Centennial/Summer-Term3/MATH214/~$th_Test1_Notes.docx",
-    "Centennial/Summer-Term3/~$th_Test1_Notes.docx",
-    "Centennial/Summer-Term3/~WRL0001.tmp",
-    "Centennial/Summer-Term3/~WRD0000.tmp",
-    "Centennial/Summer-Term3/MATH214/Math_Test1_Notes.docx",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Assignments information.md",
     "Centennial/OSAP.md",
     "Centennial/Summer-Term3/TODO.md",
-    "Centennial/Summer-Term3/~$age does not exist.docx",
-    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~$iz2-Potential-Issues-LucasVandermaarel.docx",
     "Centennial/Summer-Term3/Untitled.md",
     "Centennial/Summer-Term3/Pics/Pasted image 20240911190914.png",
     "Centennial/Summer-Term3/Pics/Pasted Image 20250520180343_217.png",
@@ -233,8 +234,6 @@
     "Centennial/Term 2/COMP122/Select Statement Syntax.md",
     "Centennial/Term 2/COMP123/Week 2/Lab Notes.md",
     "Centennial/Term 2/COMP123/Week2/Untitled.md",
-    "Centennial/Term 2/COMP123/Week 1/lab02 submission.md",
-    "Drawing 2024-10-07 16.07.18.excalidraw.md",
     "Untitled.canvas"
   ]
 }
