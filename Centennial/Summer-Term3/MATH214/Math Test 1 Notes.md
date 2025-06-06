@@ -135,6 +135,12 @@ $$l = (p-1)(q-1) \ \ \ \ \ \ \ = 16 × 4 = 64$$
 **Find d:** 
 $$d= \frac{lx + 1}e$$
 $$d=\frac{64x + 1}{119}$$
+or use L to find the private key d such that:
+$$d \equiv e^{-1} \ mod \ L $$
+e = 11, L = 32
+$$d \equiv 11^{-1} mod \ 32 $$
+
+
 Try many numbers, start from 1 and go up until whole number: 
 
 
