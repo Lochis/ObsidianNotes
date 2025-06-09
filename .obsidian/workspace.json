@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "Math Test 1 Addition for d"
             }
+          },
+          {
+            "id": "3a7e85bae8112ab9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Summer-Term3/MATH214/week 6 section 10.1 homework.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "week 6 section 10.1 homework"
+            }
+          },
+          {
+            "id": "bd67fcd73b8ec0be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Summer-Term3/MATH214/week 6 section 10.2 homework.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "week 6 section 10.2 homework"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.0026054382324
+    "width": 345.0026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -161,22 +187,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3e0add88f2f6053",
+  "active": "bd67fcd73b8ec0be",
   "lastOpenFiles": [
+    "Centennial/Summer-Term3/COMP301-Unix/~WRL0003.tmp",
+    "Centennial/Summer-Term3/COMP301-Unix/~WRD0002.tmp",
+    "Centennial/Summer-Term3/COMP301-Unix/~WRL0001.tmp",
+    "Centennial/Summer-Term3/COMP301-Unix/~WRD0000.tmp",
+    "Centennial/Summer-Term3/COMP301-Unix/~$signment2_LucasVandermaarel.docx",
+    "Centennial/Summer-Term3/MATH214/week 6 section 10.1 homework.md",
+    "Centennial/Summer-Term3/MATH214/week 6 section 10.2 homework.md",
+    "Centennial/Summer-Term3/MATH214/Math Test 1 Addition for d.md",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL4055.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD0005.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRL0003.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/~WRD0002.tmp",
     "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Outer var used in inner block.excalidraw.md",
-    "Centennial/Summer-Term3/MATH214/Math Test 1 Addition for d.md",
     "Centennial/Summer-Term3/MATH214/Math Test 1 Notes.md",
     "Centennial/Summer-Term3/COMP301-Unix/~WRD3693.tmp",
     "Centennial/Summer-Term3/COMP301-Unix/LucasVandermaarel_Assignment2.sh",
-    "Centennial/Summer-Term3/COMP301-Unix/~WRL0005.tmp",
-    "Centennial/Summer-Term3/COMP301-Unix/~WRD0004.tmp",
-    "Centennial/Summer-Term3/COMP301-Unix/~$signment2_PartA_LucasVandermaarel.docx",
-    "Centennial/Summer-Term3/COMP301-Unix/~WRL0001.tmp",
-    "Centennial/Summer-Term3/COMP301-Unix/~WRD0000.tmp",
     "Centennial/Summer-Term3/COMP301-Unix/Commands to run for security.md",
     "Centennial/Summer-Term3/MATH214/Drawing 2025-06-01 10.08.38.excalidraw.md",
     "Centennial/Summer-Term3/Pics/Pasted image 20240911190914.png",
@@ -207,8 +235,6 @@
     "Centennial/Term 2/COMP225/Class diagram and crc cards.md",
     "Centennial/Term 2/COMP225/Basic Notes.md",
     "Centennial/Term 2/COMP225/CRC Cards.md",
-    "Centennial/Term 2/COMP225/Class-Based Modeling example.md",
-    "Centennial/Term 2/COMP123/Week 4/Serialization.md",
-    "Centennial/Term 2/COMP123/Week 3/Week3.md"
+    "Centennial/Term 2/COMP225/Class-Based Modeling example.md"
   ]
 }
