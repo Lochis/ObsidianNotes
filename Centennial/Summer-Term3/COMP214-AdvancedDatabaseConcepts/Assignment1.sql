@@ -19,7 +19,7 @@ WHERE o.order# IN (
 
 
 -- 2.
-SELECT customer#, count(*)
+SELECT customer#, count(*) as "Orders Delayed"
 FROM JL_ORDERS
 WHERE shipdate-orderdate >= 1
 GROUP BY customer#
@@ -28,10 +28,36 @@ HAVING COUNT(*) >= 2;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -- 3.
-SELECT SUM(quantity)
+SELECT SUM(quantity)as "Total Sold"
 FROM JL_ORDERITEMS
 WHERE ISBN = '3437212490';
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -86,6 +112,19 @@ FROM HR_DEPARTMENTS d
 JOIN HR_LOCATIONS l ON d.location_id = l.location_id
 JOIN HR_COUNTRIES c ON l.country_id = c.country_id
 ORDER BY l.location_id;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
