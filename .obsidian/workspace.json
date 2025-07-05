@@ -58,9 +58,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-07-01 14.30.02.excalidraw"
             }
+          },
+          {
+            "id": "e8f091065566a937",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Summer-Term3/MATH214/week 8 section 11.1,2,3,5.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "week 8 section 11.1,2,3,5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -201,9 +213,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a19581fba7e05ca",
+  "active": "e8f091065566a937",
   "lastOpenFiles": [
     "Centennial/Summer-Term3/MATH214/Drawing 2025-07-01 14.30.02.excalidraw.md",
+    "Centennial/Summer-Term3/MATH214/week 8 section 11.1,2,3,5.md",
     "Centennial/Summer-Term3/MATH214/Week 7 Section 10.5 homework.md",
     "Centennial/Summer-Term3/MATH214/Major Quiz 2 Notes.md",
     "Centennial/Summer-Term3/MATH214/Quiz 5 - Test 2 Notes.md",
@@ -248,7 +261,6 @@
     "Untitled 1.md",
     "Centennial/Term 2/COMP122/For Classes Vs for assignments.md",
     "Centennial/Term 2/TODO.md",
-    "Centennial/Term 2/COMP123/Important Notes.md",
-    "Centennial/Term 2/COMP225/Class diagram and crc cards.md"
+    "Centennial/Term 2/COMP123/Important Notes.md"
   ]
 }
