@@ -63,12 +63,14 @@
             "id": "e8f091065566a937",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Centennial/Summer-Term3/MATH214/week 8 section 11.1,2,3,5.md"
+                "file": "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Cursors Homework.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "week 8 section 11.1,2,3,5"
+              "icon": "lucide-file",
+              "title": "Cursors Homework"
             }
           }
         ],
@@ -129,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.0026054382324,
-    "collapsed": true
+    "width": 345.0026054382324
   },
   "right": {
     "id": "c95fc1ffe4464b1e",
@@ -215,8 +216,10 @@
   },
   "active": "e8f091065566a937",
   "lastOpenFiles": [
-    "Centennial/Summer-Term3/MATH214/Drawing 2025-07-01 14.30.02.excalidraw.md",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Lucas_Vandermaarel_Cursors_Homework.sql",
     "Centennial/Summer-Term3/MATH214/week 8 section 11.1,2,3,5.md",
+    "Centennial/Summer-Term3/COMP214-AdvancedDatabaseConcepts/Cursors Homework.md",
+    "Centennial/Summer-Term3/MATH214/Drawing 2025-07-01 14.30.02.excalidraw.md",
     "Centennial/Summer-Term3/MATH214/Week 7 Section 10.5 homework.md",
     "Centennial/Summer-Term3/MATH214/Major Quiz 2 Notes.md",
     "Centennial/Summer-Term3/MATH214/Quiz 5 - Test 2 Notes.md",
@@ -259,8 +262,6 @@
     "2024-08-02.md",
     "2024-08-09.md",
     "Untitled 1.md",
-    "Centennial/Term 2/COMP122/For Classes Vs for assignments.md",
-    "Centennial/Term 2/TODO.md",
-    "Centennial/Term 2/COMP123/Important Notes.md"
+    "Centennial/Term 2/COMP122/For Classes Vs for assignments.md"
   ]
 }
