@@ -15,7 +15,30 @@
 */
 
 
+DECLARE
+    CURSOR emp_cursor IS
+        SELECT e.first_name, e.last_name, e.salary, d.department_name, l.city
+        FROM HR_EMPLOYEES e 
+        JOIN HR_DEPARTMENTS d ON e.department_id = d.department_id
+        JOIN HR_LOCATIONS l ON d.location_id = l.location_id
+        WHERE l.city = 'Seattle';
+        
+    emp_record emp_cursor%ROWTYPE;
 
+BEGIN
+    OPEN emp_cursor;
+    
+    FOR emp_record IN emp_cursor LOOP
+        IF emp_record.salary < 7000 THEN emp_record.salary := emp_record.salary + 300;
+        ELSIF emp_record.salary >= 7000 THEN emp_record.salary := emp_record.salary + 100;
+        END IF;
+    END LOOP;
+    
+    --COMMIT;
+    
+    CLOSE emp_cursor;
+
+END;
 
 
 
