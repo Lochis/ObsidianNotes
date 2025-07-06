@@ -17,31 +17,60 @@
 
 DECLARE
     CURSOR emp_cursor IS
-        SELECT e.first_name, e.last_name, e.salary, d.department_name, l.city
+        -- in order to actually select employee in the later record, employee_id is best to use.
+        SELECT e.employee_id, e.first_name, e.last_name, e.salary, d.department_name, l.city
         FROM HR_EMPLOYEES e 
         JOIN HR_DEPARTMENTS d ON e.department_id = d.department_id
         JOIN HR_LOCATIONS l ON d.location_id = l.location_id
         WHERE l.city = 'Seattle';
         
     emp_record emp_cursor%ROWTYPE;
+    -- instead of re-selecting the same SELECT statement as emp_cursor, 
+    -- updating salary and using this variable to store the increased salary for log.
+    v_increased_salary NUMBER;
 
 BEGIN
-    OPEN emp_cursor;
+    
+    -- don't need OPEN emp_cursor because for loop automatically opens it.
+    -- also don't need FETCH or CLOSE.
     
     FOR emp_record IN emp_cursor LOOP
-        IF emp_record.salary < 7000 THEN emp_record.salary := emp_record.salary + 300;
-        ELSIF emp_record.salary >= 7000 THEN emp_record.salary := emp_record.salary + 100;
+    
+        DBMS_OUTPUT.PUT_LINE('Employee: ' || emp_record.first_name || ' ' || emp_record.last_name || ' (' || emp_record.employee_id || ') Salary: ' || emp_record.salary);
+    
+        IF emp_record.salary < 7000 THEN 
+            UPDATE HR_EMPLOYEES
+            SET salary = salary + 300
+            WHERE employee_id = emp_record.employee_id;
+            
+            v_increased_salary := emp_record.salary + 300;
+            
+            DBMS_OUTPUT.PUT_LINE('Salary less than 7000, adding 300');
+            DBMS_OUTPUT.PUT_LINE('Employee: ' || emp_record.first_name || ' ' || emp_record.last_name || ' (' || emp_record.employee_id || ') Salary: ' || v_increased_salary);
+            DBMS_OUTPUT.PUT_LINE('------------------------------------------');
+           
+        ELSIF emp_record.salary >= 7000 THEN
+            UPDATE HR_EMPLOYEES
+            SET salary = salary + 100
+            WHERE employee_id = emp_record.employee_id;
+            
+            v_increased_salary := emp_record.salary + 100;
+            
+            DBMS_OUTPUT.PUT_LINE('Salary is 7000 or more, adding 100');
+            DBMS_OUTPUT.PUT_LINE('Employee: ' || emp_record.first_name || ' ' || emp_record.last_name || ' (' || emp_record.employee_id || ') Salary: ' || v_increased_salary);
+            DBMS_OUTPUT.PUT_LINE('------------------------------------------');
         END IF;
     END LOOP;
     
+    -- Am not commiting because I do not want this to actually change the database.
     --COMMIT;
     
-    CLOSE emp_cursor;
-
 END;
 
+ROLLBACK;
 
 
+SELECT employee_id, first_name, last_name, salary from HR_EMPLOYEES;
 
 
 /* 
