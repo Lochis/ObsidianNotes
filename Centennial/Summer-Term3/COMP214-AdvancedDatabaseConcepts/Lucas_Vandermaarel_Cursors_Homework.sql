@@ -70,7 +70,11 @@ END;
 ROLLBACK;
 
 
-SELECT employee_id, first_name, last_name, salary from HR_EMPLOYEES;
+ SELECT e.employee_id, e.first_name, e.last_name, e.salary, d.department_name, l.city
+        FROM HR_EMPLOYEES e 
+        JOIN HR_DEPARTMENTS d ON e.department_id = d.department_id
+        JOIN HR_LOCATIONS l ON d.location_id = l.location_id
+        WHERE l.city = 'Seattle';
 
 
 /* 
@@ -97,3 +101,40 @@ SELECT employee_id, first_name, last_name, salary from HR_EMPLOYEES;
             - Print eligibility and the credit amount
 
 */
+
+
+DECLARE 
+
+    CURSOR cust_cursor IS SELECT * FROM JL_CUSTOMERS;
+    
+    cust_record cust_cursor%ROWTYPE;
+    
+    v_credit NUMBER;
+BEGIN
+    
+    FOR cust_record IN cust_cursor LOOP
+        IF cust_record.email IS NOT NULL THEN
+            IF cust_record.region = 'NW' THEN v_credit := 5;
+            ELSIF cust_record.region = 'SE' THEN v_credit := 7;
+            ELSIF cust_record.region = 'N' THEN v_credit := 10;
+            ELSE v_credit := 2;
+            END IF;
+            
+            DBMS_OUTPUT.PUT_LINE(cust_record.firstname || ' ' || cust_record.lastname || ' is eligible for the credit amount of ' || v_credit);
+            
+        ELSE DBMS_OUTPUT.PUT_LINE(cust_record.firstname || ' ' || cust_record.lastname || ' is NOT eligible for online campaign');
+        END IF;
+    
+    END LOOP;
+
+END;
+
+
+
+
+
+
+
+
+
+SELECT * FROM JL_CUSTOMERS;
