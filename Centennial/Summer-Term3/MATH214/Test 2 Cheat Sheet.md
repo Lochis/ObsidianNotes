@@ -140,6 +140,23 @@ $P(\text{Red}) = \frac{26}{52} = \frac{1}{2}$
 
 ---
 
+Six people N={A,B,C,N,O,R}N = \{ A, B, C, N, O, R \}N={A,B,C,N,O,R} form a club. 
+
+If they choose a president **randomly**, find the **odds against Ryan** (R) becoming president.
+
+**✅ Solution**
+
+There are a total of 666 members.
+
+Ryan has a $\frac{1}{6}$​ chance of being chosen, so the chance that **Ryan is _not_ chosen** is:
+
+$\frac{5}{6}$
+
+The **odds against Ryan** are the ratio of the number of ways Ryan is _not_ chosen to the number of ways he _is_ chosen:
+
+$\text{Odds against Ryan} = \frac{5}{1} = 5:1$
+
+---
 ### ⚖️ 11.2 – "Not" and "Or" in Probability
 
 #### Addition Rule:
