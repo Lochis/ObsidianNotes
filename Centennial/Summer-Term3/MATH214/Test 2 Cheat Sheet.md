@@ -176,6 +176,12 @@ $P(A) = 0.5, P(B) = 0.4, P(A ∩ B) = 0.2:$
 
 $P(A \cup B) = 0.5 + 0.4 - 0.2 = 0.7$
 
+
+
+Use the multiplication rule of probability. If A and B are any two​ events, then the following formula holds.
+``
+​P(A and B) =​P(A) • ​P(B ∣ ​A)
+
 ---
 
 ### 🔗 11.3 – Conditional Probability and "And"
