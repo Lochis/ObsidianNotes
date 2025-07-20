@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Laid out"
             }
+          },
+          {
+            "id": "4d55a9be91135779",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Centennial/Summer-Term3/MATH214/Drawing 2025-07-20 15.19.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-20 15.19.35.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,10 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8f091065566a937",
+  "active": "4d55a9be91135779",
   "lastOpenFiles": [
-    "Centennial/Summer-Term3/MATH214/Test 2 Cheat Sheet.md",
     "Centennial/Study Plan/Laid out.md",
+    "Centennial/Summer-Term3/MATH214/Drawing 2025-07-20 15.19.35.excalidraw.md",
+    "Centennial/Summer-Term3/MATH214/Test 2 Cheat Sheet.md",
     "Centennial/Study Plan",
     "C++",
     "Centennial/Summer-Term3/MATH214/Test 2 Cheat Sheet.pdf",
@@ -209,7 +223,6 @@
     "Centennial/Summer-Term3/Pics/Pasted Image 20241104112416_614.png",
     "Pasted image 20241007182859.png",
     "Centennial/Summer-Term3/MATH214/Drawing 2025-05-29 12.35.13.excalidraw.md",
-    "2024-08-02.md",
-    "2024-08-09.md"
+    "2024-08-02.md"
   ]
 }
